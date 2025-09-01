@@ -368,3 +368,107 @@ ST_TalkResult/MAKO_MIDDLE_SEGMENT2,"いいバトルだったと思います
 集団のなかでバトルするって大変ですね・・",
 ST_TalkResult/MAKO_MIDDLE_SEGMENT3,"すごい激しいバトルでしたね
 次はあなたが1位になれると信じています",
+ST_TalkResult/KAI_WIN_SEGMENT1,いいバトルだ  やるじゃねえか,
+ST_TalkResult/KAI_WIN_SEGMENT2,"いいバトルだ
+自信を感じる走りだったぜ！",
+ST_TalkResult/KAI_WIN_SEGMENT3,"相変わらずいい走りをするな！
+スキがないぜ！",
+ST_TalkResult/KAI_WIN_SEGMENT4,"理論とか置いといて ガキみたいにガムシャラな走りだったな！
+あんたが負ける理由を探すほうがむずかしいぜ・・！",
+ST_TalkResult/KAI_BIGWIN_SEGMENT1,"いい走りだ 自身持っていいぜ
+もっと強い相手に挑戦してもいいんじゃないか？",
+ST_TalkResult/KAI_BIGWIN_SEGMENT2,"圧勝じゃねえか
+オレが見てもホレボレする走りだったぜ",
+ST_TalkResult/KAI_BIGWIN_SEGMENT3,"相変わらずの走りだぜ！
+それだけ速けりゃ文句はねえ！",
+ST_TalkResult/KAI_BIGWIN_SEGMENT4,"理論とか置いといて ガキみたいにガムシャラな走りだったな！
+あんたが負ける理由を探すほうがむずかしいぜ・・！",
+ST_TalkResult/KAI_JUSTWIN_SEGMENT1,しびれるようなバトルだったな,
+ST_TalkResult/KAI_JUSTWIN_SEGMENT2,"あの展開でもしっかり勝つなんてな
+さすがだぜ",
+ST_TalkResult/KAI_JUSTWIN_SEGMENT3,"まったく ひやひやさせやがって
+あんたなら勝つとは思ってたけどな",
+ST_TalkResult/KAI_JUSTLOSE_SEGMENT1,惜しいな・・もう一歩だったな,
+ST_TalkResult/KAI_JUSTLOSE_SEGMENT2,"惜しいな・・
+これをバネにウデをみがくんだ",
+ST_TalkResult/KAI_JUSTLOSE_SEGMENT3,"しかたねえさ・・結果は結果・・
+あんたが全力を出したことはこのオレが認めるよ・・！",
+ST_TalkResult/KAI_BIGLOSE_SEGMENT1,"悪くないバトルだったぜ！
+もっと自身を持ってアクセルを踏みぬくんだ！",
+ST_TalkResult/KAI_BIGLOSE_SEGMENT2,"残念だったな・・
+けど あんたの挑戦する姿勢 きらいじゃないぜ",
+ST_TalkResult/KAI_BIGLOSE_SEGMENT3,"そんなもんじゃないはずだろ？
+自分の走りに不安を感じたら 勝負は負けだぜ",
+ST_TalkResult/KAI_MIDDLE_SEGMENT1,"集団でのバトルも経験の一つだ
+サーキットの世界じゃ3台以上は当たり前だからな！",
+ST_TalkResult/KAI_MIDDLE_SEGMENT2,"集団でのバトルは
+しかけるタイミングを見極められるかで勝負が決まるぜ",
+ST_TalkResult/KAI_MIDDLE_SEGMENT3,"いいバトルだったな
+あともう一押しができればサーキットでも通用するぜ",
+ST_TalkResult/DAIKI_WIN_SEGMENT1,ほう‥思ったよりはやるようだな,
+ST_TalkResult/DAIKI_WIN_SEGMENT2,なかなかやるようだな,
+ST_TalkResult/DAIKI_WIN_SEGMENT3,このまんま東堂塾のバトルに参加しても通用するかもな,
+ST_TalkResult/DAIKI_WIN_SEGMENT4,"相変わらずクレバーな走りをする奴だ
+きっとおまえの中で積み上げた理論があるんだろうな",
+ST_TalkResult/DAIKI_BIGWIN_SEGMENT1,ほう‥思ったよりはずっとまともそうだぜ,
+ST_TalkResult/DAIKI_BIGWIN_SEGMENT2,"そんな相手じゃ満足しないだろう？
+もっと強いやつでもいいんじゃないか？",
+ST_TalkResult/DAIKI_BIGWIN_SEGMENT3,"ったく・・
+このまんま東堂塾のバトルに参加しても通用するレベルだぜ",
+ST_TalkResult/DAIKI_BIGWIN_SEGMENT4,"相変わらずクレバーな走りをする奴だ
+きっとおまえの中で積み上げた理論があるんだろうな",
+ST_TalkResult/DAIKI_JUSTWIN_SEGMENT1,ギリギリだが・・思ったよりはやるようだな,
+ST_TalkResult/DAIKI_JUSTWIN_SEGMENT2,紙一重のチャンスをつかんだようだな,
+ST_TalkResult/DAIKI_JUSTWIN_SEGMENT3,"あの夜のバトルほどじゃないが・・
+ヒヤヒヤしたぜ",
+ST_TalkResult/DAIKI_JUSTLOSE_SEGMENT1,負けは負けだが・・思ったよりはやるようだな,
+ST_TalkResult/DAIKI_JUSTLOSE_SEGMENT2,"惜しいな・・
+悪くないバトルだった",
+ST_TalkResult/DAIKI_JUSTLOSE_SEGMENT3,"なぜ負けたのかを考えてそれを次のステップにつなげていく・・
+それが 東堂塾の精神だ",
+ST_TalkResult/DAIKI_BIGLOSE_SEGMENT1,"思ってたよりはレベルが高いが・・
+まだまだだな",
+ST_TalkResult/DAIKI_BIGLOSE_SEGMENT2,"相手のレベルが高いとわかっていれば
+それなりの対応ができるはずだ",
+ST_TalkResult/DAIKI_BIGLOSE_SEGMENT3,・・油断ってのが一番怖いんだぜ,
+ST_TalkResult/DAIKI_MIDDLE_SEGMENT1,集団にもまれながらのバトルも経験のうちだ,
+ST_TalkResult/DAIKI_MIDDLE_SEGMENT2,もうひと踏ん張り・・ってところか,
+ST_TalkResult/DAIKI_MIDDLE_SEGMENT3,"集団の中で前にでる技術を身につけると
+トモさんに近づけるかもな・・",
+ST_TalkResult/SAKAI_WIN_SEGMENT1,なるほど やるじゃないか,
+ST_TalkResult/SAKAI_WIN_SEGMENT2,いい駆け引きができてたと思うぜ,
+ST_TalkResult/SAKAI_WIN_SEGMENT3,"相変わらずやるな
+どうだ 東堂塾の練習に参加してみるか？",
+ST_TalkResult/SAKAI_WIN_SEGMENT4,"おまえらしいバトルだったな
+理論に裏付けられた駆け引きを感じたぜ",
+ST_TalkResult/SAKAI_BIGWIN_SEGMENT1,"やるじゃないか
+けど そんなバトルじゃ退屈だろ？",
+ST_TalkResult/SAKAI_BIGWIN_SEGMENT2,"おいおい 圧勝じゃないか
+もっと強い相手でもいいんじゃないか？",
+ST_TalkResult/SAKAI_BIGWIN_SEGMENT3,"おまえには物足りないんじゃないか？
+なんなら 東堂塾の練習に参加してみるか？",
+ST_TalkResult/SAKAI_BIGWIN_SEGMENT4,"おまえらしいバトルだったな
+理論に裏付けられた駆け引きを感じたぜ",
+ST_TalkResult/SAKAI_JUSTWIN_SEGMENT1,紙一重ってところだな,
+ST_TalkResult/SAKAI_JUSTWIN_SEGMENT2,"やるな
+ぎりぎりの展開を制するだけの技術はありそうだ",
+ST_TalkResult/SAKAI_JUSTWIN_SEGMENT3,"ふっ・・あの状況で勝つとはな
+おまえの勝ちへのこだわりを感じたぜ",
+ST_TalkResult/SAKAI_JUSTLOSE_SEGMENT1,"青いな・・
+だが 悪くない",
+ST_TalkResult/SAKAI_JUSTLOSE_SEGMENT2,"クリーンにスピードを競うだけがバトルじゃない
+相手の動きにどう対応するかの技術も必要なんだ",
+ST_TalkResult/SAKAI_JUSTLOSE_SEGMENT3,"惜しい試合だったな・・
+紙一重の場面での駆け引きを覚えると 一気に成長するぜ",
+ST_TalkResult/SAKAI_BIGLOSE_SEGMENT1,"ちょっと相手が強すぎたんじゃないか？
+戦う相手は慎重に選ぶんだ",
+ST_TalkResult/SAKAI_BIGLOSE_SEGMENT2,"おいおい・・調子が悪いのか？
+そんなもんじゃないだろ？",
+ST_TalkResult/SAKAI_BIGLOSE_SEGMENT3,"どうした？おまえらしくないな
+気持ちきりかえていけよ",
+ST_TalkResult/SAKAI_MIDDLE_SEGMENT1,"クリーンにスピードを競うだけがバトルじゃない
+集団のクルマをどう利用するかを考えるのも必要だぜ",
+ST_TalkResult/SAKAI_MIDDLE_SEGMENT2,"惜しい試合だったな・・
+おまえなら集団での駆け引きもこなせるはずだぜ",
+ST_TalkResult/SAKAI_MIDDLE_SEGMENT3,"ここぞという勝負どころで プッシュをかけるのがコツだ
+あのFDのドライバーみたいにな・・",

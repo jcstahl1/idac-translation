@@ -94,3 +94,27 @@ ST_TalkPartnerSelect/MAKO_3,"今回も来てくれるんじゃないかなァ �
 よろしくお願いしますね",
 ST_TalkPartnerSelect/MAKO_4,"ふふっ・・
 沙雪に続いて すっかり新しい相棒ですね",
+ST_TalkPartnerSelect/KAI_1,"オレの名まえは小柏カイだ
+あんた オレに走りを教えてほしいのか？",
+ST_TalkPartnerSelect/KAI_2,"あんた また来たのか？
+・・なら さっそくはじめるか・・！",
+ST_TalkPartnerSelect/KAI_3,"おっ まってたぜ
+今日はどこに走りに行くんだ？",
+ST_TalkPartnerSelect/KAI_4,"まってたぜ
+あんたの峠の戦い方を見るのは オレにとっても刺激になるからな",
+ST_TalkPartnerSelect/DAIKI_1,"オレに走りを教えてほしいって？
+・・まぁ がっかりはさせないでくれよ",
+ST_TalkPartnerSelect/DAIKI_2,"こないだの走り屋か・・
+まぁ 付き合ってやるか",
+ST_TalkPartnerSelect/DAIKI_3,"・・なんとなく来るだろうなと思ってたよ
+ほら 走りに行くんだろ？",
+ST_TalkPartnerSelect/DAIKI_4,"なんていうのかな・・
+時々 おまえを相棒みたいに感じることがあるよ",
+ST_TalkPartnerSelect/SAKAI_1,"オレに走りを教わりたいのか
+いいよ 東堂塾流のしごき方でよければね",
+ST_TalkPartnerSelect/SAKAI_2,"こないだのやつだな
+フッ‥また誘ってくれるとは嬉しいぜ",
+ST_TalkPartnerSelect/SAKAI_3,"待ってたぜ
+あんたの駆け引きをみるのは 楽しみだからな",
+ST_TalkPartnerSelect/SAKAI_4,"大輝と同じように
+最近はあんたのことも相棒のように感じてきたぜ",

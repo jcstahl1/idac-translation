@@ -444,9 +444,12 @@ ST_GameMessage/ErrorCode_FailedUnlock,"ERROR 8304
 通信に失敗しました(GAME)",
 ST_GameMessage/ErrorCode_CloseSetting,"ERROR 6503
 読み込みに失敗しました。",
-ST_GameMessage/ErrorCode_DBBan,データおよびプレイログに通常のプレイとは認められない記録が多数存在しているため、こちらのデータは使用できません。,
+ST_GameMessage/ErrorCode_DBBan,通常のプレイでは認められないプレイ記録が多数存在しているため、こちらのデータは使用できません。,
 ST_GameMessage/ErrorCode_DBBanWarning,"データおよびプレイログに通常のプレイとは認められない記録が多数存在しております。
 今後もこの記録が増えますと、データを使用できなくなりますので、ご注意ください。",
+ST_GameMessage/ErrorCode_DBFrozen,不正なプレイ記録が確認されたため、このデータは現在ご利用を停止させていただいております。,
+ST_GameMessage/ErrorCode_DBFrozenWarning,"不正な動作と思われるプレイ記録が確認されました。
+引き続き不正なプレイ記録が増える場合、データのご利用を停止させていただきますのでご注意ください。",
 ST_GameMessage/ErrorCode_VSOnlyNewCard,大会モードでは新規登録できません。データのあるAimeをかざしてください。,
 ST_GameMessage/ErrorCode_OldVersionTournament,"古いバージョンのプレイデータがあります。
 現在のバージョンではプレイできません。",
@@ -766,3 +769,16 @@ ST_GameMessage/Result_TrialEvent_EarnedPrize,獲得報酬,
 ST_GameMessage/Result_TrialEvent_Status,進捗,
 ST_GameMessage/ChallengeMode_DefeatBunta,藤原文太に勝利せよ,
 ST_GameMessage/CourseSelect_TrialEvent_EventPeriod_Date_Result,{yyyy}/{MM}/{dd}まで,
+ST_GameMessage/NumberLottery_CurrentNumber,現在のナンバー,
+ST_GameMessage/NumberLottery_LotteryDigit,この桁を抽選,
+ST_GameMessage/NumberLottery_Check,確認する,
+ST_GameMessage/NumberLottery_Back,戻る,
+ST_GameMessage/NumberLottery_Remain,残り,
+ST_GameMessage/NumberLottery_Times,回,
+ST_GameMessage/NumberLottery_MatchNumbers_1,指定のナンバーをそろえると,
+ST_GameMessage/NumberLottery_MatchNumbers_2,ゲット！,
+ST_GameMessage/NumberLottery_EndDialog_1,ナンバープレートを変更しますか？,
+ST_GameMessage/NumberLottery_EndDialog_2,キャッシュは払い戻しされません,
+ST_GameMessage/NumberLottery_ChangeDialog,ナンバーを変更しました!,
+ST_GameMessage/TheoryMode_Lock_Rank,"公道最速理論ランク
+{RankName}達成",
