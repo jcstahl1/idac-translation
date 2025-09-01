@@ -406,7 +406,8 @@ ST_GameMessage/ConfigInfo_ToggleGhost,"タイムトライアルモードのレ�
 ゴーストの有無を切り替えます",
 ST_GameMessage/ConfigInfo_ForceExits,"左右キーを条件通りに入力することで、レースの
 強制終了ができるようにするかを設定します
-（ストーリーモード/タイムトライアルモードのみ）",
+（ストーリーモード/タイムトライアルモード/
+公道最速理論モードのみ）",
 ST_GameMessage/ConfigInfo_WhetherToSkip,"タイムトライアルモードでレースを強制終了した
 際に、即座にコンティニューまでスキップするかを
 設定します",
@@ -424,6 +425,7 @@ ST_GameMessage/PlaydataCar_Story,ストーリー,
 ST_GameMessage/PlaydataCar_TimeTrial,タイムトライアル,
 ST_GameMessage/PlaydataCar_InstoreBattle,店内バトル,
 ST_GameMessage/PlaydataCar_OnlineBattle,オンラインバトル,
+ST_GameMessage/PlaydataCar_Theory,公道最速理論,
 ST_GameMessage/PlaydataError_NotObtained,"データが取得出来ませんでした
 モード選択画面へ移動します",
 ST_GameMessage/PlayStamp_EventPeriod,開催期間,
@@ -641,12 +643,50 @@ ST_GameMessage/StartMenuShop_Closing,"ショップ＆カスタマイズを終了
 よろしいですか？",
 ST_GameMessage/StartMenu_Lock_AimeCardOnly,ゲストプレイのため選択できません,
 ST_GameMessage/ResultGrade_OnlineBattleRankSpecial,オンラインバトルランク特別昇格！,
+ST_GameMessage/WanBattleMatching_PlayTimesPrize,プレイ回数報酬,
+ST_GameMessage/WanBattleMatching_Date,開催期間 {DateText}まで,
+ST_GameMessage/WanBattleMatching_nextprize,報酬獲得まで<EB_YellowLarge>{Num}</><EB_Yellow>回</>,
+ST_GameMessage/WanBattleMatching_OnlineRankPrize,オンラインランク報酬,
+ST_GameMessage/WanBattleMatching_ReachReleaseAura,到達で新たなオーラカラー解放！,
+ST_GameMessage/WanBattleMatching_ReleaseAura,解放されるオーラ,
+ST_GameMessage/PlayStamp_EarnedPrize,<B_White>獲得報酬</> <EB_YellowLarge>{Num}</><EB_Yellow>/{Max}</>,
+ST_GameMessage/PlayStamp_EventPeriod2,<B_WhiteSmall>開催期間： {DateText}まで</>,
+ST_GameMessage/PlayStamp_NextPrize,獲得までスタンプ あと<EB_YellowLarge>{Num}</><EB_Yellow>個</>,
 ST_GameMessage/DressUpShop_AreYouSureParts,選択したパーツでよろしいですか？,
+ST_GameMessage/FullTuneTicketDialog_GotTicket,FULLTune車種購入チケット獲得！！,
+ST_GameMessage/FullTuneTicketDialog_Traded,<Yellow>FULLTune車種購入チケットのかけら</> を <Yellow>FULLTune車種購入チケット</> に交換しました,
+ST_GameMessage/FullTuneTicketDialog_ConvertCash,最大所持数を超えて獲得した場合はキャッシュに変換します,
 ST_GameMessage/StreetRacerDebut_FirstPlayFree,"走り屋デビューミッション達成！
 初回プレイ無料！",
 ST_GameMessage/MatchInfo_PrideExperienceIncDec,PRIDE経験値増減値,
 ST_GameMessage/ResultGrade_JoinPride,PRIDE参戦！！,
 ST_GameMessage/ResultGrade_ReachPride,PRIDE{border}到達！！,
+ST_GameMessage/TheoryMode_CharacterSelect,キャラクターを選択してください,
+ST_GameMessage/TheoryMode_ YourPartner,<EmphasisYellow_Middle>{PartnerName}</>とパートナーになりますか？,
+ST_GameMessage/TheoryMode_YouCanCancel,※選択後、鍛錬修了前でもパートナー解除は可能です,
+ST_GameMessage/TheoryMode_ContinuePartner,引き続き<EmphasisYellow_Middle>{PartnerName}</>とパートナーになりますか？,
+ST_GameMessage/TheoryMode_SelectChangeCharacter,※いいえを選択するとキャラクター選択に進みます,
+ST_GameMessage/TheoryMode_SelectRaceFormat,レース形式を選択してください,
+ST_GameMessage/TheoryMode_ChangeYourPartner,パートナーを変更しますか？,
+ST_GameMessage/TheoryMode_ResetYourStatus,"※鍛錬の進捗情報はリセットされます
+※今回の鍛錬中に獲得した親睦Lv経験値は保存されます",
+ST_GameMessage/TheoryMode_ChooseRival,ライバルを選択してください,
+ST_GameMessage/TheoryMode_ChooseRival2,ライバルを選択してください,
+ST_GameMessage/TheoryMode_PowerhouseLv_NextLvRequirement,"強豪Lv{NextLv}解放条件
+強豪Lv{CurrentLv}のライバルに、あと{RemainNum}回勝利",
+ST_GameMessage/Result_TheoryMode_Point,獲得経験値,
+ST_GameMessage/Result_TheoryMode_TanrenPoint,鍛錬修了ボーナス（{raceCount}レース）　{num},
+ST_GameMessage/Result_TheoryMode_ChallengeBonus_Large,挑戦ボーナス（大）　{num},
+ST_GameMessage/Result_TheoryMode_ChallengeBonus_Medium,挑戦ボーナス（中）　{num},
+ST_GameMessage/Result_TheoryMode_ChallengeBonus_Small,挑戦ボーナス（小）　{num},
+ST_GameMessage/ResultArticle_TheoryMode_TanrenBonus,鍛錬修了ボーナス,
+ST_GameMessage/ResultArticle_TheoryMode_RankPoint,順位経験値,
+ST_GameMessage/ResultArticle_TheoryMode_ChallengeBonus,格上撃破ボーナス,
+ST_GameMessage/ResultArticle_TheoryMode_DefeatBonus,強豪撃破ボーナス,
+ST_GameMessage/ResultArticle_TheoryMode_ShinbokuLevelPoint,"親睦Lv
+経験値",
+ST_GameMessage/ErrorCode_TheoryMode_Close,"エラーが発生しました
+公道最速理論モードを終了します",
 ST_GameMessage/CloseSettingInfo_StoreClosed,"本日は閉店しました。
 Aimeの利用はできません。",
 ST_GameMessage/CloseSettingInfo_StoreCloseSoon,ただいまの時間はAimeの利用ができません。,
@@ -657,3 +697,48 @@ ST_GameMessage/CloseSettingInfo_Continue_StoreCloseSoon,ただいまの時間は
 ST_GameMessage/CloseSettingInfo_Continue_ClosedMinutes,あと{RemainShop}分で閉店時刻です。あと{RemainAime}分でAimeの利用、及びコンティニューができなくなります。,
 ST_GameMessage/AvatarDialog_DontHaveAvatarTokens,アバタートークンが足りません,
 ST_GameMessage/PaperCup_Changed,紙コップを変更しました,
+ST_GameMessage/TheoryMode_PracticeCount,今回の鍛錬は{Num}レース目まで行われます,
+ST_GameMessage/TheoryMode_EndOfRaceTanren,"鍛錬修了まで
+　　<Middle>残り</><Big>{Num}</><Middle>レース</>",
+ST_GameMessage/TheoryMode_ChangeYourPartnerButton,パートナーを変更,
+ST_GameMessage/TheoryMode_DoneRivalSelect,ライバル選択を完了しますか？,
+ST_GameMessage/TheoryMode_DoneRivalSelect_ButtonYes,はい,
+ST_GameMessage/TheoryMode_DoneRivalSelect_ButtonNo,選び直す,
+ST_GameMessage/TheoryMode_NoPowerhouseRivals,"強豪に該当するライバルが存在しないため
+選択できません",
+ST_GameMessage/ResultGrade_TheoryRank,公道最速理論ランク昇格！！,
+ST_GameMessage/Continue_Lock_ExtraStamp,今日あと{Num}プレイで追加スタンプ獲得！,
+ST_GameMessage/AdvertiseMessage_Single Seat,このシートはSINGLEです,
+ST_GameMessage/AdvertiseMessage_Reboot,再起動準備が整いました。再起動を行います。,
+ST_GameMessage/AdvertiseMessage_Rebooting,再起動準備中です。プレイできません。,
+ST_GameMessage/AdvertiseMessage_Rebooting Soon,もうすぐ再起動がかかります。コンティニュープレイはできません。,
+ST_GameMessage/AdvertiseMessage_Reporting,"ただいま、締め処理中です。
+しばらくお待ちください。",
+ST_GameMessage/TheoryMode_LowerPowerhouseLvRivalsOnly_1,現在、強豪Lv<YellowMiddle>{PowerhouseLv}</>のライバルが選択可能です,
+ST_GameMessage/TheoryMode_LowerPowerhouseLvRivalsOnly_2,※他のプレイヤーがタイムを記録されるまでお待ち下さい,
+ST_GameMessage/TheoryMode_PowerhouseLv_CurrentLv,現在の強豪Lv：,
+ST_GameMessage/TheoryMode_PowerhouseLv_ReachedLimit,"最高強豪Lvに到達しました
+累計勝利数 {TotalNum}勝",
+ST_GameMessage/Shop_Lock_FullTune,所持車種が全てFullTuneのため選択できません,
+ST_GameMessage/Shop_Tuning_Lock_FullTune,所持車種が全てFullTuneのため選択できません,
+ST_GameMessage/Shop_Tuning_ConfirmTuning,チューニング確認,
+ST_GameMessage/Shop_Tuning_FullTuneThisCar,"<LightYellow>FULLTune車種購入チケット</>を消費して
+選択した車種をFULLTuneにしますか？",
+ST_GameMessage/Shop_Lock_DoNotHaveTicket,FullTune車種購入チケットを所持していないので選択できません,
+ST_GameMessage/TheoryMode_Lock_4WD,駆動方式「４ＷＤ」の任意車種１台を購入する,
+ST_GameMessage/ModeSelectBubble_NotLatestVersion,最新バージョンではないため、このモードを選択できません,
+ST_GameMessage/TheoryMode_ModeDetail,"コース・ライバルは自由に選択が可能！
+パートナーと共に一流の走り屋を目指せ‥！",
+ST_GameMessage/ModeInfo_Special,"新たなる公道最速伝説、始動！
+新世代ライバルとの激戦を勝ち抜け‥！",
+ST_GameMessage/SpecialMode_Eventperiod,開催期間,
+ST_GameMessage/SpecialMode_HighestVSLv,最高クリアVSLv.,
+ST_GameMessage/SpecialMode_Select_RewardVSLv,クリアで報酬獲得！,
+ST_GameMessage/SpecialMode_Goal1st,1位でゴールせよ,
+ST_GameMessage/SpecialMode_Result_RewardVSLv,クリアで報酬獲得！,
+ST_GameMessage/SpecialMode_VSLvSelect,VS Lv.を選択してください,
+ST_GameMessage/SpecialMode_VSTypeSelect,VSを選択してください,
+ST_GameMessage/SpecilalMode_VSLvSpeciallyUnlock,"{Name}の驚異的な速さに
+「注目フラグ({Evalution})」が立ちました！
+
+<Big>VS Lv. </><YellowBig>+{AddDifficultyNum}</><Big> オーバー‼</>",
