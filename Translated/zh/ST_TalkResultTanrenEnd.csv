@@ -1,0 +1,449 @@
+key,source,target
+ST_TanrenEnd/TAKUMI_BONUS1_SEGMENT1,それじゃあ‥オレは配達あるからこのへんで,那么……我还要送东西，就在这里分开吧。
+ST_TanrenEnd/TAKUMI_BONUS1_SEGMENT2,それじゃあ‥また今度な,那么……下次再见。
+ST_TanrenEnd/TAKUMI_BONUS1_SEGMENT3,それじゃあ‥また誘ってくれてもかまわないよ,那么……可以再约我哦。
+ST_TanrenEnd/TAKUMI_BONUS2_SEGMENT1,‥わるくないな,……真不错。
+ST_TanrenEnd/TAKUMI_BONUS2_SEGMENT2,いい鍛錬になったんじゃないかな,这次的训练效果不错啊。
+ST_TanrenEnd/TAKUMI_BONUS2_SEGMENT3,相変わらずいい鍛錬だったな,训练效果一直都很好啊。
+ST_TanrenEnd/TAKUMI_BONUS3_SEGMENT1,あんた‥結構いいウデしてるな,你……技术真不错啊。
+ST_TanrenEnd/TAKUMI_BONUS3_SEGMENT2,かなりよかったと思うぜ,我觉得很不错哦。
+ST_TanrenEnd/TAKUMI_BONUS3_SEGMENT3,またウデを上げたんじゃないか？,技术又变好了吧？
+ST_TanrenEnd/TAKUMI_BONUS4_SEGMENT1,‥人の走りを見るのも悪くないな,……看别人开车也不错啊。
+ST_TanrenEnd/TAKUMI_BONUS4_SEGMENT2,あんたみたいな走り屋なかなかいないよ,你这样的车手很少见哦。
+ST_TanrenEnd/TAKUMI_BONUS4_SEGMENT3,今回は文句の付けどころがねぇや‥,这次没地方可以挑毛病啊……
+ST_TanrenEnd/IKETANI_BONUS1_SEGMENT1,おつかれさん！,辛苦了！
+ST_TanrenEnd/IKETANI_BONUS1_SEGMENT2,おつかれさん！また誘ってくれよ！,辛苦了！再来约我哦！
+ST_TanrenEnd/IKETANI_BONUS1_SEGMENT3,おつかれさん！次回も頼むぜ！,辛苦了！下次也请多关照啦！
+ST_TanrenEnd/IKETANI_BONUS2_SEGMENT1,おっ‥おまえ意外とやるな！,噢……没想到你挺能干啊！
+ST_TanrenEnd/IKETANI_BONUS2_SEGMENT2,いい鍛錬になったな！,训练效果不错啊！
+ST_TanrenEnd/IKETANI_BONUS2_SEGMENT3,今回もいい鍛錬だったな！,这次的训练效果也不错啊。
+ST_TanrenEnd/IKETANI_BONUS3_SEGMENT1,おまえ結構いいウデしているじゃないか！,你的技术相当不错啊！
+ST_TanrenEnd/IKETANI_BONUS3_SEGMENT2,またウデを上げたんじゃないか！？,你的技术又提高了吧！？
+ST_TanrenEnd/IKETANI_BONUS3_SEGMENT3,"またウデを上げたんじゃないか！？
+次の鍛錬も楽しみにしているよ！","你的技术又提高了吧！？
+下次训练我也很期待哦！"
+ST_TanrenEnd/IKETANI_BONUS4_SEGMENT1,思ってた以上だ‥おまえ結構素質あるぜ！,你的资质相当好……超乎我的想象啊！
+ST_TanrenEnd/IKETANI_BONUS4_SEGMENT2,"何もかもすごすぎて参考にならない‥！
+おまえみたいな走り屋は拓海以来だぜ‥！","各方面技术都太厉害了，无法参考……！
+你这样的车手自拓海以来我还是第一次碰到……！"
+ST_TanrenEnd/IKETANI_BONUS4_SEGMENT3,"この成果にだれが文句をつけるんだ！？
+またおまえの走りを見たくてたまらないぜ！！","有了这样的成果还有谁会说三道四啊！？
+看着你开车的样子，我真的是欲罢不能啊！！"
+ST_TanrenEnd/KEISUKE_BONUS1_SEGMENT1,じゃあオレは赤城に戻るぜ,那我回赤城去了。
+ST_TanrenEnd/KEISUKE_BONUS1_SEGMENT2,無事に終わったな,顺利结束了啊。
+ST_TanrenEnd/KEISUKE_BONUS1_SEGMENT3,"今回も無事に終わったな
+まだまだ伸びしろあるんじゃねえか","这次也是顺利结束。
+你的提升空间还很大吧。"
+ST_TanrenEnd/KEISUKE_BONUS2_SEGMENT1,まあそこらの走り屋よりはマシな走りだな,嗯，比起这一带的车手来说，你更出色。
+ST_TanrenEnd/KEISUKE_BONUS2_SEGMENT2,いい鍛錬だったぜ,训练效果不错啊。
+ST_TanrenEnd/KEISUKE_BONUS2_SEGMENT3,今回もいい鍛錬だったぜ,这次的训练效果也不错啊。
+ST_TanrenEnd/KEISUKE_BONUS3_SEGMENT1,‥まあそんなに悪かねぇな,……嗯，情况也没那么差。
+ST_TanrenEnd/KEISUKE_BONUS3_SEGMENT2,おまえ結構いいウデしているな,你的技术相当不错啊。
+ST_TanrenEnd/KEISUKE_BONUS3_SEGMENT3,"またウデを上げやがったな‥
+フッ‥次の鍛錬も楽しみにしているぜ","技术又变好了啊……
+哼……下次的训练我也很期待。"
+ST_TanrenEnd/KEISUKE_BONUS4_SEGMENT1,‥やるなおまえ,……真行啊，你。
+ST_TanrenEnd/KEISUKE_BONUS4_SEGMENT2,正直オレが想像してた以上だったぜ,说实话，比我想象的还要出色。
+ST_TanrenEnd/KEISUKE_BONUS4_SEGMENT3,"分かっていてもこの結果にはシビれるぜ‥
+お前の走りはアニキにもじっくり見せてやりてぇ","即便是心知肚明的结果，仍然令人兴奋啊……
+你的这种跑法真想让哥哥也好好看一下。"
+ST_TanrenEnd/SAYUKI_BONUS1_SEGMENT1,ふぁー疲れたわ！,呼啊——好累啊！
+ST_TanrenEnd/SAYUKI_BONUS1_SEGMENT2,無事に終わったわね,顺利结束了呢。
+ST_TanrenEnd/SAYUKI_BONUS1_SEGMENT3,"今回も無事に終わったわね！
+また誘ってくれるかしら","这次也顺利结束了呢！
+你还会约我的吧。"
+ST_TanrenEnd/SAYUKI_BONUS2_SEGMENT1,結構いい走りするじゃん！,你开得非常出色啊！
+ST_TanrenEnd/SAYUKI_BONUS2_SEGMENT2,いい鍛錬だったわね！,训练效果真不错啊！
+ST_TanrenEnd/SAYUKI_BONUS2_SEGMENT3,今回もいい鍛錬だったわね！,这次的训练效果也不错呢！
+ST_TanrenEnd/SAYUKI_BONUS3_SEGMENT1,あんたさ‥結構いいウデしてるじゃない,我说你啊……技术相当不错啊。
+ST_TanrenEnd/SAYUKI_BONUS3_SEGMENT2,さすがいいウデしているわね！,果然是技术出色啊！
+ST_TanrenEnd/SAYUKI_BONUS3_SEGMENT3,"今回もかなりウデを上げたんじゃないの？
+次に鍛錬するときも楽しみだわ！","这次技术也提高了不少吧？
+下次的训练也很值得期待呢！"
+ST_TanrenEnd/SAYUKI_BONUS4_SEGMENT1,あたし‥もしかして天才見つけちゃった？,我……不会是找到天才了吧？
+ST_TanrenEnd/SAYUKI_BONUS4_SEGMENT2,うそでしょ‥あんたケタ違いの怪物だわ！,不是吧……你是和我天差地别的的外星人吧！
+ST_TanrenEnd/SAYUKI_BONUS4_SEGMENT3,"まったく‥あんたってば天才ね！
+とことんあたしを惚れ惚れさせてくれるわ","真是的……你简直就是天才啊！
+我已经完完全全被你迷住了呢。"
+ST_TanrenEnd/WATARU_BONUS1_SEGMENT1,おっと‥和美迎えに行かねぇとな‥,哎呀……该去接和美了……
+ST_TanrenEnd/WATARU_BONUS1_SEGMENT2,終わったか　おつかれさん,结束了啊，辛苦了。
+ST_TanrenEnd/WATARU_BONUS1_SEGMENT3,"おつかれさん
+今度はもっと強いヤツに絡んでやろうぜ","辛苦了。
+下次要不找个更厉害的家伙比试一下吧。"
+ST_TanrenEnd/WATARU_BONUS2_SEGMENT1,へーわりと見込みあるかもな,哦——看来挺有前途啊。
+ST_TanrenEnd/WATARU_BONUS2_SEGMENT2,いい鍛錬だったぜ,训练效果不错啊。
+ST_TanrenEnd/WATARU_BONUS2_SEGMENT3,今回もいい鍛錬だったぜ,这次的训练效果也不错啊。
+ST_TanrenEnd/WATARU_BONUS3_SEGMENT1,そこらの走り屋よりは悪くねぇな,你和大多数车手相比并不逊色啊。
+ST_TanrenEnd/WATARU_BONUS3_SEGMENT2,おまえ結構いいセンスしてるじゃねぇか,你开车相当有天赋啊。
+ST_TanrenEnd/WATARU_BONUS3_SEGMENT3,"やってくれるぜおまえ
+かなりいい鍛錬だったな","干得好啊。
+训练效果相当不错。"
+ST_TanrenEnd/WATARU_BONUS4_SEGMENT1,へー‥おまえかなり素質あるぜ,哦……你的资质相当不错啊。
+ST_TanrenEnd/WATARU_BONUS4_SEGMENT2,"おいおい‥いつからそんな速くなったんだ？
+オレも負けてらんねぇな","喂喂……什么时候变得这么快了？
+我也不能落后。"
+ST_TanrenEnd/WATARU_BONUS4_SEGMENT3,"峠で速いヤツが一番かっこいいんだ
+おまえは間違いなくイケてるぜ‥！","山道跑得快的家伙是最帅的，
+你肯定前途无量啊……！"
+ST_TanrenEnd/KENJI_BONUS1_SEGMENT1,そんじゃおつかれさん！,那今天辛苦了！
+ST_TanrenEnd/KENJI_BONUS1_SEGMENT2,そんじゃおつかれさん！またな！,那今天辛苦了！下次见！
+ST_TanrenEnd/KENJI_BONUS1_SEGMENT3,そんじゃおつかれさん！次も誘ってくれよ！,那今天辛苦了！下次再约！
+ST_TanrenEnd/KENJI_BONUS2_SEGMENT1,いいバトルが見れたぜ！,看到了好比赛啊！
+ST_TanrenEnd/KENJI_BONUS2_SEGMENT2,いいバトルが見れたぜ！またな！,看到了好比赛啊！下次见！
+ST_TanrenEnd/KENJI_BONUS2_SEGMENT3,いいバトルが見れたぜ！次も誘ってくれよ！,看到了好比赛啊！下次再约！
+ST_TanrenEnd/KENJI_BONUS3_SEGMENT1,アツいバトルが見れたぜ！,看到了一场激烈的比赛啊！
+ST_TanrenEnd/KENJI_BONUS3_SEGMENT2,アツいバトルが見れたぜ！またな！,看到了一场激烈的比赛啊！下次见！
+ST_TanrenEnd/KENJI_BONUS3_SEGMENT3,アツいバトルが見れたぜ！次も誘ってくれよ！,看到了一场激烈的比赛啊！下次再约！
+ST_TanrenEnd/KENJI_BONUS4_SEGMENT1,あんたすげえな！びっくりだぜ‥,你也太厉害了吧！我惊得下巴都掉了……
+ST_TanrenEnd/KENJI_BONUS4_SEGMENT2,今回の鍛練はサイコーだったぜ！,这次的训练真是太棒了！
+ST_TanrenEnd/KENJI_BONUS4_SEGMENT3,"拓海に匹敵するレベル‥いやあるいは‥
+恐れ入ったぜまったく‥","和拓海不相上下……不，或者说是……
+简直太恐怖了……"
+ST_TanrenEnd/NAKAZATO_BONUS1_SEGMENT1,さて‥オレは妙義に帰るか,好了……那我回妙义吧。
+ST_TanrenEnd/NAKAZATO_BONUS1_SEGMENT2,妙義に帰るぜ（慎吾のヤツ余計なコトしてなければいいが‥）,我回妙义了。（慎吾那家伙没多管闲事就好……）
+ST_TanrenEnd/NAKAZATO_BONUS1_SEGMENT3,それじゃあまた用があれば呼んでくれ,那有事的话再联系我吧。
+ST_TanrenEnd/NAKAZATO_BONUS2_SEGMENT1,いいウデだな　じゃあオレは妙義に帰るぜ,技术很好啊。那我先回妙义了。
+ST_TanrenEnd/NAKAZATO_BONUS2_SEGMENT2,またウデを上げたな　次も楽しみだ,技术又进步了啊。期待你下一次的表现啊。
+ST_TanrenEnd/NAKAZATO_BONUS2_SEGMENT3,またウデを上げたな　次もオレを呼んでくれよ,技术又进步了啊。下次也要叫上我哦。
+ST_TanrenEnd/NAKAZATO_BONUS3_SEGMENT1,なかなかスジがいいな　じゃあオレは妙義に帰るぜ,功底相当不错啊。那我先回妙义了。
+ST_TanrenEnd/NAKAZATO_BONUS3_SEGMENT2,さらにウデを上げたな　次も楽しみだ,技术又更进一步了啊。期待你下一次的表现啊。
+ST_TanrenEnd/NAKAZATO_BONUS3_SEGMENT3,さらにウデを上げたな　次もオレを呼んでくれよ,技术又更进一步了啊。下次也要叫上我哦。
+ST_TanrenEnd/NAKAZATO_BONUS4_SEGMENT1,フッ‥すげえヤツと出会ってしまったかもな,哼……我可能碰到了一个厉害的家伙。
+ST_TanrenEnd/NAKAZATO_BONUS4_SEGMENT2,"非のうちどころがないぜまったく‥
+世の中にゃーすごい奴がいるもんだ","真是的，简直是无可挑剔……
+这世上还真有厉害的家伙存在呢。"
+ST_TanrenEnd/NAKAZATO_BONUS4_SEGMENT3,"おまえのバトルをこんなに近くで見れるのは
+誇りに思っているぜ","能在这么近的距离观看你的对决，
+我感到很荣幸啊。"
+ST_TanrenEnd/SHINGO_BONUS1_SEGMENT1,なるほど‥そういった感じか,原来如此……就是这种感觉吗。
+ST_TanrenEnd/SHINGO_BONUS1_SEGMENT2,それじゃあな,那我走了。
+ST_TanrenEnd/SHINGO_BONUS1_SEGMENT3,気が向いたらまた誘ってくれや,有兴趣了就再约我吧。
+ST_TanrenEnd/SHINGO_BONUS2_SEGMENT1,くっくっく　おまえにはちょっかい出さないでやるよ,哼哼哼，我就不对你指手画脚了。
+ST_TanrenEnd/SHINGO_BONUS2_SEGMENT2,悪くねえけどもうちょっとデンジャラスに行きたいぜ,虽然还不错，但再搞得危机四伏点就好了。
+ST_TanrenEnd/SHINGO_BONUS2_SEGMENT3,いい結果だが、オレとしてはもっと刺激がほしいぜ,结果上来说不错，但我希望收获更大的刺激。
+ST_TanrenEnd/SHINGO_BONUS3_SEGMENT1,くっくっく　なんだかオレも暴れたくなってきたぜ,哼哼哼，感觉连我都想大闹一场了。
+ST_TanrenEnd/SHINGO_BONUS3_SEGMENT2,おまえってやつぁワクワクさせてくれるな！,你这家伙，真是让人兴奋不已啊！
+ST_TanrenEnd/SHINGO_BONUS3_SEGMENT3,いいねえ！そそるじゃねえか！,很好啊！我很感兴趣！
+ST_TanrenEnd/SHINGO_BONUS4_SEGMENT1,おもしろいヤツ見っけてしまったかもな！,我可能发现了一个有趣的家伙啊！
+ST_TanrenEnd/SHINGO_BONUS4_SEGMENT2,こんなにワクワクしたのは久々だぜ！,真是好久没有让我感到这么兴奋了！
+ST_TanrenEnd/SHINGO_BONUS4_SEGMENT3,"くっくっく　サイコーだな！
+ヒジョーに気分がいいぜ！","哼哼哼，太精彩了！
+我现在的感觉太棒了。"
+ST_TanrenEnd/KYOICHI_BONUS1_SEGMENT1,今回のセミナーはここまでだ,今天的讲座就到这里吧。
+ST_TanrenEnd/KYOICHI_BONUS1_SEGMENT2,今回のセミナーはここまでだ,今天的讲座就到这里吧。
+ST_TanrenEnd/KYOICHI_BONUS1_SEGMENT3,"今回のセミナーはここまでだ
+次はもっとやれるだろう","今天的讲座就到这里吧。
+下次应该能掌握更多吧。"
+ST_TanrenEnd/KYOICHI_BONUS2_SEGMENT1,"今回のセミナーはここまでだ
+‥なるほどな","今天的讲座就到这里吧。
+……原来如此。"
+ST_TanrenEnd/KYOICHI_BONUS2_SEGMENT2,"今回のセミナーはここまでだ
+‥悪くはねえな","今天的讲座就到这里吧。
+……挺不错啊。"
+ST_TanrenEnd/KYOICHI_BONUS2_SEGMENT3,"今回のセミナーはここまでだ
+‥まだまだうまくやれるはずだ","今天的讲座就到这里吧。
+……完全还可以做得更好的。"
+ST_TanrenEnd/KYOICHI_BONUS3_SEGMENT1,オレとしてもいい経験になったぜ,对我来说也是一次很好的经历。
+ST_TanrenEnd/KYOICHI_BONUS3_SEGMENT2,"オレとしてもいい経験になったぜ
+また呼んでくれれば赴こう","对我来说也是一次很好的经历。
+再叫我的话我还会来的。"
+ST_TanrenEnd/KYOICHI_BONUS3_SEGMENT3,"おまえといれば何かしら新しい発見ができるな
+また呼んでくれ","和你在一起就会有些新发现啊。
+记得再约我哦。"
+ST_TanrenEnd/KYOICHI_BONUS4_SEGMENT1,"なんだこの感覚は‥
+おまえからは他のヤツと違うものを感じるぜ","这种感觉是怎么回事……
+我从你身上感到了和其他的家伙不一样的东西。"
+ST_TanrenEnd/KYOICHI_BONUS4_SEGMENT2,"‥恐るべしだな
+オレの哲学もいろいろと見直したくなるぜ","……令人恐惧啊。
+看来我的哲学理论也有不少地方要重新审视了。"
+ST_TanrenEnd/KYOICHI_BONUS4_SEGMENT3,"フッ‥まったく‥おまえはオレの期待をはるかに上回るな
+いつか涼介の理論も打ち砕ける気がしてきたぜ","哼……真是的……你的成长远远超出了我的期待啊。
+感觉将来某一天连凉介的理论也会被你打破啊。"
+ST_TanrenEnd/SEIJI_BONUS1_SEGMENT1,さーてと帰るか,那就回去吧。
+ST_TanrenEnd/SEIJI_BONUS1_SEGMENT2,じゃあ先に帰るぜー,那我先回去了哦——
+ST_TanrenEnd/SEIJI_BONUS1_SEGMENT3,またなんかあったら連絡してくれ,又有什么事的话再联系。
+ST_TanrenEnd/SEIJI_BONUS2_SEGMENT1,おめえおもしろいヤツだな！,你真是个有趣的家伙啊！
+ST_TanrenEnd/SEIJI_BONUS2_SEGMENT2,今回もなかなか楽しめたぜ！,这次也相当开心啊！
+ST_TanrenEnd/SEIJI_BONUS2_SEGMENT3,"今回もなかなか楽しめたぜ！
+また連絡してくれ","这次也相当开心啊！
+再联系吧。"
+ST_TanrenEnd/SEIJI_BONUS3_SEGMENT1,結構やるじゃねえか‥！,表现得很不错啊……！
+ST_TanrenEnd/SEIJI_BONUS3_SEGMENT2,ちょっとおまえのことナメてたかもしれないぜ‥！,可能我多少有点小瞧你了呢……！
+ST_TanrenEnd/SEIJI_BONUS3_SEGMENT3,さすがだな！エンペラーにもおまえみたいなヤツがほしいぜ！,厉害啊！希望帝王队也能有你这样的家伙呢！
+ST_TanrenEnd/SEIJI_BONUS4_SEGMENT1,"なんだとォ！？
+オレが予想してたよりもやるじゃねえか！","什么情况！？
+比我想象的还要厉害啊！"
+ST_TanrenEnd/SEIJI_BONUS4_SEGMENT2,"どうなってるのかさっぱりわからねえ！
+また峠にいくならオレを呼んでくれよ！","完全不明白是怎么回事！
+如果再去跑山道的话要叫上我啊！"
+ST_TanrenEnd/SEIJI_BONUS4_SEGMENT3,"おまえのその速さは何なんだ！
+京一にも早く伝えてやんねーと！","你的那种速度是什么情况！
+必须早点告诉京一！"
+ST_TanrenEnd/RYOSUKE_BONUS1_SEGMENT1,（噂どおりの才能・・といったところか）,（可以说……你的才能和传说中一样吧。）
+ST_TanrenEnd/RYOSUKE_BONUS1_SEGMENT2,今回はここまでだ,今天就到此为止吧。
+ST_TanrenEnd/RYOSUKE_BONUS1_SEGMENT3,"今回はここまでだ
+おまえなら もっとうまくやれるはずだ","今天就到此为止吧。
+你应该能做得更好。"
+ST_TanrenEnd/RYOSUKE_BONUS2_SEGMENT1,（噂どおりの才能・・といったところか）,（可以说……你的才能和传说中一样吧。）
+ST_TanrenEnd/RYOSUKE_BONUS2_SEGMENT2,"今回はここまでだ
+いい鍛錬になったんじゃないか？","今天就到此为止吧。
+训练效果还不错吧？"
+ST_TanrenEnd/RYOSUKE_BONUS2_SEGMENT3,"ごくろうさん
+今回もいい鍛錬になったんじゃないか？","今天就到此为止吧。
+这次的训练效果还不错吧？"
+ST_TanrenEnd/RYOSUKE_BONUS3_SEGMENT1,"（噂どおりの才能・・）
+（いや こいつはそれ以上かもしれないな）","（你的才能和传说中一样。）
+（不，可能更加出色吧。）"
+ST_TanrenEnd/RYOSUKE_BONUS3_SEGMENT2,"オレとしてもいいデータがとることができた
+また呼んでくれ","对我来说，也拿到了很好的数据。
+再约我吧。"
+ST_TanrenEnd/RYOSUKE_BONUS3_SEGMENT3,"おまえといると 興味深いデータが得られるよ
+また呼んでくれ","和你在一起，就能拿到意义非凡的数据啊。
+再约我吧。"
+ST_TanrenEnd/RYOSUKE_BONUS4_SEGMENT1,"（噂どおりの才能・・）
+（いや こいつはそれ以上かもしれないな）","（你的才能和传说中一样。）
+（不，可能更加出色吧。）"
+ST_TanrenEnd/RYOSUKE_BONUS4_SEGMENT2,"オレとしてもいいデータがとることができた・・
+ごくろうさん よくやったぞ","对我来说，也拿到了很好的数据……
+辛苦了，表现得不错。"
+ST_TanrenEnd/RYOSUKE_BONUS4_SEGMENT3,"まったく おまえはオレの予想を裏切ってくれるな
+おまえなら 公道最速理論を高い次元で再現できるかもな・・","真是的，你总是出乎我的预料啊。
+如果是你，说不定能再现高端的公路最快理论……"
+ST_TanrenEnd/MAKO_BONUS1_SEGMENT1,おつかれさまでした,辛苦啦。
+ST_TanrenEnd/MAKO_BONUS1_SEGMENT2,"おつかれさまでした
+無事に終わりましたね","辛苦啦。
+顺利结束了呢。"
+ST_TanrenEnd/MAKO_BONUS1_SEGMENT3,"ふぅ・・おつかれさまでした
+また誘ってくださいね","呼……辛苦啦。
+要再约我哦。"
+ST_TanrenEnd/MAKO_BONUS2_SEGMENT1,"おつかれさまでした
+よい鍛錬になったんじゃないでしょうか？","辛苦啦。
+训练效果挺不错吧？"
+ST_TanrenEnd/MAKO_BONUS2_SEGMENT2,いい鍛錬になりましたね！,训练效果挺好啊！
+ST_TanrenEnd/MAKO_BONUS2_SEGMENT3,今回も 充実した鍛錬になりましたね！,这次的训练也非常充实呢！
+ST_TanrenEnd/MAKO_BONUS3_SEGMENT1,"おつかれさまでした
+あたしも 勉強になりました","辛苦啦。
+我也受益匪浅呢。"
+ST_TanrenEnd/MAKO_BONUS3_SEGMENT2,"今回も よい鍛錬になりましたね
+あたしも 負けてられない・・","这次的训练效果也不错呢。
+我也不能输……"
+ST_TanrenEnd/MAKO_BONUS3_SEGMENT3,"あなたといると いろいろと学ぶことがあります
+また誘ってくださいね","和你在一起会学到很多东西。
+要再约我哦。"
+ST_TanrenEnd/MAKO_BONUS4_SEGMENT1,"わあーっ すごいです！
+こんなにいい鍛錬になるなんて！","哇啊——太厉害了！
+训练效果居然这么出色！"
+ST_TanrenEnd/MAKO_BONUS4_SEGMENT2,"あなたといっしょにいると
+走りってまだまだ奥が深いんだなって思います","和你在一起的话，
+会觉得驾驶还有很多深奥的东西。"
+ST_TanrenEnd/MAKO_BONUS4_SEGMENT3,"こんなにできちゃうなんて・・
+あたしも すごい充実感あるよ・・","竟然这么厉害……
+我也感到很满足啊……"
+ST_TanrenEnd/KAI_BONUS1_SEGMENT1,おつかれさん,辛苦了。
+ST_TanrenEnd/KAI_BONUS1_SEGMENT2,"おつかれさん 
+もっとガキみたいにガムシャラの方がオレの好みだぜ","辛苦了。
+其实我更希望你能像小孩一样不顾一切地猛冲。"
+ST_TanrenEnd/KAI_BONUS1_SEGMENT3,"おつかれさん
+あんたなら もっとやれるはずだろう？","辛苦了。
+你应该能做得更好吧？"
+ST_TanrenEnd/KAI_BONUS2_SEGMENT1,いい鍛錬だったな！,训练效果不错啊！
+ST_TanrenEnd/KAI_BONUS2_SEGMENT2,"いい鍛錬だったな
+しびれるバトルが見れたぜ！","训练效果不错啊。
+看到了一场精彩刺激的比赛呢！"
+ST_TanrenEnd/KAI_BONUS2_SEGMENT3,今回もいい感じの鍛錬だったんじゃないか？,这次的训练效果也还不错吧？
+ST_TanrenEnd/KAI_BONUS3_SEGMENT1,へぇ‥やるじゃねえか,哦……有两下子嘛。
+ST_TanrenEnd/KAI_BONUS3_SEGMENT2,"やるじゃねえか
+また 誘ってくれよな","有两下子嘛。
+下次再约我吧。"
+ST_TanrenEnd/KAI_BONUS3_SEGMENT3,"相変わらずすげえな
+オレもいい体験させてもらったぜ","还是那么厉害。
+也给了我一次很不错的体验。"
+ST_TanrenEnd/KAI_BONUS4_SEGMENT1,"あんたすげえな！
+まるで峠センスのかたまりみたいな奴だぜ！","你很厉害啊！
+对山道有着很好的直觉！"
+ST_TanrenEnd/KAI_BONUS4_SEGMENT2,"さすがだな！
+あいかわらず峠センスのかたまりみたいな奴だぜ！","不愧是你啊！
+依然对山道有着很好的直觉！"
+ST_TanrenEnd/KAI_BONUS4_SEGMENT3,"おまえなら・・戦えるかもな
+時計という名の絶対神が支配する おそろしくシビアな世界でも・・","你应该能做到……
+哪怕是在那个被时间之神统治下的残酷世界里……"
+ST_TanrenEnd/DAIKI_BONUS1_SEGMENT1,じゃあ オレは東堂塾に戻ろうかな,那，我要不先回东堂塾吧。
+ST_TanrenEnd/DAIKI_BONUS1_SEGMENT2,"終わったか 
+じゃあ オレは東堂塾に戻るとするか","结束了吗。
+那我先回东堂塾了。"
+ST_TanrenEnd/DAIKI_BONUS1_SEGMENT3,おまえの実力なら もっと挑戦的でもいいだろ,按照你的实力，攻击性可以再强些。
+ST_TanrenEnd/DAIKI_BONUS2_SEGMENT1,まあ思ったよりはマシな走りだな,嗯，比我想象中开得好。
+ST_TanrenEnd/DAIKI_BONUS2_SEGMENT2,"悪くないが・・
+東堂塾の練習はこんなもんじゃないぜ","还不错……
+不过东堂塾的练习可不是这样的。"
+ST_TanrenEnd/DAIKI_BONUS2_SEGMENT3,"まあまあの鍛錬だったんじゃないか？
+・・時間があったら また付き合ってやるよ","这次的训练效果还算可以吧？
+……下次有时间再陪你练吧。"
+ST_TanrenEnd/DAIKI_BONUS3_SEGMENT1,(ほ・・う),（哦……）
+ST_TanrenEnd/DAIKI_BONUS3_SEGMENT2,今回も いい鍛錬だったんじゃないか？,这次的训练效果也不错吧？
+ST_TanrenEnd/DAIKI_BONUS3_SEGMENT3,"今回もいい鍛錬だったな
+・・時間があったら また付き合ってやるよ","这次的训练效果也不错啊。
+……下次有时间再陪你练吧。"
+ST_TanrenEnd/DAIKI_BONUS4_SEGMENT1,"(・・すげえセンス)
+(こいつ いったい何者なんだ・・？)","（……好惊人的天赋。）
+（这家伙到底是何方神圣……？）"
+ST_TanrenEnd/DAIKI_BONUS4_SEGMENT2,"癪に障るが・・
+おまえの走りを見てると こっちも学ぶことがあるよ","虽然有点不爽……
+不过看了你的驾驶后，我也学到了一些东西。"
+ST_TanrenEnd/DAIKI_BONUS4_SEGMENT3,"さすがだな
+トモさんにも おまえの走りを見せたくなってきたぜ","不愧是你啊。
+真想让阿智也看看你的驾驶技术。"
+ST_TanrenEnd/SAKAI_BONUS1_SEGMENT1,"ここで一区切りだ 
+オレは東堂塾に戻るぜ","到这里告一段落吧。
+我要回东堂塾了。"
+ST_TanrenEnd/SAKAI_BONUS1_SEGMENT2,"ここで一区切りだ 
+おつかれさん","到这里告一段落吧。
+辛苦了。"
+ST_TanrenEnd/SAKAI_BONUS1_SEGMENT3,"おつかれさん
+あんたなら もっといい鍛錬にできるはずだぜ","辛苦了。
+你应该能获得更好的训练成果吧。"
+ST_TanrenEnd/SAKAI_BONUS2_SEGMENT1,"おつかれさん
+悪くなかったとおもうぜ","辛苦了。
+感觉做得还不错。"
+ST_TanrenEnd/SAKAI_BONUS2_SEGMENT2,"おつかれさん
+けど 東堂塾の練習はこれ以上に激しいぜ・・","辛苦了。
+不过，东堂塾的练习可要比这激烈多了……"
+ST_TanrenEnd/SAKAI_BONUS2_SEGMENT3,"おつかれさん
+また誘ってくれると 嬉しいよ","辛苦了。
+期待你再来约我哦。"
+ST_TanrenEnd/SAKAI_BONUS3_SEGMENT1,ほう・・ いいドライバーだな,哦……真是个好车手。
+ST_TanrenEnd/SAKAI_BONUS3_SEGMENT2,"いい鍛錬だったな
+ラインとタイミングのつかみ方がわかってきたんじゃないか？","训练效果不错啊。
+路线和时机的把握看来都已经掌握了？"
+ST_TanrenEnd/SAKAI_BONUS3_SEGMENT3,"いい鍛錬だったな
+また誘ってくれると嬉しいよ","训练效果不错啊。
+期待你再次约我哦。"
+ST_TanrenEnd/SAKAI_BONUS4_SEGMENT1,"まさか ここまでとはな
+天性のセンスを感じるぜ","没想到这么厉害。
+我能感到你与生俱来的天赋。"
+ST_TanrenEnd/SAKAI_BONUS4_SEGMENT2,"あんたと一緒にいると オレも学ぶことがたくさんあるな
+また誘ってくれ","和你在一起，我也学到了很多东西啊。
+要再约我哦。"
+ST_TanrenEnd/SAKAI_BONUS4_SEGMENT3,"ふっ あんたと出会ったことは
+オレにとっても ラッキーなことだと思ってるぜ","能够遇到你，
+对我来说也是一件非常幸运的事。"
+ST_TanrenEnd/BUNTA_BONUS1_SEGMENT1,じゃあな,再见。
+ST_TanrenEnd/BUNTA_BONUS1_SEGMENT2,じゃあな・・気が向いたらまた来てやるよ,再见……有兴趣再来吧。
+ST_TanrenEnd/BUNTA_BONUS1_SEGMENT3,じゃあな・・また店にでも来てくれ,再见……有空再来店里吧。
+ST_TanrenEnd/BUNTA_BONUS2_SEGMENT1,ほーう,哦——
+ST_TanrenEnd/BUNTA_BONUS2_SEGMENT2,まあまあ よかったんじゃねえか,好好好，挺不错啊。
+ST_TanrenEnd/BUNTA_BONUS2_SEGMENT3,あんたならもっといい鍛錬ができるだろ,你应该能取得更好的训练成果吧。
+ST_TanrenEnd/BUNTA_BONUS3_SEGMENT1,ほーう　まあまあやるな,哦——还可以啊。
+ST_TanrenEnd/BUNTA_BONUS3_SEGMENT2,そこそこよかったんじゃねえか,还算不错吧。
+ST_TanrenEnd/BUNTA_BONUS3_SEGMENT3,"（またひとつ・・レベルアップしやがったか）
+（くそーっ　教えるのやめようかな）","（车技……又进步了。）
+（可恶，看来还是别教你了。）"
+ST_TanrenEnd/BUNTA_BONUS4_SEGMENT1,"・・・・
+（こいつ 思ったよりやるな）","……
+（这家伙，比想象中厉害啊。）"
+ST_TanrenEnd/BUNTA_BONUS4_SEGMENT2,"・・・・
+（相変わらず覚えるの早いなー こいつ）","……
+（这家伙学得还是那么快啊。）"
+ST_TanrenEnd/BUNTA_BONUS4_SEGMENT3,"（またひとつ・・レベルアップしやがったか）
+（くそーっ　教えるのやめようかな）","（车技……又进步了。）
+（可恶，看来还是别教你了。）"
+ST_TanrenEnd/NATSUKI_BONUS1_SEGMENT1,"約束があるからそろそろ行かないと・・
+じゃあね！","我和别人还有约，差不多该走了……
+拜拜！"
+ST_TanrenEnd/NATSUKI_BONUS1_SEGMENT2,"約束があるからそろそろ行かないと・・
+じゃあまたね！","我和别人还有约，差不多该走了……
+下次见！"
+ST_TanrenEnd/NATSUKI_BONUS1_SEGMENT3,"約束があるからそろそろ行かないと・・
+じゃあね！　またさそってね！","我和别人还有约，差不多该走了……
+拜拜！要再约我哦！"
+ST_TanrenEnd/NATSUKI_BONUS2_SEGMENT1,"（拓海くんがはまっている世界をのぞいてみようと来たけど）
+（意外と面白いかも・・？）","（我只是想看看，拓海痴迷的是什么样的世界。）
+（没想到挺有趣的……？）"
+ST_TanrenEnd/NATSUKI_BONUS2_SEGMENT2,いっぱい走ったね！おつかれさま！,开了好多路啊！辛苦了！
+ST_TanrenEnd/NATSUKI_BONUS2_SEGMENT3,"いっぱい走ったね！
+またさそってくれるとうれしいな","开了好多路啊！
+我等着你再来约我哦。"
+ST_TanrenEnd/NATSUKI_BONUS3_SEGMENT1,"（拓海くんがはまっている世界をのぞいてみようと来たけど）
+（けっこう面白いかも・・？）","（我只是想看看，拓海痴迷的是什么样的世界。）
+（好像非常有趣的样子……？）"
+ST_TanrenEnd/NATSUKI_BONUS3_SEGMENT2,すごーく速かったよ！おつかれさま！,开得好快啊！辛苦了！
+ST_TanrenEnd/NATSUKI_BONUS3_SEGMENT3,"なつきも楽しかったよ！
+またさそってくれるとうれしいな","夏树也很开心哦！
+我等着你再来约我哦。"
+ST_TanrenEnd/NATSUKI_BONUS4_SEGMENT1,"（拓海くんがはまっている世界をのぞいてみようと来たけど）
+（ちょっとやみつきになっちゃうかも・・？）","（我只是想看看，拓海痴迷的是什么样的世界。）
+（我也许已经有点痴迷于这种感觉了……？）"
+ST_TanrenEnd/NATSUKI_BONUS4_SEGMENT2,すごーい！めちゃめちゃ速かったよー！,好厉害！简直是太快了！
+ST_TanrenEnd/NATSUKI_BONUS4_SEGMENT3,"上手だよね　クルマの運転
+あなたの運転だったら 車酔いしないかも・・ ","好棒啊，你的开车技术。
+你开的车一点都没让我觉得难受……"
+ST_TanrenEnd/NOBU_BONUS1_SEGMENT1,"まだまだだな
+まあ 自分が思うとおりにやればいいさ・・","还差得很远啊。
+其实，按照你自己的想法去跑就行了……"
+ST_TanrenEnd/NOBU_BONUS1_SEGMENT2,"次は本気で頼むぜ
+オレはおまえの本気が見たいんだ","下次要拿出真本领啊。
+我想看看你的真实实力。"
+ST_TanrenEnd/NOBU_BONUS1_SEGMENT3,"おまえの走りなら
+自信もって見せつけてやればいいんだ","以你的驾驶技术，
+只要拿出信心，让大家一饱眼福就行了。"
+ST_TanrenEnd/NOBU_BONUS2_SEGMENT1,"・・なるほど
+いいドライバーだな・・","……原来如此。
+真是个好车手……"
+ST_TanrenEnd/NOBU_BONUS2_SEGMENT2,"悪くない・・
+次はもっと挑戦的にいこう","真不赖……
+下次可以进一步挑战一下自我。"
+ST_TanrenEnd/NOBU_BONUS2_SEGMENT3,"おまえの走りなら
+もっと 自信もって見せつけてやればいいんだ","以你的驾驶技术，
+只要拿出更多信心，让大家一饱眼福就行了。"
+ST_TanrenEnd/NOBU_BONUS3_SEGMENT1,"・・ふー なるほど・・
+確かにスゴイテクニックだ・・","……呼，原来如此……
+技术确实厉害……"
+ST_TanrenEnd/NOBU_BONUS3_SEGMENT2,"今回も いい鍛錬だったな・・
+また おまえの走りを見せてくれ","这次的训练效果也不错啊……
+下次还要让我看你开车哦。"
+ST_TanrenEnd/NOBU_BONUS3_SEGMENT3,"おもしろくなってきた・・
+また おまえの走りを見せてくれ","越来越有趣了……
+还要让我看你开车哦。"
+ST_TanrenEnd/NOBU_BONUS4_SEGMENT1,"オレはおまえに ものすごい興味がある・・
+どこまで走れるのかってさ・・","我对你很感兴趣……
+你的驾驶技术究竟能到什么程度呢……"
+ST_TanrenEnd/NOBU_BONUS4_SEGMENT2,"すごいぞ・・おまえの走りは・・
+見てるだけでゾクゾクする","太厉害了……你的驾驶技术……
+看着就让人感到兴奋。"
+ST_TanrenEnd/NOBU_BONUS4_SEGMENT3,"おまえと もっと早くに出会えていたら
+オレは あのハチロクに勝てたかもな・・","如果能更早遇见你，
+说不定我就能战胜那辆AE86了……"
+ST_TanrenEnd/KYOKO_BONUS1_SEGMENT1,"ちょっとは気分晴れたかな・・
+じゃあね","感觉心情变好些了……
+拜拜。"
+ST_TanrenEnd/KYOKO_BONUS1_SEGMENT2,"ちょっとは気分晴れたかな・・
+じゃあね","感觉心情变好些了……
+拜拜。"
+ST_TanrenEnd/KYOKO_BONUS1_SEGMENT3,"ちょっとは気分晴れたかな・・
+じゃあ またね","感觉心情变好些了……
+拜拜，下次见。"
+ST_TanrenEnd/KYOKO_BONUS2_SEGMENT1,"おつかれさま
+じゃあね あたし峠行くから・・","辛苦了。
+拜拜，我要去跑山路了。"
+ST_TanrenEnd/KYOKO_BONUS2_SEGMENT2,いい鍛錬だったね,训练效果不错呢。
+ST_TanrenEnd/KYOKO_BONUS2_SEGMENT3,"今回も いい鍛錬だったね
+じゃあ またね","这次的训练效果也不错呢。
+拜拜，下次见。"
+ST_TanrenEnd/KYOKO_BONUS3_SEGMENT1,"おつかれさま
+あたしも もっと頑張らなきゃな","辛苦了。
+我也得更加努力才行了。"
+ST_TanrenEnd/KYOKO_BONUS3_SEGMENT2,"いい鍛錬だったと思う・・
+あたしも 勉強になったよ","我觉得训练的效果不错……
+我也收获不少哦。"
+ST_TanrenEnd/KYOKO_BONUS3_SEGMENT3,"前よりずっと仲よくなれたような気がするな・・
+また何かあったら電話してね","感觉我们的关系比之前要亲密很多……
+有什么事再给我打电话吧。"
+ST_TanrenEnd/KYOKO_BONUS4_SEGMENT1,"すごく いい鍛錬だったと思う
+あたしも かなり勉強になったよ","训练的效果非常出色。
+我也有很多的收获哦。"
+ST_TanrenEnd/KYOKO_BONUS4_SEGMENT2,"すごいね・・あなたの運転・・
+また ナビシートに乗せてほしいな","你的驾驶技术……太厉害了……
+我希望还能有机会坐在副驾驶席上。"
+ST_TanrenEnd/KYOKO_BONUS4_SEGMENT3,"なんなのこの感じ・・ビビッ・・て・・
+イナズマに打たれたみたいな気分・・","这感觉是怎么回事……全身发麻……
+就像被闪电劈中一样……"

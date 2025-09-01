@@ -1,0 +1,102 @@
+key,source,target
+WD_TuningParts_Name/009,フロントラダーバー,车身前增强杆
+WD_TuningParts_Name/001,機械式ＬＳＤ,机械式LSD
+WD_TuningParts_Name/002,軽量フライホイール,轻质惯性轮
+WD_TuningParts_Name/003,強化クラッチ,强化离合器
+WD_TuningParts_Name/004,ハイリフトカムシャフト,高角度凸轮轴
+WD_TuningParts_Name/005,ポート研磨,汽缸研磨
+WD_TuningParts_Name/006,ポート研磨,汽缸研磨
+WD_TuningParts_Name/007,ボアアップ,增加气缸内径
+WD_TuningParts_Name/008,タワーバー,平衡杆
+WD_TuningParts_Name/010,リアラダーバー,车身后增强杆
+WD_TuningParts_Name/011,ロールバー,防滚架
+WD_TuningParts_Name/012,軽量化（ＬＶ１）,轻型化（LV1）
+WD_TuningParts_Name/013,軽量化（ＬＶ２）,轻型化（LV2）
+WD_TuningParts_Name/014,スポット増し,增加焊点
+WD_TuningParts_Name/015,レーシングブレーキパッド,赛车用制动套件
+WD_TuningParts_Name/016,メッシュホース,制动软管
+WD_TuningParts_Name/017,高性能サスペンション,高性能悬挂系统
+WD_TuningParts_Name/018,強化スタビライザー,强化平衡装置
+WD_TuningParts_Name/019,強化サスアーム,强化悬臂
+WD_TuningParts_Name/020,ビッグキャリパー,大卡钳
+WD_TuningParts_Name/021,大口径ブレーキローター,大直径制动盘
+WD_TuningParts_Name/022,エアクリーナー,空气滤清器
+WD_TuningParts_Name/023,強化ダクト,强化进气管
+WD_TuningParts_Name/024,スポーツ触媒,高性能触媒
+WD_TuningParts_Name/025,オイルクーラー,油冷器
+WD_TuningParts_Name/026,ＥＸマニホールド,排气歧管
+WD_TuningParts_Name/027,レーシングキャブレター,竞赛用气化器
+WD_TuningParts_Name/028,アーシング,接地
+WD_TuningParts_Name/029,レーシングプラグ,赛车用火花塞
+WD_TuningParts_Name/030,ドライバッテリー,干电瓶
+WD_TuningParts_Name/031,ＲＯＭ書き換え,改写电脑ROM
+WD_TuningParts_Name/032,イグニッションコイル,发火线圈
+WD_TuningParts_Name/033,サブコンピューター,辅助电脑系统
+WD_TuningParts_Name/034,フルコンピューター,全取代型行车电脑/全取代型ECU
+WD_TuningParts_Name/035,ハイフロータービン,高通量涡轮
+WD_TuningParts_Name/036,大口径タービン,大口径涡轮
+WD_TuningParts_Name/037,大口径タービン,大口径涡轮
+WD_TuningParts_Name/038,大口径スロットル,大口径节流阀
+WD_TuningParts_Name/039,大型インタークーラー,大型中冷器
+WD_TuningParts_Name/040,ブーストアップ,增压装置
+WD_TuningParts_Name/041,ボルトオンターボ,外挂涡轮套件
+WD_TuningParts_Name/042,サイドポート加工,侧边气埠加工
+WD_TuningParts_Name/043,強化アペックスシール,强化顶端密封垫片
+WD_TuningParts_Name/044,トーコンキャンセラー,可控制方向衬套
+WD_TuningParts_Name/045,大容量ラジエター,大容量水箱
+WD_TuningParts_Name/046,Vマウントインタークーラー,V-Mount中冷器
+WD_TuningParts_Name/047,ラジエタークーリングプレート,水箱散热片
+WD_TuningParts_Name/048,レース用エンジン載せ替え,竞赛用引擎
+WD_TuningParts_Name/049,ボルトオンスーパーチャージャー,机械增压器
+WD_TuningParts_Name/050,NAメカチューン,自吸机械改装
+WD_TuningParts_Name/051,ミスファイアリングCPU,偏时点火系统CPU
+WD_TuningParts_Name/052,ロータリーNAチューン,转子自吸改装
+WD_TuningParts_Name/053,Lv.15 スペシャルチューン,Lv.15
+WD_TuningParts_Name/054,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/055,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/056,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/057,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/058,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/059,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/060,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/061,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/062,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/063,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/064,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/065,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/066,Lv.15 スペシャルチューン,
+WD_TuningParts_Name/067,東堂商会レーシングチューン,东堂商会竞赛改装
+WD_TuningParts_Name/068,大排気量NAチューン,大排量自吸改装
+WD_TuningParts_Name/069,小径タービン,小口径涡轮
+WD_TuningParts_Name/070,アブレイダブルタービン,高耐磨涡轮改装
+WD_TuningParts_Name/071,ロータリーブーストダウンチューン,低进气量转子改装
+WD_TuningParts_Name/072,フルピロボール化サスペンション,万向轴承塔顶悬挂系统
+WD_TuningParts_Name/073,オーバーランブーストCPU,过载加速CPU
+WD_TuningParts_Name/074,リビルトシーケンシャルツインタービン,翻新序列式双涡轮
+WD_TuningParts_Name/075,NA3ローターエンジン,自吸三转子引擎
+WD_TuningParts_Name/076,V12エンジン載せ替え,更换V12引擎
+WD_TuningParts_Name/077,ロータリーターボ/FEED魔王チューン,转子涡轮/FEED魔王改装
+WD_TuningParts_Name/078,魔王号ターボチューン,魔王后涡轮改装
+WD_TuningParts_Name/079,魔王号NAメカチューン,魔王后自吸改装
+WD_TuningParts_Name/080,L28改エンジン＋ボルトオンツインターボ,L28改引擎＋外挂双涡轮增压
+WD_TuningParts_Name/081,大容量オイルクーラー,大容量油冷器
+WD_TuningParts_Name/082,大口径ターボ＋RWBチューン,大口径涡轮＋RWB改装
+WD_TuningParts_Name/083,大口径ターボ＋エンジンリビルド,大口径涡轮＋引擎翻新
+WD_TuningParts_Name/084,ダウンヒルSPECIAL,下坡SPECIAL
+WD_TuningParts_Name/085,オールラウンダーSPECIAL,全能SPECIAL
+WD_TuningParts_Name/086,ヒルクライムSPECIAL,上坡SPECIAL
+WD_TuningParts_Name/087,STEP Lv.1,
+WD_TuningParts_Name/088,STEP Lv.2,
+WD_TuningParts_Name/089,STEP Lv.3,
+WD_TuningParts_Name/090,STEP Lv.4,
+WD_TuningParts_Name/091,STEP Lv.5,
+WD_TuningParts_Name/092,STEP Lv.6,
+WD_TuningParts_Name/093,STEP Lv.7,
+WD_TuningParts_Name/094,STEP Lv.8,
+WD_TuningParts_Name/095,STEP Lv.9,
+WD_TuningParts_Name/096,STEP Lv.10,
+WD_TuningParts_Name/097,STEP Lv.11,
+WD_TuningParts_Name/098,STEP Lv.12,
+WD_TuningParts_Name/099,STEP Lv.13,
+WD_TuningParts_Name/100,STEP Lv.14,
+WD_TuningParts_Name/101,STEP Lv.15,

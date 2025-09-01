@@ -1,0 +1,146 @@
+key,source,target
+DT_NeonTableInfo/Neon_toho_reimu_50_UnderNeonName,アンダーネオン(博麗霊夢),UNDER NEON(REIMU HAKUREI)
+DT_NeonTableInfo/Neon_toho_marisa_51_UnderNeonName,アンダーネオン(霧雨魔理沙),UNDER NEON(MARISA KIRISAME)
+DT_NeonTableInfo/Neon_toho_shameimar_52_UnderNeonName,アンダーネオン(射命丸文),UNDER NEON(AYA SHAMEIMARU)
+DT_NeonTableInfo/Neon_inid_wave_00_UnderNeonName,ウェーブ,WAVE
+DT_NeonTableInfo/Neon_inid_wave_01_UnderNeonName,ウェーブ（レッド）,WAVE (RED)
+DT_NeonTableInfo/Neon_inid_wave_02_UnderNeonName,ウェーブ（オレンジ）,WAVE (ORANGE)
+DT_NeonTableInfo/Neon_inid_wave_03_UnderNeonName,ウェーブ（イエロー）,WAVE (YELLOW)
+DT_NeonTableInfo/Neon_inid_wave_04_UnderNeonName,ウェーブ（ライトグリーン）,WAVE (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_wave_05_UnderNeonName,ウェーブ（グリーン）,WAVE (GREEN)
+DT_NeonTableInfo/Neon_inid_wave_06_UnderNeonName,ウェーブ（ライトブルー）,WAVE (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_wave_07_UnderNeonName,ウェーブ（ブルー）,WAVE (BLUE)
+DT_NeonTableInfo/Neon_inid_wave_08_UnderNeonName,ウェーブ（パープル）,WAVE (PURPLE)
+DT_NeonTableInfo/Neon_inid_wave_09_UnderNeonName,ウェーブ（ピンク）,WAVE (PINK)
+DT_NeonTableInfo/Neon_inid_wave_10_UnderNeonName,ウェーブ（ゴールド）,WAVE (GOLD)
+DT_NeonTableInfo/Neon_inid_wave_11_UnderNeonName,ウェーブ（シルバー）,WAVE (SILVER)
+DT_NeonTableInfo/Neon_inid_wave_12_UnderNeonName,ウェーブ（ホワイト）,WAVE (WHITE)
+DT_NeonTableInfo/Neon_inid_spark_00_UnderNeonName,スパーク,SPARK
+DT_NeonTableInfo/Neon_inid_spark_01_UnderNeonName,スパーク（レッド）,SPARK (RED)
+DT_NeonTableInfo/Neon_inid_spark_02_UnderNeonName,スパーク（オレンジ）,SPARK (ORANGE)
+DT_NeonTableInfo/Neon_inid_spark_03_UnderNeonName,スパーク（イエロー）,SPARK (YELLOW)
+DT_NeonTableInfo/Neon_inid_spark_04_UnderNeonName,スパーク（ライトグリーン）,SPARK (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_spark_05_UnderNeonName,スパーク（グリーン）,SPARK (GREEN)
+DT_NeonTableInfo/Neon_inid_spark_06_UnderNeonName,スパーク（ライトブルー）,SPARK (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_spark_07_UnderNeonName,スパーク（ブルー）,SPARK (BLUE)
+DT_NeonTableInfo/Neon_inid_spark_08_UnderNeonName,スパーク（パープル）,SPARK (PURPLE)
+DT_NeonTableInfo/Neon_inid_spark_09_UnderNeonName,スパーク（ピンク）,SPARK (PINK)
+DT_NeonTableInfo/Neon_inid_spark_10_UnderNeonName,スパーク（ゴールド）,SPARK (GOLD)
+DT_NeonTableInfo/Neon_inid_spark_11_UnderNeonName,スパーク（シルバー）,SPARK (SILVER)
+DT_NeonTableInfo/Neon_inid_spark_12_UnderNeonName,スパーク（ホワイト）,SPARK (WHITE)
+DT_NeonTableInfo/Neon_inid_leaf_00_UnderNeonName,リーフ,LEAF
+DT_NeonTableInfo/Neon_inid_leaf_01_UnderNeonName,リーフ（レッド）,LEAF (RED)
+DT_NeonTableInfo/Neon_inid_leaf_02_UnderNeonName,リーフ（オレンジ）,LEAF (ORANGE)
+DT_NeonTableInfo/Neon_inid_leaf_03_UnderNeonName,リーフ（イエロー）,LEAF (YELLOW)
+DT_NeonTableInfo/Neon_inid_leaf_04_UnderNeonName,リーフ（ライトグリーン）,LEAF (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_leaf_05_UnderNeonName,リーフ（グリーン）,LEAF (GREEN)
+DT_NeonTableInfo/Neon_inid_leaf_06_UnderNeonName,リーフ（ライトブルー）,LEAF (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_leaf_07_UnderNeonName,リーフ（ブルー）,LEAF (BLUE)
+DT_NeonTableInfo/Neon_inid_leaf_08_UnderNeonName,リーフ（パープル）,LEAF (PURPLE)
+DT_NeonTableInfo/Neon_inid_leaf_09_UnderNeonName,リーフ（ピンク）,LEAF (PINK)
+DT_NeonTableInfo/Neon_inid_leaf_10_UnderNeonName,リーフ（ゴールド）,LEAF (GOLD)
+DT_NeonTableInfo/Neon_inid_leaf_11_UnderNeonName,リーフ（シルバー）,LEAF (SILVER)
+DT_NeonTableInfo/Neon_inid_leaf_12_UnderNeonName,リーフ（ホワイト）,LEAF (WHITE)
+DT_NeonTableInfo/Neon_inid_shock_00_UnderNeonName,ショック,SHOCK
+DT_NeonTableInfo/Neon_inid_shock_01_UnderNeonName,ショック（レッド）,SHOCK (RED)
+DT_NeonTableInfo/Neon_inid_shock_02_UnderNeonName,ショック（オレンジ）,SHOCK (ORANGE)
+DT_NeonTableInfo/Neon_inid_shock_03_UnderNeonName,ショック（イエロー）,SHOCK (YELLOW)
+DT_NeonTableInfo/Neon_inid_shock_04_UnderNeonName,ショック（ライトグリーン）,SHOCK (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_shock_05_UnderNeonName,ショック（グリーン）,SHOCK (GREEN)
+DT_NeonTableInfo/Neon_inid_shock_06_UnderNeonName,ショック（ライトブルー）,SHOCK (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_shock_07_UnderNeonName,ショック（ブルー）,SHOCK (BLUE)
+DT_NeonTableInfo/Neon_inid_shock_08_UnderNeonName,ショック（パープル）,SHOCK (PURPLE)
+DT_NeonTableInfo/Neon_inid_shock_09_UnderNeonName,ショック（ピンク）,SHOCK (PINK)
+DT_NeonTableInfo/Neon_inid_shock_10_UnderNeonName,ショック（ゴールド）,SHOCK (GOLD)
+DT_NeonTableInfo/Neon_inid_shock_11_UnderNeonName,ショック（シルバー）,SHOCK (SILVER)
+DT_NeonTableInfo/Neon_inid_shock_12_UnderNeonName,ショック（ホワイト）,SHOCK (WHITE)
+DT_NeonTableInfo/Neon_inid_cyber_00_UnderNeonName,サイバー,CYBER
+DT_NeonTableInfo/Neon_inid_cyber_01_UnderNeonName,サイバー（レッド）,CYBER (RED)
+DT_NeonTableInfo/Neon_inid_cyber_02_UnderNeonName,サイバー（オレンジ）,CYBER (ORANGE)
+DT_NeonTableInfo/Neon_inid_cyber_03_UnderNeonName,サイバー（イエロー）,CYBER (YELLOW)
+DT_NeonTableInfo/Neon_inid_cyber_04_UnderNeonName,サイバー（ライトグリーン）,CYBER (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_cyber_05_UnderNeonName,サイバー（グリーン）,CYBER (GREEN)
+DT_NeonTableInfo/Neon_inid_cyber_06_UnderNeonName,サイバー（ライトブルー）,CYBER (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_cyber_07_UnderNeonName,サイバー（ブルー）,CYBER (BLUE)
+DT_NeonTableInfo/Neon_inid_cyber_08_UnderNeonName,サイバー（パープル）,CYBER (PURPLE)
+DT_NeonTableInfo/Neon_inid_cyber_09_UnderNeonName,サイバー（ピンク）,CYBER (PINK)
+DT_NeonTableInfo/Neon_inid_cyber_10_UnderNeonName,サイバー（ゴールド）,CYBER (GOLD)
+DT_NeonTableInfo/Neon_inid_cyber_11_UnderNeonName,サイバー（シルバー）,CYBER (SILVER)
+DT_NeonTableInfo/Neon_inid_cyber_12_UnderNeonName,サイバー（ホワイト）,CYBER (WHITE)
+DT_NeonTableInfo/Neon_inid_snow_00_UnderNeonName,スノウ,SNOW
+DT_NeonTableInfo/Neon_inid_snow_01_UnderNeonName,スノウ（レッド）,SNOW (RED)
+DT_NeonTableInfo/Neon_inid_snow_02_UnderNeonName,スノウ（オレンジ）,SNOW (ORANGE)
+DT_NeonTableInfo/Neon_inid_snow_03_UnderNeonName,スノウ（イエロー）,SNOW (YELLOW)
+DT_NeonTableInfo/Neon_inid_snow_04_UnderNeonName,スノウ（ライトグリーン）,SNOW (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_snow_05_UnderNeonName,スノウ（グリーン）,SNOW (GREEN)
+DT_NeonTableInfo/Neon_inid_snow_06_UnderNeonName,スノウ（ライトブルー）,SNOW (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_snow_07_UnderNeonName,スノウ（ブルー）,SNOW (BLUE)
+DT_NeonTableInfo/Neon_inid_snow_08_UnderNeonName,スノウ（パープル）,SNOW (PURPLE)
+DT_NeonTableInfo/Neon_inid_snow_09_UnderNeonName,スノウ（ピンク）,SNOW (PINK)
+DT_NeonTableInfo/Neon_inid_snow_10_UnderNeonName,スノウ（ゴールド）,SNOW (GOLD)
+DT_NeonTableInfo/Neon_inid_snow_11_UnderNeonName,スノウ（シルバー）,SNOW (SILVER)
+DT_NeonTableInfo/Neon_inid_snow_12_UnderNeonName,スノウ（ホワイト）,SNOW (WHITE)
+DT_NeonTableInfo/Neon_inid_shape_00_UnderNeonName,シェイプ,SHAPE
+DT_NeonTableInfo/Neon_inid_shape_01_UnderNeonName,シェイプ（レッド）,SHAPE (RED)
+DT_NeonTableInfo/Neon_inid_shape_02_UnderNeonName,シェイプ（オレンジ）,SHAPE (ORANGE)
+DT_NeonTableInfo/Neon_inid_shape_03_UnderNeonName,シェイプ（イエロー）,SHAPE (YELLOW)
+DT_NeonTableInfo/Neon_inid_shape_04_UnderNeonName,シェイプ（ライトグリーン）,SHAPE (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_shape_05_UnderNeonName,シェイプ（グリーン）,SHAPE (GREEN)
+DT_NeonTableInfo/Neon_inid_shape_06_UnderNeonName,シェイプ（ライトブルー）,SHAPE (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_shape_07_UnderNeonName,シェイプ（ブルー）,SHAPE (BLUE)
+DT_NeonTableInfo/Neon_inid_shape_08_UnderNeonName,シェイプ（パープル）,SHAPE (PURPLE)
+DT_NeonTableInfo/Neon_inid_shape_09_UnderNeonName,シェイプ（ピンク）,SHAPE (PINK)
+DT_NeonTableInfo/Neon_inid_shape_10_UnderNeonName,シェイプ（ゴールド）,SHAPE (GOLD)
+DT_NeonTableInfo/Neon_inid_shape_11_UnderNeonName,シェイプ（シルバー）,SHAPE (SILVER)
+DT_NeonTableInfo/Neon_inid_shape_12_UnderNeonName,シェイプ（ホワイト）,SHAPE (WHITE)
+DT_NeonTableInfo/Neon_inid_neon_00_UnderNeonName,ストレート,STRAIGHT
+DT_NeonTableInfo/Neon_inid_neon_01_UnderNeonName,ストレート（レッド）,STRAIGHT (RED)
+DT_NeonTableInfo/Neon_inid_neon_02_UnderNeonName,ストレート（オレンジ）,STRAIGHT (ORANGE)
+DT_NeonTableInfo/Neon_inid_neon_03_UnderNeonName,ストレート（イエロー）,STRAIGHT (YELLOW)
+DT_NeonTableInfo/Neon_inid_neon_04_UnderNeonName,ストレート（ライトグリーン）,STRAIGHT (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_neon_05_UnderNeonName,ストレート（グリーン）,STRAIGHT (GREEN)
+DT_NeonTableInfo/Neon_inid_neon_06_UnderNeonName,ストレート（ライトブルー）,STRAIGHT (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_neon_07_UnderNeonName,ストレート（ブルー）,STRAIGHT (BLUE)
+DT_NeonTableInfo/Neon_inid_neon_08_UnderNeonName,ストレート（パープル）,STRAIGHT (PURPLE)
+DT_NeonTableInfo/Neon_inid_neon_09_UnderNeonName,ストレート（ピンク）,STRAIGHT (PINK)
+DT_NeonTableInfo/Neon_inid_neon_10_UnderNeonName,ストレート（ゴールド）,STRAIGHT (GOLD)
+DT_NeonTableInfo/Neon_inid_neon_11_UnderNeonName,ストレート（シルバー）,STRAIGHT (SILVER)
+DT_NeonTableInfo/Neon_inid_neon_12_UnderNeonName,ストレート（ホワイト）,STRAIGHT (WHITE)
+DT_NeonTableInfo/Neon_inid_spotL_00_UnderNeonName,スポットライト,SPOTLIGHT
+DT_NeonTableInfo/Neon_inid_spotL_01_UnderNeonName,スポットライト（レッド）,SPOTLIGHT (RED)
+DT_NeonTableInfo/Neon_inid_spotL_02_UnderNeonName,スポットライト（オレンジ）,SPOTLIGHT (ORANGE)
+DT_NeonTableInfo/Neon_inid_spotL_03_UnderNeonName,スポットライト（イエロー）,SPOTLIGHT (YELLOW)
+DT_NeonTableInfo/Neon_inid_spotL_04_UnderNeonName,スポットライト（ライトグリーン）,SPOTLIGHT (LIGHT GREEN)
+DT_NeonTableInfo/Neon_inid_spotL_05_UnderNeonName,スポットライト（グリーン）,SPOTLIGHT (GREEN)
+DT_NeonTableInfo/Neon_inid_spotL_06_UnderNeonName,スポットライト（ライトブルー）,SPOTLIGHT (LIGHT BLUE)
+DT_NeonTableInfo/Neon_inid_spotL_07_UnderNeonName,スポットライト（ブルー）,SPOTLIGHT (BLUE)
+DT_NeonTableInfo/Neon_inid_spotL_08_UnderNeonName,スポットライト（パープル）,SPOTLIGHT (PURPLE)
+DT_NeonTableInfo/Neon_inid_spotL_09_UnderNeonName,スポットライト（ピンク）,SPOTLIGHT (PINK)
+DT_NeonTableInfo/Neon_inid_spotL_10_UnderNeonName,スポットライト（ゴールド）,SPOTLIGHT (GOLD)
+DT_NeonTableInfo/Neon_inid_spotL_11_UnderNeonName,スポットライト（シルバー）,SPOTLIGHT (SILVER)
+DT_NeonTableInfo/Neon_inid_spotL_12_UnderNeonName,スポットライト（ホワイト）,SPOTLIGHT (WHITE)
+DT_NeonTableInfo/2B51FE11499D2325395924993D4F106A,ライフガード（ライトグリーン）,
+DT_NeonTableInfo/1268248146E043634A459FB1BA6C07F5,ライフガード（イエロー）,
+DT_NeonTableInfo/8C6741A14996C87D589B6C92D297EBBA,ライフガード（パープル）,
+/EB0D18134146839389F6ACA1B906C40E,20th anniv（ライトグリーン）,
+/A9889D1B4E1D60204FF07991B863CEBA,20th anniv（ライトブルー）,
+/4994CCDC41EBE52610B3B1BB0ABC3E92,20th anniv（パープル）,
+/78064FFC4076BD9EEBB3659E21B1DBA6,アンダーネオン(十六夜咲夜),
+/340724D54139822FCBE0498192DE27DE,アンダーネオン(レミリア・スカーレット),
+/65A9C5404FB8E5FF06AED59D8F4D4F42,アンダーネオン(フランドール・スカーレット),
+/30D8A1814A0AA4E64F6394B7B8C1F762,アンダーネオンDX(十六夜咲夜),
+/FF2C6B904B6AF54C2EAE9495645258A7,アンダーネオンDX(レミリア・スカーレット),
+/29A621344E0BA5A220FCF7804BF58421,アンダーネオンDX(フランドール・スカーレット),
+/521A5DBE44DC048C44D0A9AFF8B59EE3,アンダーネオン(初音ミク),
+/AC56802147DEB8CD77986582ABD1BEE7,アンダーネオン(鏡音リン・レン),
+/D28B63EB4484B63CD1814E93002159B3,アンダーネオン(巡音ルカ),
+/C7F3EB2947DF12C9ACE4878BDE44D7ED,アンダーネオンDX(初音ミク),
+/5E4F13B54B2E33A17C7796A7E1087387,アンダーネオンDX(鏡音リン・レン),
+/25225B3C40E1C30D442B499C52D84F6F,アンダーネオンDX(巡音ルカ),
+/D53DAF0046691FA4047BF0ACE8050574,アンダーネオン(魂魄妖夢),
+/DDAEA4EB4E1FBC9305942FBFE853E2D4,アンダーネオン(西行寺幽々子),
+/C9583C9B4C50A3BE8E177D8EC3E10D14,アンダーネオン(八雲紫),
+/2FF3C27647B3FD22C5E3C3B517C03E78,アンダーネオンDX(魂魄妖夢),
+/337B998041C1F5F26C3BEABCB9ADCC8F,アンダーネオンDX(西行寺幽々子),
+/BB5E6B3B4C409FC6E12714B5933AB022,アンダーネオンDX(八雲紫),
+/ACCAE38A41A1832D7E16E9AA65BDE386,アンダーネオン(ポプテピピック),
