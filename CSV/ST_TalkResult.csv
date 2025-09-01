@@ -375,7 +375,7 @@ ST_TalkResult/KAI_WIN_SEGMENT3,"相変わらずいい走りをするな！
 スキがないぜ！",
 ST_TalkResult/KAI_WIN_SEGMENT4,"理論とか置いといて ガキみたいにガムシャラな走りだったな！
 あんたが負ける理由を探すほうがむずかしいぜ・・！",
-ST_TalkResult/KAI_BIGWIN_SEGMENT1,"いい走りだ 自身持っていいぜ
+ST_TalkResult/KAI_BIGWIN_SEGMENT1,"いい走りだ 自信持っていいぜ
 もっと強い相手に挑戦してもいいんじゃないか？",
 ST_TalkResult/KAI_BIGWIN_SEGMENT2,"圧勝じゃねえか
 オレが見てもホレボレする走りだったぜ",
@@ -394,7 +394,7 @@ ST_TalkResult/KAI_JUSTLOSE_SEGMENT2,"惜しいな・・
 ST_TalkResult/KAI_JUSTLOSE_SEGMENT3,"しかたねえさ・・結果は結果・・
 あんたが全力を出したことはこのオレが認めるよ・・！",
 ST_TalkResult/KAI_BIGLOSE_SEGMENT1,"悪くないバトルだったぜ！
-もっと自身を持ってアクセルを踏みぬくんだ！",
+もっと自信を持ってアクセルを踏みぬくんだ！",
 ST_TalkResult/KAI_BIGLOSE_SEGMENT2,"残念だったな・・
 けど あんたの挑戦する姿勢 きらいじゃないぜ",
 ST_TalkResult/KAI_BIGLOSE_SEGMENT3,"そんなもんじゃないはずだろ？
@@ -546,3 +546,61 @@ ST_TalkResult/NATSUKI_MIDDLE_SEGMENT1,"・・
 ST_TalkResult/NATSUKI_MIDDLE_SEGMENT2,あんなにクルマいっぱいの中で走るの大変そうだね・・,
 ST_TalkResult/NATSUKI_MIDDLE_SEGMENT3,"もうひと踏ん張り！
 次は絶対勝てるよね！",
+ST_TalkResult/NOBU_WIN_SEGMENT1,なかなかやるな・・あんた,
+ST_TalkResult/NOBU_WIN_SEGMENT2,いいバトルだったと思うぜ,
+ST_TalkResult/NOBU_WIN_SEGMENT3,"いい走りだったな
+さすがだよ・・",
+ST_TalkResult/NOBU_WIN_SEGMENT4,"実戦での状況適応能力が天才的に高い・・！
+見事としか言いようがないぜ・・",
+ST_TalkResult/NOBU_BIGWIN_SEGMENT1,相当やるな・・あんた,
+ST_TalkResult/NOBU_BIGWIN_SEGMENT2,"うまいな・・
+もっと強いやつでもいいんじゃないか？",
+ST_TalkResult/NOBU_BIGWIN_SEGMENT3,"すげえ・・
+・・ていうかヤバイぜ・・",
+ST_TalkResult/NOBU_BIGWIN_SEGMENT4,"実戦での状況適応能力が天才的に高い・・！
+見事としか言いようがないぜ・・",
+ST_TalkResult/NOBU_JUSTWIN_SEGMENT1,ギリギリだが・・思ったよりはやるようだな,
+ST_TalkResult/NOBU_JUSTWIN_SEGMENT2,紙一重のバトルだったな,
+ST_TalkResult/NOBU_JUSTWIN_SEGMENT3,"ぴったりはりつかれていたな・・
+ヒヤヒヤしたぜ・・",
+ST_TalkResult/NOBU_JUSTLOSE_SEGMENT1,惜しかったな・・,
+ST_TalkResult/NOBU_JUSTLOSE_SEGMENT2,"惜しかったな・・
+だが いいバトルだったぜ",
+ST_TalkResult/NOBU_JUSTLOSE_SEGMENT3,"ただ相手のドライバーが一枚上手だっただけさ
+敵ながら見事としか言いようがない・・",
+ST_TalkResult/NOBU_BIGLOSE_SEGMENT1,完敗だな・・,
+ST_TalkResult/NOBU_BIGLOSE_SEGMENT2,"相手が強すぎたかもな・・
+誤算だったぜ",
+ST_TalkResult/NOBU_BIGLOSE_SEGMENT3,オレのシミュレーションではありえない事態だ,
+ST_TalkResult/NOBU_MIDDLE_SEGMENT1,悪くないバトルだったぜ,
+ST_TalkResult/NOBU_MIDDLE_SEGMENT2,集団にもまれながらのバトルも経験のうちだぜ,
+ST_TalkResult/NOBU_MIDDLE_SEGMENT3,"もつれたな・・
+だが いいバトルだったぜ",
+ST_TalkResult/KYOKO_WIN_SEGMENT1,いいバトルだったね,
+ST_TalkResult/KYOKO_WIN_SEGMENT2,不思議・・充実した気分・・,
+ST_TalkResult/KYOKO_WIN_SEGMENT3,"すごいね・・
+やっぱレベルちがうって思っちゃう・・",
+ST_TalkResult/KYOKO_WIN_SEGMENT4,ドラテクって完成に近づくとこうなるものなの！？,
+ST_TalkResult/KYOKO_BIGWIN_SEGMENT1,あなたなら もっと強い相手とも戦えそうだね,
+ST_TalkResult/KYOKO_BIGWIN_SEGMENT2,"すごい・・
+もちろん全開にはほど遠いんだろうけど・・",
+ST_TalkResult/KYOKO_BIGWIN_SEGMENT3,"ウルトラスムーズ・・全くムダな動きがない・・
+何もかもレベルがちがう！！",
+ST_TalkResult/KYOKO_BIGWIN_SEGMENT4,ドラテクって完成に近づくとこうなるものなの！？,
+ST_TalkResult/KYOKO_JUSTWIN_SEGMENT1,ギリギリだったね,
+ST_TalkResult/KYOKO_JUSTWIN_SEGMENT2,ヒヤヒヤするバトルだったね・・,
+ST_TalkResult/KYOKO_JUSTWIN_SEGMENT3,"あーびっくりした
+心臓とまるかと思った・・",
+ST_TalkResult/KYOKO_JUSTLOSE_SEGMENT1,惜しかったね,
+ST_TalkResult/KYOKO_JUSTLOSE_SEGMENT2,"惜しかったね・・
+でも いいバトルだったと思うよ",
+ST_TalkResult/KYOKO_JUSTLOSE_SEGMENT3,"相手もすごかったね・・
+でも 次勝つのは 絶対あなただと思う・・",
+ST_TalkResult/KYOKO_BIGLOSE_SEGMENT1,あのヒト 速かったね・・,
+ST_TalkResult/KYOKO_BIGLOSE_SEGMENT2,あたし・・どうしていいのかわかんない・・,
+ST_TalkResult/KYOKO_BIGLOSE_SEGMENT3,"あたし くやしい・・
+逆の立場だったら 同じ気持ちになったと思う・・",
+ST_TalkResult/KYOKO_MIDDLE_SEGMENT1,あと少しだったね・・,
+ST_TalkResult/KYOKO_MIDDLE_SEGMENT2,集団にもまれちゃったね・・,
+ST_TalkResult/KYOKO_MIDDLE_SEGMENT3,"あと少しだったね・・
+あなたなら 集団の先頭を走れると思うよ",
