@@ -149,3 +149,45 @@ ST_TanrenEnd/SEIJI_BONUS4_SEGMENT2,"どうなってるのかさっぱりわか�
 また峠にいくならオレを呼んでくれよ！",
 ST_TanrenEnd/SEIJI_BONUS4_SEGMENT3,"おまえのその速さは何なんだ！
 京一にも早く伝えてやんねーと！",
+ST_TanrenEnd/RYOSUKE_BONUS1_SEGMENT1,（噂どおりの才能・・といったところか）,
+ST_TanrenEnd/RYOSUKE_BONUS1_SEGMENT2,今回はここまでだ,
+ST_TanrenEnd/RYOSUKE_BONUS1_SEGMENT3,"今回はここまでだ
+おまえなら もっとうまくやれるはずだ",
+ST_TanrenEnd/RYOSUKE_BONUS2_SEGMENT1,（噂どおりの才能・・といったところか）,
+ST_TanrenEnd/RYOSUKE_BONUS2_SEGMENT2,"今回はここまでだ
+いい鍛錬になったんじゃないか？",
+ST_TanrenEnd/RYOSUKE_BONUS2_SEGMENT3,"ごくろうさん
+今回もいい鍛錬になったんじゃないか？",
+ST_TanrenEnd/RYOSUKE_BONUS3_SEGMENT1,"（噂どおりの才能・・）
+（いや こいつはそれ以上かもしれないな）",
+ST_TanrenEnd/RYOSUKE_BONUS3_SEGMENT2,"オレとしてもいいデータがとることができた
+また呼んでくれ",
+ST_TanrenEnd/RYOSUKE_BONUS3_SEGMENT3,"おまえといると 興味深いデータが得られるよ
+また呼んでくれ",
+ST_TanrenEnd/RYOSUKE_BONUS4_SEGMENT1,"（噂どおりの才能・・）
+（いや こいつはそれ以上かもしれないな）",
+ST_TanrenEnd/RYOSUKE_BONUS4_SEGMENT2,"オレとしてもいいデータがとることができた・・
+ごくろうさん よくやったぞ",
+ST_TanrenEnd/RYOSUKE_BONUS4_SEGMENT3,"まったく おまえはオレの予想を裏切ってくれるな
+おまえなら 公道最速理論を高い次元で再現できるかもな・・",
+ST_TanrenEnd/MAKO_BONUS1_SEGMENT1,おつかれさまでした,
+ST_TanrenEnd/MAKO_BONUS1_SEGMENT2,"おつかれさまでした
+無事に終わりましたね",
+ST_TanrenEnd/MAKO_BONUS1_SEGMENT3,"ふぅ・・おつかれさまでした
+また誘ってくださいね",
+ST_TanrenEnd/MAKO_BONUS2_SEGMENT1,"おつかれさまでした
+よい鍛錬になったんじゃないでしょうか？",
+ST_TanrenEnd/MAKO_BONUS2_SEGMENT2,いい鍛錬になりましたね！,
+ST_TanrenEnd/MAKO_BONUS2_SEGMENT3,今回も 充実した鍛錬になりましたね！,
+ST_TanrenEnd/MAKO_BONUS3_SEGMENT1,"おつかれさまでした
+あたしも 勉強になりました",
+ST_TanrenEnd/MAKO_BONUS3_SEGMENT2,"今回も よい鍛錬になりましたね
+あたしも 負けてられない・・",
+ST_TanrenEnd/MAKO_BONUS3_SEGMENT3,"あなたといると いろいろと学ぶことがあります
+また誘ってくださいね",
+ST_TanrenEnd/MAKO_BONUS4_SEGMENT1,"わあーっ すごいです！
+こんなにいい鍛錬になるなんて！",
+ST_TanrenEnd/MAKO_BONUS4_SEGMENT2,"あなたといっしょにいると
+走りってまだまだ奥が深いんだなって思います",
+ST_TanrenEnd/MAKO_BONUS4_SEGMENT3,"こんなにできちゃうなんて・・
+あたしも すごい充実感あるよ・・",

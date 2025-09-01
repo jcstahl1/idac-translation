@@ -29,36 +29,6 @@ ST_TalkResult/TAKUMI_MIDDLE_SEGMENT1,そんなに悪くないな,
 ST_TalkResult/TAKUMI_MIDDLE_SEGMENT2,集団に揉まれながらもいいバトルだったと思うよ,
 ST_TalkResult/TAKUMI_MIDDLE_SEGMENT3,"いいバトルだったな
 でも本当はあんたに勝ってほしかったよ",
-ST_TalkResult/KEISUKE_WIN_SEGMENT1,おまえ‥結構やるじゃねえか,
-ST_TalkResult/KEISUKE_WIN_SEGMENT2,おまえなら勝てると思っていたぜ,
-ST_TalkResult/KEISUKE_WIN_SEGMENT3,フッ‥当然の結果だな,
-ST_TalkResult/KEISUKE_WIN_SEGMENT4,"速ぇ・・悔しいが、おまえの方が先に
-アニキの理論を完成させちまうかもな",
-ST_TalkResult/KEISUKE_BIGWIN_SEGMENT1,"そんな相手で満足か？
-おまえならもっと強いヤツにも挑めるはずだぜ",
-ST_TalkResult/KEISUKE_BIGWIN_SEGMENT2,おまえはまだまだ上を目指せるな,
-ST_TalkResult/KEISUKE_BIGWIN_SEGMENT3,おまえに勝てるヤツなんてオレ以外にはいねえだろう,
-ST_TalkResult/KEISUKE_BIGWIN_SEGMENT4,"速ぇ・・悔しいが、おまえの方が先に
-アニキの理論を完成させちまうかもな",
-ST_TalkResult/KEISUKE_JUSTWIN_SEGMENT1,おいおい‥ヒヤヒヤさせるじゃねえか,
-ST_TalkResult/KEISUKE_JUSTWIN_SEGMENT2,"フッ‥なるほどな
-ギリギリの戦いでも強いタイプか",
-ST_TalkResult/KEISUKE_JUSTWIN_SEGMENT3,"フッ‥さぞかし肝を冷やしたんじゃねえか
-最終コーナー立ち上がったときからおまえの勝利は読めていたぜ",
-ST_TalkResult/KEISUKE_JUSTLOSE_SEGMENT1,そういう挑戦的な姿勢はキライじゃないぜ,
-ST_TalkResult/KEISUKE_JUSTLOSE_SEGMENT2,"おまえには才能があるはずだ
-こんなんで折れたりしねーよな",
-ST_TalkResult/KEISUKE_JUSTLOSE_SEGMENT3,"おまえが負けるなんて信じがたいぜ‥
-だけどこのバトルでおまえはまた強くなったはずだ",
-ST_TalkResult/KEISUKE_BIGLOSE_SEGMENT1,ちょっと相手が強すぎないか？,
-ST_TalkResult/KEISUKE_BIGLOSE_SEGMENT2,"どうしたんだ？
-らしくねーぜ",
-ST_TalkResult/KEISUKE_BIGLOSE_SEGMENT3,"強い相手に挑むのはいい姿勢だ
-だが自分の実力を知ることも大切だぜ",
-ST_TalkResult/KEISUKE_MIDDLE_SEGMENT1,まあそこそこってところだな,
-ST_TalkResult/KEISUKE_MIDDLE_SEGMENT2,"わるくはないけどな
-まだ上にいけるはずだ",
-ST_TalkResult/KEISUKE_MIDDLE_SEGMENT3,もう一踏ん張りすりゃあ勝てたと思うんだがな,
 ST_TalkResult/IKETANI_WIN_SEGMENT1,すごい‥おまえの走りからは何かすごい力を感じるぜ,
 ST_TalkResult/IKETANI_WIN_SEGMENT2,"やっぱりすごいな！
 レベルが違いすぎて参考にならない！",
@@ -92,6 +62,36 @@ ST_TalkResult/IKETANI_MIDDLE_SEGMENT2,"いいバトルだったな！
 やっぱり集団の中でバトルするのって大変だよなー",
 ST_TalkResult/IKETANI_MIDDLE_SEGMENT3,"アツいバトルだったぜ！
 本当はおまえに勝ってほしかったけどな！",
+ST_TalkResult/KEISUKE_WIN_SEGMENT1,おまえ‥結構やるじゃねえか,
+ST_TalkResult/KEISUKE_WIN_SEGMENT2,おまえなら勝てると思っていたぜ,
+ST_TalkResult/KEISUKE_WIN_SEGMENT3,フッ‥当然の結果だな,
+ST_TalkResult/KEISUKE_WIN_SEGMENT4,"速ぇ・・悔しいが、おまえの方が先に
+アニキの理論を完成させちまうかもな",
+ST_TalkResult/KEISUKE_BIGWIN_SEGMENT1,"そんな相手で満足か？
+おまえならもっと強いヤツにも挑めるはずだぜ",
+ST_TalkResult/KEISUKE_BIGWIN_SEGMENT2,おまえはまだまだ上を目指せるな,
+ST_TalkResult/KEISUKE_BIGWIN_SEGMENT3,おまえに勝てるヤツなんてオレ以外にはいねえだろう,
+ST_TalkResult/KEISUKE_BIGWIN_SEGMENT4,"速ぇ・・悔しいが、おまえの方が先に
+アニキの理論を完成させちまうかもな",
+ST_TalkResult/KEISUKE_JUSTWIN_SEGMENT1,おいおい‥ヒヤヒヤさせるじゃねえか,
+ST_TalkResult/KEISUKE_JUSTWIN_SEGMENT2,"フッ‥なるほどな
+ギリギリの戦いでも強いタイプか",
+ST_TalkResult/KEISUKE_JUSTWIN_SEGMENT3,"フッ‥さぞかし肝を冷やしたんじゃねえか
+最終コーナー立ち上がったときからおまえの勝利は読めていたぜ",
+ST_TalkResult/KEISUKE_JUSTLOSE_SEGMENT1,そういう挑戦的な姿勢はキライじゃないぜ,
+ST_TalkResult/KEISUKE_JUSTLOSE_SEGMENT2,"おまえには才能があるはずだ
+こんなんで折れたりしねーよな",
+ST_TalkResult/KEISUKE_JUSTLOSE_SEGMENT3,"おまえが負けるなんて信じがたいぜ‥
+だけどこのバトルでおまえはまた強くなったはずだ",
+ST_TalkResult/KEISUKE_BIGLOSE_SEGMENT1,ちょっと相手が強すぎないか？,
+ST_TalkResult/KEISUKE_BIGLOSE_SEGMENT2,"どうしたんだ？
+らしくねーぜ",
+ST_TalkResult/KEISUKE_BIGLOSE_SEGMENT3,"強い相手に挑むのはいい姿勢だ
+だが自分の実力を知ることも大切だぜ",
+ST_TalkResult/KEISUKE_MIDDLE_SEGMENT1,まあそこそこってところだな,
+ST_TalkResult/KEISUKE_MIDDLE_SEGMENT2,"わるくはないけどな
+まだ上にいけるはずだ",
+ST_TalkResult/KEISUKE_MIDDLE_SEGMENT3,もう一踏ん張りすりゃあ勝てたと思うんだがな,
 ST_TalkResult/SAYUKI_WIN_SEGMENT1,ふーん‥なかなかやるじゃない,
 ST_TalkResult/SAYUKI_WIN_SEGMENT2,あんた才能あるんじゃない！？,
 ST_TalkResult/SAYUKI_WIN_SEGMENT3,"やるじゃん！
@@ -296,3 +296,75 @@ ST_TalkResult/SEIJI_BIGLOSE_SEGMENT3,いつもみたいにおまえの快進撃�
 ST_TalkResult/SEIJI_MIDDLE_SEGMENT1,荒れてるねぇ　いいバトルだ,
 ST_TalkResult/SEIJI_MIDDLE_SEGMENT2,勝つにはもう少し足りねえな,
 ST_TalkResult/SEIJI_MIDDLE_SEGMENT3,いいバトルだけどよォ‥なんだかパッとしねえぜ,
+ST_TalkResult/RYOSUKE_WIN_SEGMENT1,噂通り悪くない走りだ,
+ST_TalkResult/RYOSUKE_WIN_SEGMENT2,ふっ・・ おまえなら勝てると思ってたよ,
+ST_TalkResult/RYOSUKE_WIN_SEGMENT3,"さすがだな
+ウチのチームのダブルエースに匹敵する走りかもな",
+ST_TalkResult/RYOSUKE_WIN_SEGMENT4,"長い間 作り続けた理論の一つの完成形・・
+おまえは それに限りなく近いサンプルの一つだ",
+ST_TalkResult/RYOSUKE_BIGWIN_SEGMENT1,"やるな
+その走りならもっと上を目指せるはずだ",
+ST_TalkResult/RYOSUKE_BIGWIN_SEGMENT2,"おまえの走り 気にいったぜ・・
+もっと広い世界に目を向けてもいいんじゃないか？",
+ST_TalkResult/RYOSUKE_BIGWIN_SEGMENT3,"さすがだな
+ウチのチームのダブルエースに匹敵する走りだ",
+ST_TalkResult/RYOSUKE_BIGWIN_SEGMENT4,"長い間 作り続けた理論の一つの完成形・・
+おまえは それに限りなく近いサンプルの一つだ",
+ST_TalkResult/RYOSUKE_JUSTWIN_SEGMENT1,"まだ粗はあるが・・
+悪くない走りだ",
+ST_TalkResult/RYOSUKE_JUSTWIN_SEGMENT2,"ギリギリの戦いを制したか・・
+この経験を糧にすれば おまえはもっと速くなれるはずだ",
+ST_TalkResult/RYOSUKE_JUSTWIN_SEGMENT3,"キリギリの戦いだったが よくやったな・・
+おまえ 本当にいい仕事したぜ",
+ST_TalkResult/RYOSUKE_JUSTLOSE_SEGMENT1,悪くない走りだ,
+ST_TalkResult/RYOSUKE_JUSTLOSE_SEGMENT2,"惜しい戦いだったな
+おまえなら この経験を糧にもっと速くなれるはずだ",
+ST_TalkResult/RYOSUKE_JUSTLOSE_SEGMENT3,"おまえが負けるとはな・・
+どうやら相手のほうが上手だったようだ",
+ST_TalkResult/RYOSUKE_BIGLOSE_SEGMENT1,"調子が悪いなんて
+走り屋の世界じゃ言いわけにならないぜ",
+ST_TalkResult/RYOSUKE_BIGLOSE_SEGMENT2,"どうした
+らしくないじゃないか？",
+ST_TalkResult/RYOSUKE_BIGLOSE_SEGMENT3,"強い相手に挑むのはいい傾向だ・・
+だが 自分の実力を知ることも大切だ",
+ST_TalkResult/RYOSUKE_MIDDLE_SEGMENT1,"完璧にはまだ遠いが・・
+見込みのある走りだ",
+ST_TalkResult/RYOSUKE_MIDDLE_SEGMENT2,"悪くないバトルだった
+どうすれば前をとれたか 考えてみろ",
+ST_TalkResult/RYOSUKE_MIDDLE_SEGMENT3,"惜しい試合だったな‥
+おまえなら 多台数のシミュレートもできるはずだ",
+ST_TalkResult/MAKO_WIN_SEGMENT1,"すごい・・
+碓氷峠の走り屋たちよりも速いかも・・",
+ST_TalkResult/MAKO_WIN_SEGMENT2,あなたなら勝てるんじゃないかなァって気がしてました,
+ST_TalkResult/MAKO_WIN_SEGMENT3,"やっぱりすごい・・
+昔あこがれてたあの人を思い出しちゃうなァ",
+ST_TalkResult/MAKO_WIN_SEGMENT4,"もうあたしには教えれることないですね
+こんど あなたの理論をあたしに教えてください",
+ST_TalkResult/MAKO_BIGWIN_SEGMENT1,"すごい・・
+あなたならもっと強い走り屋とも戦えるはずです",
+ST_TalkResult/MAKO_BIGWIN_SEGMENT2,"こんなに差をつけて勝てちゃうなんて
+さすがです",
+ST_TalkResult/MAKO_BIGWIN_SEGMENT3,"惚れ惚れするような走りでした
+あなたの実力なら 当然なのかもしれませんね",
+ST_TalkResult/MAKO_BIGWIN_SEGMENT4,"もうあたしには教えれることないですね
+こんど あなたの理論をあたしに教えてください",
+ST_TalkResult/MAKO_JUSTWIN_SEGMENT1,ヒヤヒヤするバトルでしたね・・,
+ST_TalkResult/MAKO_JUSTWIN_SEGMENT2,見ててヒヤっとしましたが いいバトルでした,
+ST_TalkResult/MAKO_JUSTWIN_SEGMENT3,"最後のせめぎ合い お見事です
+いいバトルでした",
+ST_TalkResult/MAKO_JUSTLOSE_SEGMENT1,惜しいバトルでしたね・・,
+ST_TalkResult/MAKO_JUSTLOSE_SEGMENT2,"いいバトルでしたけど 惜しかったですね・・
+次は勝てるはずです",
+ST_TalkResult/MAKO_JUSTLOSE_SEGMENT3,"あなたが負けちゃうなんて・・
+なんだかあたしまで悔しいです・・！",
+ST_TalkResult/MAKO_BIGLOSE_SEGMENT1,"ちょっと相手が強すぎましたね‥
+戦う相手は慎重に選ばないとですね",
+ST_TalkResult/MAKO_BIGLOSE_SEGMENT2,"すごい相手でしたね・・
+もっと速くなって リベンジしましょう",
+ST_TalkResult/MAKO_BIGLOSE_SEGMENT3,"調子が悪いみたいですね・・
+今日はまったりしたバトルでいいかもですね",
+ST_TalkResult/MAKO_MIDDLE_SEGMENT1,集団に揉まれながらもいいバトルでしたね,
+ST_TalkResult/MAKO_MIDDLE_SEGMENT2,"いいバトルだったと思います
+集団のなかでバトルするって大変ですね・・",
+ST_TalkResult/MAKO_MIDDLE_SEGMENT3,"すごい激しいバトルでしたね
+次はあなたが1位になれると信じています",

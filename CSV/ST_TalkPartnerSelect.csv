@@ -79,3 +79,18 @@ ST_TalkPartnerSelect/SEIJI_3,"まずいな‥そろそろ教えられること�
 （いやそもそもなんか教えたっけか？）",
 ST_TalkPartnerSelect/SEIJI_4,"認めたくねーけどよぉ
 最近のおまえは京一に引けをとらねえ走り屋だと思ってるんだ",
+ST_TalkPartnerSelect/RYOSUKE_1,"おまえの噂は聞いてたぜ・・
+さあ さっそくおまえの走りをみせてくれ",
+ST_TalkPartnerSelect/RYOSUKE_2,おまえか・・ まってたぜ,
+ST_TalkPartnerSelect/RYOSUKE_3,"そろそろ来るころだと思ってたぜ
+さあ 始めようか",
+ST_TalkPartnerSelect/RYOSUKE_4,"おまえはもう オレが認めるドライバーの一人だ
+今回も楽しみにしているぜ",
+ST_TalkPartnerSelect/MAKO_1,"えっ・・あたしにドラテクを教わりたいんですか・・？
+沙雪みたいに うまくできるかなァ・・",
+ST_TalkPartnerSelect/MAKO_2,"こないだの人・・ですよね
+また誘ってくれるなんて嬉しいです",
+ST_TalkPartnerSelect/MAKO_3,"今回も来てくれるんじゃないかなァ て思ってました
+よろしくお願いしますね",
+ST_TalkPartnerSelect/MAKO_4,"ふふっ・・
+沙雪に続いて すっかり新しい相棒ですね",
