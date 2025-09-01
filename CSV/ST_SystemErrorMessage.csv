@@ -1,0 +1,113 @@
+﻿key,source,target
+ST_SystemErrorMessage/None,[未定義],
+ST_SystemErrorMessage/ERROR_0008,"ERROR 0008
+Keychip Access Failed",
+ST_SystemErrorMessage/ERROR_0010,"ERROR 0010
+Unexpected GAME Program Failure",
+ST_SystemErrorMessage/ERROR_0025,"ERROR 0025
+Main board Malfunctioning",
+ST_SystemErrorMessage/ERROR_0027,"ERROR 0027
+Low Battery",
+ST_SystemErrorMessage/ERROR_0090,"ERROR 0090
+High CPU Temperature 換気のため、筐体内部のクリーニングが必要です。
+店員をお呼びください。",
+ST_SystemErrorMessage/ERROR_0090_02,"コンティニューできません。換気のため、筐体内部のクリーニングが必要です。
+店員をお呼びください。(0091)",
+ST_SystemErrorMessage/ERROR_0091,"ERROR 0091
+Too High CPU Temperature 換気のため、筐体内部のクリーニングが必要です。
+店員をお呼びください。",
+ST_SystemErrorMessage/ERROR_0800,"ERROR 0800
+その他予期せぬエラー 電源を切り、再起動してください。
+復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください。",
+ST_SystemErrorMessage/ERROR_0801,"ERROR 0801
+RTC アクセスエラー 電源を切り、再起動してください。
+復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください。",
+ST_SystemErrorMessage/ERROR_0802,"ERROR 0802
+ファイルアクセスエラー 電源を切り、再起動してください。
+復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください。",
+ST_SystemErrorMessage/ERROR_0803,"ERROR 0803
+ゲームの初期化に失敗しました 電源を切り、再起動してください。
+復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください。",
+ST_SystemErrorMessage/ERROR_0905,"ERROR 0905
+Graphic Function Not Found",
+ST_SystemErrorMessage/ERROR_0907,"ERROR 0907
+Not Enough System Memory",
+ST_SystemErrorMessage/ERROR_0910,ERROR 0910 ,
+ST_SystemErrorMessage/ERROR_0911,ERROR 0911 ,
+ST_SystemErrorMessage/ERROR_0949,"ERROR 0949
+Keychip Not Found",
+ST_SystemErrorMessage/ERROR_1001,"ERROR 1001
+ゲームの初期化に失敗しました 電源を切り、再起動してください。
+復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください。",
+ST_SystemErrorMessage/ERROR_6401,"ERROR 6401
+JVS I/O board is not connected to main board",
+ST_SystemErrorMessage/ERROR_6402,"ERROR 6402
+JVS I/O board does not fulfill the GAME spec",
+ST_SystemErrorMessage/ERROR_6503,"ERROR 6503
+読み込みに失敗しました。",
+ST_SystemErrorMessage/ERROR_6505,"ERROR 6505
+このAimeは現在プレイ中です。
+しばらく時間を置いてから使用して下さい。",
+ST_SystemErrorMessage/ERROR_6509,"ERROR 6509
+このAimeは利用できません。",
+ST_SystemErrorMessage/ERROR_8008,"ERROR 8008
+ALL.Netルーターとの接続ができません",
+ST_SystemErrorMessage/ERROR_8201,ALL.Net の認証に失敗しました ERROR CODE ： 8201,
+ST_SystemErrorMessage/ERROR_8301,"ERROR 8301
+ゲームを構成する機器と接続できません",
+ST_SystemErrorMessage/ERROR_8302,"ERROR 8302
+サーバーメンテナンス中です",
+ST_SystemErrorMessage/ERROR_8303_6003,"ネットワークの接続が確認できません。
+オフライン・シングル設定筐体として起動します。(6003)",
+ST_SystemErrorMessage/ERROR_8303_6013,"ネットワークエラー 8303
+改めて対戦相手を検索します。(6013)",
+ST_SystemErrorMessage/ERROR_8303_6014,"ネットワークエラー 8303
+改めて対戦相手を検索します。(6014)",
+ST_SystemErrorMessage/ERROR_8303_6015,"ネットワークエラー 8303
+改めて対戦相手を検索します。(6015)",
+ST_SystemErrorMessage/ERROR_8303_6016,"ネットワークエラー 8303
+改めて対戦相手を検索します。(6016)",
+ST_SystemErrorMessage/ERROR_8303_6018,"ネットワークエラー 8303
+一人用のゲームモードへ戻ります。(6018)",
+ST_SystemErrorMessage/ERROR_8303_6019,"ネットワークエラー 8303
+バトルを中断して、改めて対戦相手を検索します。(6019)",
+ST_SystemErrorMessage/ERROR_8304,"ERROR 8304
+通信に失敗しました(GAME)",
+ST_SystemErrorMessage/ERROR_8305,"ERROR 8305
+サーバー機エラー サーバー機が複数起動しています。
+DIP switchを確認してください。",
+ST_SystemErrorMessage/ERROR_8306,"ERROR 8306
+サーバー機認識エラー
+サーバー機との接続が確認できません。設定を確認してください。",
+ST_SystemErrorMessage/ERROR_8307,"ERROR 8307
+通信エラーが発生しました。
+今回のプレイデータは保存されなかった可能性があります。",
+ST_SystemErrorMessage/ERROR_8401,"ERROR 8401
+SEAT NUMBER 設定エラー
+SEAT NUMBERの設定が他の筐体と重なっています。設定をご確認ください。",
+ST_SystemErrorMessage/ERROR_8402,"ERROR 8402
+ペア筐体認識エラー
+シングル設定状態として起動します。",
+ST_SystemErrorMessage/ERROR_8111,ALL.Net 利用登録が確認できません。オフライン起動します。,
+ST_SystemErrorMessage/EDialog_0001,こちらのドライバー名は使用できません。,
+ST_SystemErrorMessage/EDialog_0002,ネットワークエラー店員をお呼びください。,
+ST_SystemErrorMessage/EDialog_0003,"【重要】ハンドルをセンターに合わせ、スタートボタンを押してください。
+調整を終了しました。テストモードのINPUT ASSIGNMENTSで再調整ができます。",
+ST_SystemErrorMessage/EDialog_0100,閉店時間の為、Aimeの利用はできません,
+ST_SystemErrorMessage/EDialog_0101,閉店時間のため、ただいまの時間はコンティニューができません。,
+ST_SystemErrorMessage/EDialog_0200,再起動が必要です。コンティニューができません。,
+ST_SystemErrorMessage/EDialog_0400,ネットワークエラーが発生しました。新規登録を中止します。,
+ST_SystemErrorMessage/EDialog_0401,"ネットワークエラーが発生しました。引き継ぎを中止します。
+次回ログイン時に再度引き継ぎを行います。",
+ST_SystemErrorMessage/EDialog_0500,"新しいバージョンのプレイデータがあります。
+現在のバージョンではプレイできません。",
+ST_SystemErrorMessage/EDialog_0501,"古いバージョンのプレイデータがあります。
+現在のバージョンではプレイできません。",
+ST_SystemErrorMessage/EDialog_1000,大会モードでは新規登録できません。データのあるAimeをかざしてください。,
+ST_SystemErrorMessage/EDialog_0004,"ネットワークエラーのため、データの取得に失敗しました。
+モード選択画面へ移行します。",
+ST_SystemErrorMessage/EDialog_0005,"ネットワークエラーのため、制限時間の延長はできません。
+モード選択画面へ移行します。",
+ST_SystemErrorMessage/EDialog_0006,ネットワークエラーが発生しました。,
+ST_SystemErrorMessage/EDialog_0007,"ネットワークエラーのため、データの取得に失敗しました。
+コンティニュー画面へ移行します。",
