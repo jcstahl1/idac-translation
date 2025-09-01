@@ -733,8 +733,8 @@ ST_GameMessage/TheoryMode_Lock_4WD,駆動方式「４ＷＤ」の任意車種１
 ST_GameMessage/ModeSelectBubble_NotLatestVersion,最新バージョンではないため、このモードを選択できません,
 ST_GameMessage/TheoryMode_ModeDetail,"コース・ライバルは自由に選択が可能！
 パートナーと共に一流の走り屋を目指せ‥！",
-ST_GameMessage/ModeInfo_Special,"Hot-Version名物コンテンツ　峠最強伝説が登場！
-君は魔王を乗りこなすことができるか！？",
+ST_GameMessage/ModeInfo_Special,"東京から来た二人が関東各地の峠に登場！？
+ライバルを倒し、報酬をゲットしよう！",
 ST_GameMessage/SpecialMode_Eventperiod,開催期間,
 ST_GameMessage/SpecialMode_HighestVSLv,最高クリア,
 ST_GameMessage/SpecialMode_Select_RewardVSLv,クリアで報酬獲得！,
@@ -920,8 +920,16 @@ ST_GameMessage/TeamSeq_TeamManage_AutoInviteConfig_Caution,※自動勧誘を行
 ST_GameMessage/TeamSeq_TeamManage_TeamDetail_TeamName,チーム名,
 ST_GameMessage/TeamSeq_TeamManage_TeamDetail_Store,所属店舗,
 ST_GameMessage/TeamSeq_TeamManage_TeamDetail_CurrentSetting,現在の設定,
-ST_GameMessage/SpecialMode_ClassSelect,クラスを選択してください,
+ST_GameMessage/SpecialMode_ClassSelect,VSを選択してください,
 ST_GameMessage/SpecialMode_RaceSelect,レースを選択してください,
 ST_GameMessage/TeamSeq_Common_SeqDetail_Recruit,チーム勧誘情報を確認します,
 ST_GameMessage/TeamSeq_TeamRecruit_Error,"チームに加入できませんでした
 チームメニュー画面に遷移します",
+ST_GameMessage/BGMCUSTOMIZE_Favorite BGM,お気に入りBGM設定,
+ST_GameMessage/BGMCUSTOMIZE_Playlist,プレイリスト設定,
+ST_GameMessage/BGMCUSTOMIZE_Change favorite setting,"プレイリストの変更により
+お気に入りBGMの設定が変更されました",
+ST_GameMessage/BGMCUSTOMIZE_Minimum Number Setting,"レース用BGMが1つも設定されていません
+おまかせとNo BGMのみが選択可能となります",
+ST_GameMessage/BGMCUSTOMIZE_explanatory note,チェックを入れて自分だけのプレイリストを作ろう！,
+ST_GameMessage/BGMCUSTOMIZE_UseArrowKey,この画面ではハンドルを使用できません。<Yellow>方向キー</>で操作可能です,
