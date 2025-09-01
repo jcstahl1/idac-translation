@@ -1,281 +1,320 @@
 key,source,target
-ST_GameMessage/﻿Operation_Confirm,決定,
-ST_GameMessage/Operation_Confirm2,完了,
-ST_GameMessage/Operation_Select,選択,
-ST_GameMessage/Operation_Back,戻る,
+ST_GameMessage/﻿Operation_Confirm,決定,确定
+ST_GameMessage/Operation_Confirm2,完了,结束
+ST_GameMessage/Operation_Select,選択,选择
+ST_GameMessage/Operation_Back,戻る,返回
 ST_GameMessage/Operation_ReturningToTitle,"タイトル
-に戻る",
-ST_GameMessage/Operation_Next,次へ,
-ST_GameMessage/Operation_Close,閉じる,
-ST_GameMessage/Operation_Switch,切替,
-ST_GameMessage/Operation_InitializeSettings,初期設定,
+に戻る","返回
+标题画面"
+ST_GameMessage/Operation_Next,次へ,下一步
+ST_GameMessage/Operation_Close,閉じる,关闭
+ST_GameMessage/Operation_Switch,切替,切换
+ST_GameMessage/Operation_InitializeSettings,初期設定,初始设置
 ST_GameMessage/Operation_PressAndHoldToSimpleConfig,"長押し：
-簡易コンフィグ",
+簡易コンフィグ","长按：
+简易设置"
 ST_GameMessage/Operation_DressUpShop,"ドレスアップ
-ショップ",
+ショップ","外观改装
+商店"
 ST_GameMessage/Operation_StorySkip,"長押しで
-スキップ",
-ST_GameMessage/RewardWindow_Receive,XX個受け取ります,
-ST_GameMessage/RewardWindow_ConvertTokens,最大所持数を超えて獲得した報酬を、キャッシュに変換します,
-ST_GameMessage/RewardWindow_InstallParts,ショップ＆カスタマイズで付け替えができます,
-ST_GameMessage/RewardDialog_Receive,報酬を受け取りました,
-ST_GameMessage/BannerWindow_ViewDetails,詳細表示,
-ST_GameMessage/ResultGrade_InstoreBattleRank,店内バトルランク昇格！！,
-ST_GameMessage/ResultGrade_OnlineBattleRank,オンラインバトルランク昇格！！,
-ST_GameMessage/ResultGrade_StoryRank,ストーリーランク昇格！！,
-ST_GameMessage/ResultGrade_TrialRank,トライアルランク昇格！！,
-ST_GameMessage/ResultGrade_Promoted,XXに昇格しました！,
+スキップ","长按后
+跳过"
+ST_GameMessage/RewardWindow_Receive,XX個受け取ります,获得了XX个
+ST_GameMessage/RewardWindow_ConvertTokens,最大所持数を超えて獲得した報酬を、キャッシュに変換します,超过最大拥有数获得的报酬，将转换成货币
+ST_GameMessage/RewardWindow_InstallParts,ショップ＆カスタマイズで付け替えができます,可在商店&自定义画面进行替换
+ST_GameMessage/RewardDialog_Receive,報酬を受け取りました,获得报酬
+ST_GameMessage/BannerWindow_ViewDetails,詳細表示,详细信息
+ST_GameMessage/ResultGrade_InstoreBattleRank,店内バトルランク昇格！！,店内对战等级升级！！
+ST_GameMessage/ResultGrade_OnlineBattleRank,オンラインバトルランク昇格！！,在线对战等级升级！！
+ST_GameMessage/ResultGrade_StoryRank,ストーリーランク昇格！！,剧情等级升级！！
+ST_GameMessage/ResultGrade_TrialRank,トライアルランク昇格！！,计时赛等级升级！！
+ST_GameMessage/ResultGrade_Promoted,XXに昇格しました！,升级为XX了！
 ST_GameMessage/ErrorCode_8307,"ERROR 8307
 通信エラーが発生しました。
 今回のプレイデータは正しく保存されなかった可能性があります。","ERROR 8307
 通信エラーが発生しました
 今回のプレイデータは正しく保存されなかった可能性があります"
-ST_GameMessage/DT_StoryClearCond_DefeatRival,<ClearTextRivalName>{name}</>に勝利せよ,
-ST_GameMessage/DT_StoryClearCond_OvertakeRival,<ClearTextRivalName>{name}</>を追い抜け,
-ST_GameMessage/DT_StoryClearCond_DontBeOvertaken,<ClearTextRivalName>{name}</>に抜かれるな,
-ST_GameMessage/DT_StoryClearCond_DontFallBehind,<ClearTextRivalName>{name}</>に<ClearTextValue>{value}</>ｍ以上離されるな,
-ST_GameMessage/DT_StoryClearCond_DefeatMoreThan,<ClearTextRivalName>{name}</>を<ClearTextValue>{value}</>ｍ以上離して勝利せよ,
-ST_GameMessage/DT_StoryClearCond_FinishRaceWithin,<ClearTextRivalName>{name}</>と<ClearTextValue>{value}</>ｍ以内でゴールせよ,
-ST_GameMessage/RaceTime_Overall,総合,
-ST_GameMessage/RaceTime_Car,車種,
+ST_GameMessage/DT_StoryClearCond_DefeatRival,<ClearTextRivalName>{name}</>に勝利せよ,战胜<ClearTextRivalName>{name}</>
+ST_GameMessage/DT_StoryClearCond_OvertakeRival,<ClearTextRivalName>{name}</>を追い抜け,超越<ClearTextRivalName>{name}</>
+ST_GameMessage/DT_StoryClearCond_DontBeOvertaken,<ClearTextRivalName>{name}</>に抜かれるな,别被<ClearTextRivalName>{name}</>超越
+ST_GameMessage/DT_StoryClearCond_DontFallBehind,<ClearTextRivalName>{name}</>に<ClearTextValue>{value}</>ｍ以上離されるな,别被<ClearTextRivalName>{name}</>甩开<ClearTextValue>{value}</>米以上
+ST_GameMessage/DT_StoryClearCond_DefeatMoreThan,<ClearTextRivalName>{name}</>を<ClearTextValue>{value}</>ｍ以上離して勝利せよ,把<ClearTextRivalName>{name}</>甩开<ClearTextValue>{value}</>米以上获得胜利
+ST_GameMessage/DT_StoryClearCond_FinishRaceWithin,<ClearTextRivalName>{name}</>と<ClearTextValue>{value}</>ｍ以内でゴールせよ,同<ClearTextRivalName>{name}</>保持在<ClearTextValue>{value}</>米以内冲过终点
+ST_GameMessage/RaceTime_Overall,総合,综合
+ST_GameMessage/RaceTime_Car,車種,车型
 ST_GameMessage/RaceTime_Instore,店内,
-ST_GameMessage/RaceTime_PersonalBest,自己ベスト,
-ST_GameMessage/RaceTime_Ghost,ゴースト,
-ST_GameMessage/RaceTime_Line Guide,ラインガイド,
+ST_GameMessage/RaceTime_PersonalBest,自己ベスト,个人最佳成绩
+ST_GameMessage/RaceTime_Ghost,ゴースト,幽灵车
+ST_GameMessage/RaceTime_Line Guide,ラインガイド,辅助线
 ST_GameMessage/DT_Advertise_InstoreBattleMode,現在、店内バトルモードはプレイできません。,現在、店内バトルモードはプレイできません
 ST_GameMessage/DT_Advertise_OnlineCantPlayed,"現在、ネットワークを使用するモードの
-プレイが制限されています",
+プレイが制限されています",当前，需要使用网络模式的游玩受到限制
 ST_GameMessage/DT_Advertise_OnlineCantUsed,"現在、ネットワークを使用するモードのプレイ、
 Ａｉｍｅの使用はできません。","現在、ネットワークを使用するモードのプレイ、
 Ａｉｍｅの使用はできません"
 ST_GameMessage/DT_Advertise_InstoreTournament,"「店内バトル」大会開催中！
-このシートは【{SeatNumber}】です",
+このシートは【{SeatNumber}】です","正在进行“店内对战”大会！
+这个座位是【{SeatNumber}】号"
 ST_GameMessage/DT_Advertise_TournamentError,"通信エラー発生中
-現在、大会モードはプレイできません",
-ST_GameMessage/Operation_Ranking,ランキング,
-ST_GameMessage/DT_InstoreBattlePolicy_AnyoneWelcome,誰でも歓迎！,
-ST_GameMessage/DT_InstoreBattlePolicy_MoreParts,ドレスアップ強化中！,
-ST_GameMessage/DT_InstoreBattlePolicy_RaceHard,本気で勝負！,
-ST_GameMessage/DT_InstoreBattlePolicy_Compete,連戦希望！,
-ST_GameMessage/DT_InstoreBattlePolicy_CollectBattleGift,バトルギフト収集中！,
-ST_GameMessage/AimeTouch_DataCannotSaved,※プレイしたあとにデータを保存することはできません,
-ST_GameMessage/AimeTouch_PleaseHoldYourAime,Aimeをリーダーにかざしてください,
-ST_GameMessage/AimeTouch_ByUsingAime,Aimeを利用することで、車のチューニングやプレイデータを保存することができます,
+現在、大会モードはプレイできません","发生通讯错误，
+当前无法游玩大会模式"
+ST_GameMessage/Operation_Ranking,ランキング,排名
+ST_GameMessage/DT_InstoreBattlePolicy_AnyoneWelcome,誰でも歓迎！,任何人都欢迎！
+ST_GameMessage/DT_InstoreBattlePolicy_MoreParts,ドレスアップ強化中！,外观改装！
+ST_GameMessage/DT_InstoreBattlePolicy_RaceHard,本気で勝負！,全力争胜！
+ST_GameMessage/DT_InstoreBattlePolicy_Compete,連戦希望！,大战三百合！
+ST_GameMessage/DT_InstoreBattlePolicy_CollectBattleGift,バトルギフト収集中！,正在收集对战礼物！
+ST_GameMessage/AimeTouch_DataCannotSaved,※プレイしたあとにデータを保存することはできません,游玩后的数据无法保存。
+ST_GameMessage/AimeTouch_PleaseHoldYourAime,Aimeをリーダーにかざしてください,请将二维码放到扫码器前扫描
+ST_GameMessage/AimeTouch_ByUsingAime,Aimeを利用することで、車のチューニングやプレイデータを保存することができます,登录账号后，可以保存车辆的定制数据。
 ST_GameMessage/ComCoin_PleaseInsert,"コインを<Yellow>{Num}</>枚
-投入してください",
+投入してください","请投入<Yellow>{Num}</>枚
+游戏代币"
 ST_GameMessage/CreateCard_PlayWithoutData,"データを使用せずにプレイします
-今回のプレイは保存されません",
-ST_GameMessage/AimeLicense_DoYouPlay,このデータで遊びますか？,
-ST_GameMessage/ComButtonSelect_Yes,はい,
-ST_GameMessage/ComButtonSelect_No,いいえ,
-ST_GameMessage/AimeDialog_ConfirmCode,アクセスコード確認,
-ST_GameMessage/CourseSel_ToUnlockShop,フルチューン到達でカーショップ解放！,
-ST_GameMessage/CourseSel_AvailableInStore,ショップ＆カスタマイズにて追加購入できます,
-ST_GameMessage/AimeDialog_RegisterLicense,新規免許証登録,
-ST_GameMessage/AimeDialog_DoYouRegister,免許証データを登録しますか？,
-ST_GameMessage/AimeDialog_TermsOfUse,プレイ規約,
-ST_GameMessage/AimeDialog_DoYouAgree,プレイ規約に同意しますか？,
-ST_GameMessage/AimeAccess_ConfirmCode,サービスサイトの登録に必要なアクセスコードの確認,
-ST_GameMessage/AimeAccess_WithStartButton1,スタートボタンで選択中のアクセスコードを表示します,
-ST_GameMessage/AimeAccess_WithStartButton2,※アクセスコードを他人に使用されないようご注意ください,
-ST_GameMessage/AimeAccess_End,終了,
-ST_GameMessage/SelName_EnterYourName,ドライバー名を入力してください,
-ST_GameMessage/Operation_Backspace,１文字消,
+今回のプレイは保存されません","不使用数据游玩
+本次游玩将不被保存"
+ST_GameMessage/AimeLicense_DoYouPlay,このデータで遊びますか？,用此数据游玩吗？
+ST_GameMessage/ComButtonSelect_Yes,はい,是
+ST_GameMessage/ComButtonSelect_No,いいえ,否
+ST_GameMessage/AimeDialog_ConfirmCode,アクセスコード確認,确认访问码
+ST_GameMessage/CourseSel_ToUnlockShop,フルチューン到達でカーショップ解放！,达到满级改装解锁汽车商店！
+ST_GameMessage/CourseSel_AvailableInStore,ショップ＆カスタマイズにて追加購入できます,可在商店&自定义画面额外购买
+ST_GameMessage/AimeDialog_RegisterLicense,新規免許証登録,新驾驶证注册
+ST_GameMessage/AimeDialog_DoYouRegister,免許証データを登録しますか？,要注册驾驶证数据吗？
+ST_GameMessage/AimeDialog_TermsOfUse,プレイ規約,游玩规定
+ST_GameMessage/AimeDialog_DoYouAgree,プレイ規約に同意しますか？,同意游玩规定吗？
+ST_GameMessage/AimeAccess_ConfirmCode,サービスサイトの登録に必要なアクセスコードの確認,确认注册服务网站所需要的访问码
+ST_GameMessage/AimeAccess_WithStartButton1,スタートボタンで選択中のアクセスコードを表示します,按下开始键显示选择中的访问码
+ST_GameMessage/AimeAccess_WithStartButton2,※アクセスコードを他人に使用されないようご注意ください,※请注意不要让访问码被他人使用
+ST_GameMessage/AimeAccess_End,終了,结束
+ST_GameMessage/SelName_EnterYourName,ドライバー名を入力してください,请输入车手姓名
+ST_GameMessage/Operation_Backspace,１文字消,删除1个字
 ST_GameMessage/SelName_DisplayedInRankings,"入力される情報は、ランキング、プロフィール等の情報やリプレイ表示のため
-ゲーム画面、当該ゲームに関する携帯・ＰＣサイト、雑誌等の媒体で公開されます",
-ST_GameMessage/SelName_End,決定,
+ゲーム画面、当該ゲームに関する携帯・ＰＣサイト、雑誌等の媒体で公開されます","输入的信息，会在排名、个人简介等信息或回放中显示，
+因此会在游戏画面以及关于该游戏的手机、PC网站、杂志等媒体上被公开"
+ST_GameMessage/SelName_End,決定,确定
 ST_GameMessage/SelName_ConfirmStartButton,"方向キーで選択し、
-<Yellow>START</>ボタンで決定します",
-ST_GameMessage/SelName_AreYouSure,こちらのドライバー名でよろしいですか？,
+<Yellow>START</>ボタンで決定します","通过方向键选择，
+用<Yellow>开始</>键确定"
+ST_GameMessage/SelName_AreYouSure,こちらのドライバー名でよろしいですか？,用这个车手姓名可以吗？
 ST_GameMessage/SelName_DecidedName,"こちらのドライバー名で決定しました
 ゲーム開始後にカスタマイズモードでドライバー名の変更が可能です",こちらのドライバー名で決定しました
 ST_GameMessage/SelName_ProhibitedWords,"禁止ワードが入力されているため
 こちらのドライバー名は使用できません
-再度入力してください",
+再度入力してください","因输入了禁用词语，
+这个车手姓名不能使用
+请再次输入"
 ST_GameMessage/SelName_TryAgain,"ドライバー名が入力されていません
-再度入力してください",
-ST_GameMessage/SelAvatar_SelectAvatar1,アバターを選択してください,
-ST_GameMessage/SelAvatar_SelectAvatar2,※決定後、変更することはできません,
-ST_GameMessage/AimeLicense_HomeArea,※ホームエリアは、タイムトライアルやランキングなどに表示されます,
-ST_GameMessage/SelTransmission_EquippedMT1,アドバンスドＭＴ機能搭載！,
+再度入力してください","没有输入车手姓名，
+请再次输入"
+ST_GameMessage/SelAvatar_SelectAvatar1,アバターを選択してください,请选择玩家形象
+ST_GameMessage/SelAvatar_SelectAvatar2,※決定後、変更することはできません,※确定后将无法改变
+ST_GameMessage/AimeLicense_HomeArea,※ホームエリアは、タイムトライアルやランキングなどに表示されます,※在主场地区，会显示计时赛以及排名等信息
+ST_GameMessage/SelTransmission_EquippedMT1,アドバンスドＭＴ機能搭載！,搭载进化型MT功能！
 ST_GameMessage/SelTransmission_EquippedMT2,"・ＭＴ（ミッション）とＡＴ（オートマチック）機能がハイブリッド！
-・ＭＴで走行中いつでもＡＴに切り替えできる！",
-ST_GameMessage/SelTransmission_ForAdvanced,上級者向け！,
-ST_GameMessage/SelTransmission_AutomaticallySwitches,レバー中央でＡＴにもなる！,
-ST_GameMessage/StartMenu_SelectManufacture,購入するメーカーを選択してください,
-ST_GameMessage/StartMenu_SelectCar,購入するクルマを選択してください,
-ST_GameMessage/StartMenu_SelectColor,カラーを選択してください,
-ST_GameMessage/StartMenu_SelectLicense,ナンバープレートを選択してください,
+・ＭＴで走行中いつでもＡＴに切り替えできる！","・MT(手动挡)和AT(自动挡)的功能合二为一！
+・使用MT驾驶时可以随时切换成AT！"
+ST_GameMessage/SelTransmission_ForAdvanced,上級者向け！,面向高级玩家！
+ST_GameMessage/SelTransmission_AutomaticallySwitches,レバー中央でＡＴにもなる！,将挡位放置于中央就能变成AT！
+ST_GameMessage/StartMenu_SelectManufacture,購入するメーカーを選択してください,请选择要购买的厂商
+ST_GameMessage/StartMenu_SelectCar,購入するクルマを選択してください,请选择要购买的车辆
+ST_GameMessage/StartMenu_SelectColor,カラーを選択してください,请选择颜色
+ST_GameMessage/StartMenu_SelectLicense,ナンバープレートを選択してください,请选择车牌
 ST_GameMessage/CarSelect_FullTuneTicket,"FULL Tune車種購入チケットを使用しました
-選択した車種はFULL Tune状態でプレイ開始します",
+選択した車種はFULL Tune状態でプレイ開始します","使用了满级性能改装车型购买券
+所选择的车型将以满级性能改装的状态开始游玩"
 ST_GameMessage/UserCreate_FailedSaveData,"データの保存に失敗しました
 再度データの登録を行ってください
-タイトル画面に戻ります",
+タイトル画面に戻ります","数据保存失败
+请再次进行数据注册
+将返回标题画面"
 ST_GameMessage/AimeDialog_LicenseDataText,"免許登録を行うことで
 <Yellow>車のカスタマイズやプレイデータの保存が行えます</>
 免許証データを登録しますか？",
 ST_GameMessage/SelName_DZeroData,"頭文字D Zeroのデータを確認しました
 {YYYY/MM/DD}時点でのドライバー名を引継ぎます",
-ST_GameMessage/StartMenu_SelectMode,モードを選択してください,
+ST_GameMessage/StartMenu_SelectMode,モードを選択してください,请选择模式
 ST_GameMessage/ModeInfo_SelectCourse,"走りたいコースを選んで、攻略を極めよう！
-全力の走りでベストタイムを叩き出せ‥！",
+全力の走りでベストタイムを叩き出せ‥！","可以选择喜欢的赛道驾车飞驰！
+适合赛道练习！"
 ST_GameMessage/ModeInfo_DRivalsAwait,"頭文字Ｄのライバルたちが君を待ち受ける！
-戦いを重ねて卓越した技術を手に入れろ‥！",
+戦いを重ねて卓越した技術を手に入れろ‥！","和头文字D原作角色对战！
+先从这里开始吧！"
 ST_GameMessage/ModeInfo_TurnUpFun,"店内のプレイヤーと一緒に盛り上がろう！
-白熱バトルで互いの実力を磨き上げろ‥！",
+白熱バトルで互いの実力を磨き上げろ‥！","可以和店内的对手对战！
+要和朋友一起玩就选这个模式！"
 ST_GameMessage/ModeInfo_BattleOtherPlayers,"各地のプレイヤーと１対１の真剣バトル！
-リアルタイムの駆け引きが勝敗を決する‥！",
+リアルタイムの駆け引きが勝敗を決する‥！","和模拟世界各地对手的COM进行对战！
+专为对战练习量身打造！"
 ST_GameMessage/DT_SelectPanel_PrivateMatch,プライベートマッチ中参戦はできません,プライベートマッチ中 参戦はできません
-ST_GameMessage/DT_SelectPanel_NoDataWasSaved,オフライン状態のためデータは保存されません,
-ST_GameMessage/DT_SelectPanel_YouCanSave,Aimeを使用するとデータを保存できます！,
-ST_GameMessage/ModeConfig_SteeringStrength,ステアリングの強さ,
-ST_GameMessage/ModeConfig_ToggleATMT,AT/MT切り替え,
-ST_GameMessage/ModeConfig_DefaultView,スタート時デフォルト視点,
-ST_GameMessage/ModeConfig_FavoriteBGM,お気に入りBGM,
-ST_GameMessage/ModeConfig_SoundVolume,サウンドマスターボリューム,
-ST_GameMessage/ModeConfig_BGMVolume,レース中BGMボリューム,
-ST_GameMessage/ModeConfig_SEVolume,走行関連SEボリューム,
-ST_GameMessage/ModeConfig_InstoreBattlePolicy,店内バトルポリシー,
-ST_GameMessage/MatchInvitation_ReceiveInvitation,店内バトルのお誘いが来ました！,
-ST_GameMessage/ComButton_Participate,参戦する,
-ST_GameMessage/ComButton_NotPaticipate,参戦しない,
+ST_GameMessage/DT_SelectPanel_NoDataWasSaved,オフライン状態のためデータは保存されません,没有连接网络，无法保存数据
+ST_GameMessage/DT_SelectPanel_YouCanSave,Aimeを使用するとデータを保存できます！,使用二维码后，可以保存数据！
+ST_GameMessage/ModeConfig_SteeringStrength,ステアリングの強さ,方向盘力度
+ST_GameMessage/ModeConfig_ToggleATMT,AT/MT切り替え,AT/MT切换
+ST_GameMessage/ModeConfig_DefaultView,スタート時デフォルト視点,开始时的默认视角
+ST_GameMessage/ModeConfig_FavoriteBGM,お気に入りBGM,最爱的背景音乐
+ST_GameMessage/ModeConfig_SoundVolume,サウンドマスターボリューム,声音总音量
+ST_GameMessage/ModeConfig_BGMVolume,レース中BGMボリューム,比赛中背景音乐音量
+ST_GameMessage/ModeConfig_SEVolume,走行関連SEボリューム,行驶相关的音效音量
+ST_GameMessage/ModeConfig_InstoreBattlePolicy,店内バトルポリシー,店内对战方针
+ST_GameMessage/MatchInvitation_ReceiveInvitation,店内バトルのお誘いが来ました！,收到店内对战的邀请！
+ST_GameMessage/ComButton_Participate,参戦する,参加对战
+ST_GameMessage/ComButton_NotPaticipate,参戦しない,不参加对战
 ST_GameMessage/MatchInvitation_CantSelectInstore,"※「参戦しない」を選択した場合、
-　今回のプレイでは「店内バトル」が選択できなくなります",
-ST_GameMessage/StartMenuStart_SelectStoryType,ストーリータイプを選択してください,
-ST_GameMessage/StartMenuStart_SelectChapter,チャプターを選択してください,
-ST_GameMessage/StartMenuStart_SelectStory,ストーリーを選択してください,
-ST_GameMessage/StartMenuStart_SelectDifficulty,難易度を選択してください,
-ST_GameMessage/StartMenuStart_SelectCar,搭乗するクルマを選択してください,
-ST_GameMessage/CarBest_BestTime,車種ベスト,
-ST_GameMessage/StartMenu_UseTuningPoints,チューニングポイントを消費してこのクルマの性能を上げます,
-ST_GameMessage/TuningWin_Complete,チューニングが完了しました！,
-ST_GameMessage/StartMenuTimeTrial_SelectCar,搭乗するクルマを選択してください,
-ST_GameMessage/StartMenu_SelectCourse,コースを選択してください,
-ST_GameMessage/LoadTimeAttack_TargetTime,目標タイム,
-ST_GameMessage/LoadTimeAttack_PersonalBest,自己ベスト,
-ST_GameMessage/LoadTimeAttack_TimeRating,XXXX以上のタイム評価で、熟練度ゲージが上昇します,
-ST_GameMessage/MatchSearch_Searching,対戦相手検索中,
-ST_GameMessage/MatchSearch_Found,マッチング成功！,
+　今回のプレイでは「店内バトル」が選択できなくなります","※选择“不参加对战”时，
+　本次游玩将无法选择“店内对战”"
+ST_GameMessage/StartMenuStart_SelectStoryType,ストーリータイプを選択してください,请选择剧情种类
+ST_GameMessage/StartMenuStart_SelectChapter,チャプターを選択してください,请选择章节
+ST_GameMessage/StartMenuStart_SelectStory,ストーリーを選択してください,请选择剧情
+ST_GameMessage/StartMenuStart_SelectDifficulty,難易度を選択してください,请选择难度
+ST_GameMessage/StartMenuStart_SelectCar,搭乗するクルマを選択してください,请选择驾驶的车辆
+ST_GameMessage/CarBest_BestTime,車種ベスト,车型最佳成绩
+ST_GameMessage/StartMenu_UseTuningPoints,チューニングポイントを消費してこのクルマの性能を上げます,消耗性能改装点数来提升此车辆的性能
+ST_GameMessage/TuningWin_Complete,チューニングが完了しました！,性能改装结束！
+ST_GameMessage/StartMenuTimeTrial_SelectCar,搭乗するクルマを選択してください,请选择驾驶的车辆
+ST_GameMessage/StartMenu_SelectCourse,コースを選択してください,请选择赛道
+ST_GameMessage/LoadTimeAttack_TargetTime,目標タイム,目标时间
+ST_GameMessage/LoadTimeAttack_PersonalBest,自己ベスト,个人最佳成绩
+ST_GameMessage/LoadTimeAttack_TimeRating,XXXX以上のタイム評価で、熟練度ゲージが上昇します,获得XXXX或以上的时间评价，可以提升熟练度
+ST_GameMessage/MatchSearch_Searching,対戦相手検索中,正在寻找对战玩家
+ST_GameMessage/MatchSearch_Found,マッチング成功！,配对成功！
 ST_GameMessage/LanBattleEntry_SelectMode,"対戦相手が見つかりしだい、店内バトルに移行します
-その間にプレイするモードを選択してください",
-ST_GameMessage/Intrutionicon_Accepting,店内マッチ受付中,
+その間にプレイするモードを選択してください","找到对战玩家时，将切换至店内对战
+在此期间请选择游玩模式"
+ST_GameMessage/Intrutionicon_Accepting,店内マッチ受付中,接受店内比赛
 ST_GameMessage/Intrutionicon_PrivateMatching,"店内バトル
-プライベートマッチング中",
+プライベートマッチング中","店内对战
+正在进行私人配对"
 ST_GameMessage/Intrutionicon_Seconds,秒,
-ST_GameMessage/LanBattleMatching_ObtainingOpponent,対戦相手の情報を取得しています,
-ST_GameMessage/LanBattleMatching_Confirmed,対戦相手が確定しました,
-ST_GameMessage/Match_SelectMatchingType,マッチング受付方法を選択してください,
-ST_GameMessage/LanBattleMatching_StartInstoreBattle,マッチングを受け付けたまま店内バトルを開始します,
-ST_GameMessage/MatchPlayer_Promotion1st,１位で昇格！！,
+ST_GameMessage/LanBattleMatching_ObtainingOpponent,対戦相手の情報を取得しています,正在获得对战玩家的信息
+ST_GameMessage/LanBattleMatching_Confirmed,対戦相手が確定しました,对战玩家已经确定
+ST_GameMessage/Match_SelectMatchingType,マッチング受付方法を選択してください,请选择配对的接受方法
+ST_GameMessage/LanBattleMatching_StartInstoreBattle,マッチングを受け付けたまま店内バトルを開始します,在接受配对的情况下开始店内对战
+ST_GameMessage/MatchPlayer_Promotion1st,１位で昇格！！,以第1名身份晋级！！
 ST_GameMessage/MatchPlayer_Promotion2nd,"２位以上で
-昇格！！",
+昇格！！","以前2名身份
+晋级！！"
 ST_GameMessage/MatchPlayer_Promotion3rd,"３位以上で
-昇格！！",
-ST_GameMessage/MatchPlayer_PromotionObtained,昇格確定！！,
-ST_GameMessage/MatchInfo_ExperienceIncDec,ランク経験値増減値,
-ST_GameMessage/MatchInfo_1stPlace,１位,
-ST_GameMessage/MatchInfo_2ndPlace,２位,
-ST_GameMessage/MatchInfo_3rdPlace,３位,
-ST_GameMessage/MatchInfo_4thPlace,４位,
-ST_GameMessage/MatchInfo_NumsInstoreWins,店内バトル累計勝利数,
-ST_GameMessage/MatchInfo_5Wins,勝,
-ST_GameMessage/MatchInfo_Promotion1st,１位で昇格！！,
-ST_GameMessage/MatchInfo_Promotion2nd,２位以上で昇格！！,
-ST_GameMessage/MatchInfo_Promotion3rd,３位以上で昇格！！,
-ST_GameMessage/MatchInfo_PromotionObtained,昇格確定！！,
-ST_GameMessage/StartMenuInstore_SelectCourse,コースを選択してください,
-ST_GameMessage/StartMenuInstore_SelectRoute,ルートを選択してください,
-ST_GameMessage/StartMenuInstore_SelectTimeZone,時間帯を選択してください,
-ST_GameMessage/StartMenuInstore_NotSelectByGuest,ゲストプレイヤーがいるため選択できません,
-ST_GameMessage/Match_AnotherPlayer,他のプレイヤーがコースを選択しています,
-ST_GameMessage/StartMenuInstore_SelectCar,搭乗するクルマを選択してください,
-ST_GameMessage/MatchBoost_OneBoostOn,一騎討ちブースト,
-ST_GameMessage/MatchBoost_MultiBoostOn,乱闘ブースト,
-ST_GameMessage/MatchBoost_BoostOff,ブーストOFF,
-ST_GameMessage/Match_WillBoostOff,プレイヤー全員がブレーキを踏み続けると、ブーストＯＦＦのバトルになります,
-ST_GameMessage/MatchBoost_WillApplied,が適用されます,
-ST_GameMessage/MatchBoost_OneBoost2,一騎討ちブースト,
-ST_GameMessage/MatchBoost_MultiBoost2,乱闘ブースト,
-ST_GameMessage/MatchBoost_BoostOff2,ブーストOFF,
-ST_GameMessage/MatchBoost_BoostStrength,ブーストの強さ,
-ST_GameMessage/ResultArticle_BasicPoints,基本ポイント,
-ST_GameMessage/ResultArticle_2instore,基本ポイント（店内２台）,
-ST_GameMessage/ResultArticle_3instore,基本ポイント（店内３台）,
-ST_GameMessage/ResultArticle_4instore,基本ポイント（店内４台）,
-ST_GameMessage/ResultArticle_Bonus1st,順位ボーナス（１位）,
-ST_GameMessage/ResultArticle_Bonus2nd,順位ボーナス（２位）,
-ST_GameMessage/ResultArticle_Bonus3rd,順位ボーナス（３位）,
-ST_GameMessage/ResultArticle_Bonus4th,順位ボーナス（４位）,
-ST_GameMessage/ResultArticle_Defeat,敗北,
-ST_GameMessage/LanBattleContinue_PleaseWait,対戦相手のコンティニューが決定するまでお待ちください,
-ST_GameMessage/MatchSearch_SearchingOpponent,対戦相手検索中,
-ST_GameMessage/MatchSearch_MatchFound,マッチング成功！,
+昇格！！","以前3名身份
+晋级！！"
+ST_GameMessage/MatchPlayer_PromotionObtained,昇格確定！！,确定晋级！！
+ST_GameMessage/MatchInfo_ExperienceIncDec,ランク経験値増減値,等级经验值变化值
+ST_GameMessage/MatchInfo_1stPlace,１位,第1名
+ST_GameMessage/MatchInfo_2ndPlace,２位,第2名
+ST_GameMessage/MatchInfo_3rdPlace,３位,第3名
+ST_GameMessage/MatchInfo_4thPlace,４位,第4名
+ST_GameMessage/MatchInfo_NumsInstoreWins,店内バトル累計勝利数,店内对战累计胜利数
+ST_GameMessage/MatchInfo_5Wins,勝,胜
+ST_GameMessage/MatchInfo_Promotion1st,１位で昇格！！,以第1名身份晋级！！
+ST_GameMessage/MatchInfo_Promotion2nd,２位以上で昇格！！,以前2名身份晋级！！
+ST_GameMessage/MatchInfo_Promotion3rd,３位以上で昇格！！,以前3名身份晋级！！
+ST_GameMessage/MatchInfo_PromotionObtained,昇格確定！！,确定晋级！！
+ST_GameMessage/StartMenuInstore_SelectCourse,コースを選択してください,请选择赛道
+ST_GameMessage/StartMenuInstore_SelectRoute,ルートを選択してください,请选择路线
+ST_GameMessage/StartMenuInstore_SelectTimeZone,時間帯を選択してください,请选择时间
+ST_GameMessage/StartMenuInstore_NotSelectByGuest,ゲストプレイヤーがいるため選択できません,因为有游客身份玩家，所以无法选择
+ST_GameMessage/Match_AnotherPlayer,他のプレイヤーがコースを選択しています,其他玩家正在选择赛道
+ST_GameMessage/StartMenuInstore_SelectCar,搭乗するクルマを選択してください,请选择驾驶的车辆
+ST_GameMessage/MatchBoost_OneBoostOn,一騎討ちブースト,单挑加成
+ST_GameMessage/MatchBoost_MultiBoostOn,乱闘ブースト,乱斗加成
+ST_GameMessage/MatchBoost_BoostOff,ブーストOFF,关闭加成
+ST_GameMessage/Match_WillBoostOff,プレイヤー全員がブレーキを踏み続けると、ブーストＯＦＦのバトルになります,全体玩家踩住刹车踏板时，可关闭加成进行对战
+ST_GameMessage/MatchBoost_WillApplied,が適用されます,发挥效果
+ST_GameMessage/MatchBoost_OneBoost2,一騎討ちブースト,单挑加成
+ST_GameMessage/MatchBoost_MultiBoost2,乱闘ブースト,乱斗加成
+ST_GameMessage/MatchBoost_BoostOff2,ブーストOFF,关闭加成
+ST_GameMessage/MatchBoost_BoostStrength,ブーストの強さ,加成强度
+ST_GameMessage/ResultArticle_BasicPoints,基本ポイント,基本点数
+ST_GameMessage/ResultArticle_2instore,基本ポイント（店内２台）,基本点数（店内2台）
+ST_GameMessage/ResultArticle_3instore,基本ポイント（店内３台）,基本点数（店内3台）
+ST_GameMessage/ResultArticle_4instore,基本ポイント（店内４台）,基本点数（店内4台）
+ST_GameMessage/ResultArticle_Bonus1st,順位ボーナス（１位）,排名奖励（第1名）
+ST_GameMessage/ResultArticle_Bonus2nd,順位ボーナス（２位）,排名奖励（第2名）
+ST_GameMessage/ResultArticle_Bonus3rd,順位ボーナス（３位）,排名奖励（第3名）
+ST_GameMessage/ResultArticle_Bonus4th,順位ボーナス（４位）,排名奖励（第4名）
+ST_GameMessage/ResultArticle_Defeat,敗北,战败
+ST_GameMessage/LanBattleContinue_PleaseWait,対戦相手のコンティニューが決定するまでお待ちください,请等待对战玩家确定是否继续游戏
+ST_GameMessage/MatchSearch_SearchingOpponent,対戦相手検索中,正在寻找对战玩家
+ST_GameMessage/MatchSearch_MatchFound,マッチング成功！,配对成功！
 ST_GameMessage/WanBattleSearch_SelectMode,"対戦相手が見つかりしだい、オンラインバトルに移行します
-その間にプレイするモードを選択してください",
+その間にプレイするモードを選択してください","找到对战玩家时，将切换至在线对战
+在此期间请选择游玩模式"
 ST_GameMessage/ComIntrutionicon_AcceptingEntries,"オンラインバトルマッチ
-受付中",
-ST_GameMessage/MatchInfo_OnlineRank,オンラインランク経験値増減値,
-ST_GameMessage/MatchInfo_ConsecutiveWins,連勝,
-ST_GameMessage/MatchInfo_WinRate,直近勝率,
-ST_GameMessage/MatchInfo_RoundInformation,ラウンド情報,
-ST_GameMessage/MatchInfo_Rank,位,
-ST_GameMessage/MatchInfo_RoundIncDec,ラウンドポイント増減値,
-ST_GameMessage/StartMenuOnline_SelectCourse,コースを選択してください,
-ST_GameMessage/StartMenuOnline_SelectRoute,ルートを選択してください,
-ST_GameMessage/StartMenuOnline_SelectTimeZone,時間帯を選択してください,
-ST_GameMessage/MatchOnline_AnotherPlayer,他のプレイヤーがコースを選択しています,
-ST_GameMessage/StartMenuOnline_SelectCar,搭乗するクルマを選択してください,
-ST_GameMessage/CarBestOnline_BestTime,車種ベスト,
-ST_GameMessage/MatchBoostOnline_OneBoostOn,一騎討ちブースト,
-ST_GameMessage/MatchBoostOnline_BoostOff,ブーストＯＦＦ,
+受付中","接受
+在线对战比赛"
+ST_GameMessage/MatchInfo_OnlineRank,オンラインランク経験値増減値,在线等级经验值变化值
+ST_GameMessage/MatchInfo_ConsecutiveWins,連勝,连胜
+ST_GameMessage/MatchInfo_WinRate,直近勝率,最近胜率
+ST_GameMessage/MatchInfo_RoundInformation,ラウンド情報,回合信息
+ST_GameMessage/MatchInfo_Rank,位,名
+ST_GameMessage/MatchInfo_RoundIncDec,ラウンドポイント増減値,回合点数变化值
+ST_GameMessage/StartMenuOnline_SelectCourse,コースを選択してください,请选择赛道
+ST_GameMessage/StartMenuOnline_SelectRoute,ルートを選択してください,请选择路线
+ST_GameMessage/StartMenuOnline_SelectTimeZone,時間帯を選択してください,请选择时间
+ST_GameMessage/MatchOnline_AnotherPlayer,他のプレイヤーがコースを選択しています,其他玩家正在选择赛道
+ST_GameMessage/StartMenuOnline_SelectCar,搭乗するクルマを選択してください,请选择驾驶的车辆
+ST_GameMessage/CarBestOnline_BestTime,車種ベスト,车型最佳成绩
+ST_GameMessage/MatchBoostOnline_OneBoostOn,一騎討ちブースト,单挑加成
+ST_GameMessage/MatchBoostOnline_BoostOff,ブーストＯＦＦ,关闭加成
 ST_GameMessage/MatchOnline_BrakeBoostOff,"プレイヤー全員がブレーキを踏み続けると、
-ブーストＯＦＦのバトルになります",
-ST_GameMessage/MatchBoostOnline_WillApplied,が適用されます,
-ST_GameMessage/MatchBoostOnline_BoostStrength,ブーストの強さ,
-ST_GameMessage/ResultArticleOnline_GoalTime,ゴールタイム,
-ST_GameMessage/ResultArticleOnline_Distance,距離差,
-ST_GameMessage/ResultArticleOnline_Victory,勝利,
-ST_GameMessage/ResultArticleOnline_DefeatedBonus,撃破ボーナス,
-ST_GameMessage/StartMenuShop_SelectMenu,メニューを選択してください,
+ブーストＯＦＦのバトルになります","全体玩家踩住刹车踏板时，
+可关闭加成进行对战"
+ST_GameMessage/MatchBoostOnline_WillApplied,が適用されます,发挥效果
+ST_GameMessage/MatchBoostOnline_BoostStrength,ブーストの強さ,加成强度
+ST_GameMessage/ResultArticleOnline_GoalTime,ゴールタイム,总时间
+ST_GameMessage/ResultArticleOnline_Distance,距離差,距离差
+ST_GameMessage/ResultArticleOnline_Victory,勝利,胜利
+ST_GameMessage/ResultArticleOnline_DefeatedBonus,撃破ボーナス,击败点数
+ST_GameMessage/StartMenuShop_SelectMenu,メニューを選択してください,请选择菜单
 ST_GameMessage/FactoryTimeup_Want1Credit,"{Credit}CREDIT を消費することで
 制限時間を{Second}秒延長することができます
-延長を行いますか？",
+延長を行いますか？","消耗{Credit}游戏点数
+可以延长规定时间{Second}秒
+需要延长吗？"
 ST_GameMessage/FactoryTimeup_TimesReached,"規定回数に達したため、制限時間の延長はできません
-モード選択画面へ移行します",
+モード選択画面へ移行します","The time limit cannot be extended because the specified number of times has been reached.
+Proceeding to MODE SELECT screen "
 ST_GameMessage/FactoryTimeup_NetworkError,"ネットワークエラーのため、データの取得に失敗しました
-モード選択画面へ移行します",
+モード選択画面へ移行します","发生网络错误，取得数据失败
+将转到模式选择画面"
 ST_GameMessage/FactoryTimeup_TimeNotExtendedError,"ネットワークエラーのため、制限時間の延長はできません
-モード選択画面へ移行します",
+モード選択画面へ移行します","发生网络错误，无法延长规定时间
+将转到模式选择画面"
 ST_GameMessage/FactoryTimeup_TimeNotExtendedReached,"規定回数に達したため、制限時間の延長はできません
-モード選択画面へ移行します",
-ST_GameMessage/StartMenuShop_SelectManufacture,クルマのメーカーを選択してください,
-ST_GameMessage/StartMenuShop_SelectCar,クルマを選択してください,
-ST_GameMessage/StartMenuShop_SelectColor,カラーを選択してください,
-ST_GameMessage/StartMenuShop_SelectTuningStype,チューニングスタイルを選択してください,
-ST_GameMessage/StartMenuShop_SelectLicense,ナンバープレートを選択してください,
-ST_GameMessage/CarShopBuy_PurchaseWithTicket,チケットで購入,
-ST_GameMessage/CarShopBuy_PurchaseWithCash,キャッシュで購入,
-ST_GameMessage/CarShopBuy_Return,戻る,
+モード選択画面へ移行します","已达到规定次数，无法延长规定时间
+将转到模式选择画面"
+ST_GameMessage/StartMenuShop_SelectManufacture,クルマのメーカーを選択してください,请选择车辆的厂商
+ST_GameMessage/StartMenuShop_SelectCar,クルマを選択してください,请选择车辆
+ST_GameMessage/StartMenuShop_SelectColor,カラーを選択してください,请选择颜色
+ST_GameMessage/StartMenuShop_SelectTuningStype,チューニングスタイルを選択してください,请选择性能改装风格
+ST_GameMessage/StartMenuShop_SelectLicense,ナンバープレートを選択してください,请选择车牌
+ST_GameMessage/CarShopBuy_PurchaseWithTicket,チケットで購入,用券购买
+ST_GameMessage/CarShopBuy_PurchaseWithCash,キャッシュで購入,用货币购买
+ST_GameMessage/CarShopBuy_Return,戻る,返回
 ST_GameMessage/CarShopBuy_PurchaseWithTicket2,"チケットを使用し、FULLTune状態で車を購入します。
 キャッシュは消費されません。","チケットを使用し、FULLTune状態で車を購入します
 キャッシュは消費されません"
-ST_GameMessage/CarShopBuy_PurchaseWithCash2,キャッシュを消費して購入します,
-ST_GameMessage/CarShopBuy_Return2,購入せず、カーショップへ戻ります,
+ST_GameMessage/CarShopBuy_PurchaseWithCash2,キャッシュを消費して購入します,消耗货币购买
+ST_GameMessage/CarShopBuy_Return2,購入せず、カーショップへ戻ります,不购买，返回汽车商店
 ST_GameMessage/CarShopBuy_FullTuneTicket,"<LightYellow>FULLTune車種購入チケット</>を消費して
-購入しますか？",
-ST_GameMessage/CarShopBuy_Purchase,を消費して購入しますか？,
-ST_GameMessage/CarSelect_AlreadyPurchasedManufacturer,選択したメーカーの車種はすべて購入済みです,
-ST_GameMessage/CarSelect_AlreadyPurchasedAttributes,選択した属性の車種はすべて購入済みです,
-ST_GameMessage/CarSelect_AlreadyPurchasedThisCar,選択した車種は購入済みです,
+購入しますか？","要消耗<LightYellow>满级性能改装车型购买券</>
+购买吗？"
+ST_GameMessage/CarShopBuy_Purchase,を消費して購入しますか？,要消耗货币购买吗？
+ST_GameMessage/CarSelect_AlreadyPurchasedManufacturer,選択したメーカーの車種はすべて購入済みです,所选厂商的车型已经全部购买了
+ST_GameMessage/CarSelect_AlreadyPurchasedAttributes,選択した属性の車種はすべて購入済みです,所选属性的车型已经全部购买了
+ST_GameMessage/CarSelect_AlreadyPurchasedThisCar,選択した車種は購入済みです,所选车型已经购买了
 ST_GameMessage/CarSelect_AlreadyPuchasedTuningStyle,"選択したチューニングスタイルの車種は
-購入済みです",
-ST_GameMessage/StartMenu_SelectFrame,登録する枠を選択してください,
+購入済みです",所选性能改装风格的车型已经购买了
+ST_GameMessage/StartMenu_SelectFrame,登録する枠を選択してください,请选择要登记的栏位
 ST_GameMessage/DressUpShop_SpendTokenParts,"ドレスアップトークンを {Num}枚消費して、
-選択したパーツを購入しますか？",
+選択したパーツを購入しますか？","要消耗 {Num}枚外观改装代币，
+购买所选配件吗？"
 ST_GameMessage/DressUpShop_UseTokenBodyColor,"ドレスアップトークンを {Num}枚消費して、
-選択したボディカラーに変更しますか？",
+選択したボディカラーに変更しますか？","要消耗 {Num}枚外观改装代币，
+变更成所选车身颜色吗？"
 ST_GameMessage/DressUpShop_UseTokesInstallParts,"ドレスアップトークンを {Num} 枚消費して、
-選択したパーツを装着しますか？",
+選択したパーツを装着しますか？","要消耗 {Num} 枚外观改装代币，
+将所选配件安装上去吗？"
 ST_GameMessage/PartsName_RemovablePartsAll,"取り外されるパーツ項目
 フロントスポイラー
 サイドスカート/フェンダー
@@ -290,152 +329,191 @@ ST_GameMessage/PartsName_RemovablePartsAll,"取り外されるパーツ項目
 マフラー
 ホイール
 アライメント
-ステッカー",
-ST_GameMessage/PartsName_RemovableParts,取り外されるパーツ項目,
-ST_GameMessage/CarShopInfo_Period,【引き換え期間】,
-ST_GameMessage/AvatarDialog_SpendRedeemParts,アバタートークンを消費してパーツを引き換えますか？,
-ST_GameMessage/AvatarDialog_SpendRedeemParts2,{Count}回,
+ステッカー","被取下的配件
+前扰流板
+侧裙板/挡泥板
+后包围
+后扰流板
+引擎盖
+后备箱
+后视镜
+车顶装饰
+空气动力套件
+其他空气动力配件
+消音器
+车轮
+四轮定位
+车贴"
+ST_GameMessage/PartsName_RemovableParts,取り外されるパーツ項目,被取下的配件
+ST_GameMessage/CarShopInfo_Period,【引き換え期間】,【交换期间】
+ST_GameMessage/AvatarDialog_SpendRedeemParts,アバタートークンを消費してパーツを引き換えますか？,要消耗玩家形象代币交换此配件吗？
+ST_GameMessage/AvatarDialog_SpendRedeemParts2,{Count}回,{Count}次
 ST_GameMessage/AvatarButton_Redeed1time,"{Count}回
-引き換える",
+引き換える","交换
+{Count}次"
 ST_GameMessage/AvatarButton_Redeed5times,"{Count}回
-引き換える",
-ST_GameMessage/AvatarButton_Cancel,キャンセル,
-ST_GameMessage/StartMenuInfo_SelectManufacturer,クルマのメーカーを選択してください,
-ST_GameMessage/StartMenuInfo_SelectCar,クルマを選択してください,
-ST_GameMessage/StartMenuInfo_SelectFrame,登録する枠を選択してください,
-ST_GameMessage/PartsName_FrontSpoiler,フロントスポイラー,
+引き換える","交换
+{Count}次"
+ST_GameMessage/AvatarButton_Cancel,キャンセル,取消
+ST_GameMessage/StartMenuInfo_SelectManufacturer,クルマのメーカーを選択してください,请选择车辆的厂商
+ST_GameMessage/StartMenuInfo_SelectCar,クルマを選択してください,请选择车辆
+ST_GameMessage/StartMenuInfo_SelectFrame,登録する枠を選択してください,请选择要登记的栏位
+ST_GameMessage/PartsName_FrontSpoiler,フロントスポイラー,前扰流板
 ST_GameMessage/PartsName_SideSkirt,"サイドスカート/
-フェンダー",
-ST_GameMessage/PartsName_RearBumper,リアバンパー,
-ST_GameMessage/PartsName_RearSpoiler,リアスポイラー,
-ST_GameMessage/PartsName_Bonnet,ボンネット,
-ST_GameMessage/PartsName_Trunk,トランク,
-ST_GameMessage/PartsName_Mirrors,ミラー,
-ST_GameMessage/PartsName_RoofAccessories,ルーフアクセサリ,
-ST_GameMessage/PartsName_AeroSet,エアロセット,
-ST_GameMessage/PartsName_OtherSets,その他エアロ,
-ST_GameMessage/PartsName_Muffler,マフラー,
-ST_GameMessage/PartsName_Wheels,ホイール,
-ST_GameMessage/PartsName_Alignment,アライメント,
-ST_GameMessage/PartsName_BodyColor,ボディカラー,
-ST_GameMessage/PartsName_Stickers,ステッカー,
-ST_GameMessage/DressUpShop_InstallParts,選択したパーツを装着しますか？,
+フェンダー","侧裙板/
+挡泥板"
+ST_GameMessage/PartsName_RearBumper,リアバンパー,后包围
+ST_GameMessage/PartsName_RearSpoiler,リアスポイラー,后扰流板
+ST_GameMessage/PartsName_Bonnet,ボンネット,引擎盖
+ST_GameMessage/PartsName_Trunk,トランク,后备箱
+ST_GameMessage/PartsName_Mirrors,ミラー,后视镜
+ST_GameMessage/PartsName_RoofAccessories,ルーフアクセサリ,车顶装饰
+ST_GameMessage/PartsName_AeroSet,エアロセット,空气动力套件
+ST_GameMessage/PartsName_OtherSets,その他エアロ,其他空气动力配件
+ST_GameMessage/PartsName_Muffler,マフラー,消音器
+ST_GameMessage/PartsName_Wheels,ホイール,车轮
+ST_GameMessage/PartsName_Alignment,アライメント,四轮定位
+ST_GameMessage/PartsName_BodyColor,ボディカラー,车身颜色
+ST_GameMessage/PartsName_Stickers,ステッカー,车贴
+ST_GameMessage/DressUpShop_InstallParts,選択したパーツを装着しますか？,要安装所选的配件吗？
 ST_GameMessage/DressUpShop_RemoveParts,※エアロセットに干渉する装着中パーツは取り外されます。,※エアロセットに干渉する装着中パーツは取り外されます
-ST_GameMessage/StartMenuInfo_SelectAuraShape,オーラの形状を選択してください,
-ST_GameMessage/StartMenuInfo_SelectAuraColor,オーラの色を選択してください,
-ST_GameMessage/StartMenuInfo_SelectAuraLevel,オーラのレベルを選択してください,
-ST_GameMessage/StartMenuInfo_SaveSettings,登録しますか？,
-ST_GameMessage/AuraSel_HasChanged,オーラを変更しました,
-ST_GameMessage/StartMenu_SelectMeter,メーターを選択してください,
-ST_GameMessage/StartMenu_SaveSettings,登録しますか？,
-ST_GameMessage/MeterDialog_MeterChanged,メーターを変更しました,
-ST_GameMessage/StartMenu_SelectInstallationSettings,装着設定を選択してください,
-ST_GameMessage/StartMenu_SelectMenuBG,メニュー背景を選択してください,
-ST_GameMessage/StartMenu_SaveBackgroundSetttings,登録しますか？,
-ST_GameMessage/StartMenuBGDialog_StartMenuBGChanged,メニュー背景を変更しました,
+ST_GameMessage/StartMenuInfo_SelectAuraShape,オーラの形状を選択してください,请选择气场的形状
+ST_GameMessage/StartMenuInfo_SelectAuraColor,オーラの色を選択してください,请选择气场的颜色
+ST_GameMessage/StartMenuInfo_SelectAuraLevel,オーラのレベルを選択してください,请选择气场的等级
+ST_GameMessage/StartMenuInfo_SaveSettings,登録しますか？,要设置吗？
+ST_GameMessage/AuraSel_HasChanged,オーラを変更しました,气场变更完成
+ST_GameMessage/StartMenu_SelectMeter,メーターを選択してください,请选择仪表
+ST_GameMessage/StartMenu_SaveSettings,登録しますか？,要装配吗？
+ST_GameMessage/MeterDialog_MeterChanged,メーターを変更しました,仪表变更完成
+ST_GameMessage/StartMenu_SelectInstallationSettings,装着設定を選択してください,请选择放置
+ST_GameMessage/StartMenu_SelectMenuBG,メニュー背景を選択してください,请选择菜单背景
+ST_GameMessage/StartMenu_SaveBackgroundSetttings,登録しますか？,要设置吗？
+ST_GameMessage/StartMenuBGDialog_StartMenuBGChanged,メニュー背景を変更しました,菜单背景变更完成
 ST_GameMessage/DT_AvtCustom_Face,"フェイス
 髪型
 輪郭
 目
 メガネ
 口
-その他",
-ST_GameMessage/AvatarCustom_Face,フェイス,
-ST_GameMessage/AvatarCustom_Hairstyle,髪型,
-ST_GameMessage/AvatarCustom_Shape,輪郭,
-ST_GameMessage/AvatarCustom_Eye,目,
-ST_GameMessage/AvatarCustom_Glasses,メガネ,
-ST_GameMessage/AvatarCustom_Mouth,口,
-ST_GameMessage/AvatarCustom_Other,その他,
+その他","脸
+发型
+外形
+眼睛
+眼镜
+嘴
+其他"
+ST_GameMessage/AvatarCustom_Face,フェイス,脸
+ST_GameMessage/AvatarCustom_Hairstyle,髪型,发型
+ST_GameMessage/AvatarCustom_Shape,輪郭,外形
+ST_GameMessage/AvatarCustom_Eye,目,眼睛
+ST_GameMessage/AvatarCustom_Glasses,メガネ,眼镜
+ST_GameMessage/AvatarCustom_Mouth,口,嘴
+ST_GameMessage/AvatarCustom_Other,その他,其他
 ST_GameMessage/DT_AvtCustom_Fashion,"ファッション
-服装",
-ST_GameMessage/AvatarCustom_Fashion,ファッション,
+服装","时尚
+服装"
+ST_GameMessage/AvatarCustom_Fashion,ファッション,时尚
 ST_GameMessage/AvatarCustom_Clothes,服装,
 ST_GameMessage/DT_AvtCustom_Background,"背景
 背景
-エフェクト",
+エフェクト","背景
+背后道具
+效果"
 ST_GameMessage/AvatarCustom_Background,背景,
-ST_GameMessage/AvatarCustom_Behind,背後アイテム,
-ST_GameMessage/AvatarCustom_Effects,エフェクト,
+ST_GameMessage/AvatarCustom_Behind,背後アイテム,背后道具
+ST_GameMessage/AvatarCustom_Effects,エフェクト,效果
 ST_GameMessage/DT_AvtCustom_Special,"スペシャル
-スペシャル",
-ST_GameMessage/AvatarCustom_Special,スペシャル,
+スペシャル","特殊
+特殊"
+ST_GameMessage/AvatarCustom_Special,スペシャル,特殊
 ST_GameMessage/AvatarCustom_UseArrowKey,この画面ではハンドルを使用できません。<Yellow>方向キー</>で操作可能です,この画面ではハンドルを使用できません<Yellow>方向キー</>で操作可能です
-ST_GameMessage/AvatarCustom_ChangeParts,選択したパーツに変更しますか？,
-ST_GameMessage/AvatarCustom_ChangeStamp,選択したスタンプに変更しますか？,
-ST_GameMessage/TitleEditDialog_Changing,装着中,
-ST_GameMessage/TitleEditDialog_ChangeTitle,こちらの称号に変更しますか？,
+ST_GameMessage/AvatarCustom_ChangeParts,選択したパーツに変更しますか？,要变更为所选配件吗？
+ST_GameMessage/AvatarCustom_ChangeStamp,選択したスタンプに変更しますか？,要变更为所选的聊天贴纸吗？
+ST_GameMessage/TitleEditDialog_Changing,装着中,已装配
+ST_GameMessage/TitleEditDialog_ChangeTitle,こちらの称号に変更しますか？,要变更为这个称号吗？
 ST_GameMessage/SelName_Error_DriverNameNotChange,"ネットワークエラーが発生しました
-ドライバー名変更を中止します",
-ST_GameMessage/StartMenu_SelectMenu,メニューを選択してください,
-ST_GameMessage/DT_MenuConfig_SteeringStrength,ステアリングの強さ,
-ST_GameMessage/DT_MenuConfig_ToggleATMT,AT/MT切り替え,
-ST_GameMessage/DT_MenuConfig_DefaultView,スタート時デフォルト視点,
-ST_GameMessage/DT_MenuConfig_FavoriteBGM,お気に入りBGM,
-ST_GameMessage/DT_MenuConfig_SoundVolume,サウンドマスターボリューム,
-ST_GameMessage/DT_MenuConfig_BGMVolume,レース中BGMボリューム,
-ST_GameMessage/DT_MenuConfig_SEVolume,走行関連SEボリューム,
-ST_GameMessage/DT_MenuConfig_InstorePolicy,店内バトルポリシー,
-ST_GameMessage/DT_MenuConfig_DrivingOnomatopoeia,レース中擬音,
-ST_GameMessage/DT_MenuConfig_CorneringGuide,コーナリングガイド,
-ST_GameMessage/DT_MenuConfig_CourseMinimap,コースミニマップ,
-ST_GameMessage/DT_MenuConfig_LineGuide,ラインガイド,
-ST_GameMessage/DT_MenuConfig_Ghost,ゴースト,
-ST_GameMessage/DT_MenuConfig_ForceExit,強制終了,
-ST_GameMessage/DT_MenuConfig_SkipResults,リザルトスキップ,
-ST_GameMessage/ConfigInfo_AdjustForceHandle,ハンドルの反力の強さを調節します,
-ST_GameMessage/ConfigInfo_SetShiftMethod,ギアの変速方法を設定します,
-ST_GameMessage/ConfigInfo_RearView,リアビュー,
-ST_GameMessage/ConfigInfo_FrontView,フロントビュー,
-ST_GameMessage/ConfigInfo_DefaultView,レーススタート時のデフォルト視点を設定します,
+ドライバー名変更を中止します","发生网络错误
+车手姓名变更中止"
+ST_GameMessage/StartMenu_SelectMenu,メニューを選択してください,请选择菜单
+ST_GameMessage/DT_MenuConfig_SteeringStrength,ステアリングの強さ,方向盘力度
+ST_GameMessage/DT_MenuConfig_ToggleATMT,AT/MT切り替え,AT/MT切换
+ST_GameMessage/DT_MenuConfig_DefaultView,スタート時デフォルト視点,开始时的默认视角
+ST_GameMessage/DT_MenuConfig_FavoriteBGM,お気に入りBGM,最爱的背景音乐
+ST_GameMessage/DT_MenuConfig_SoundVolume,サウンドマスターボリューム,声音总音量
+ST_GameMessage/DT_MenuConfig_BGMVolume,レース中BGMボリューム,比赛中背景音乐音量
+ST_GameMessage/DT_MenuConfig_SEVolume,走行関連SEボリューム,行驶相关的音效音量
+ST_GameMessage/DT_MenuConfig_InstorePolicy,店内バトルポリシー,店内对战方针
+ST_GameMessage/DT_MenuConfig_DrivingOnomatopoeia,レース中擬音,比赛中拟声词
+ST_GameMessage/DT_MenuConfig_CorneringGuide,コーナリングガイド,过弯指示
+ST_GameMessage/DT_MenuConfig_CourseMinimap,コースミニマップ,赛道小地图
+ST_GameMessage/DT_MenuConfig_LineGuide,ラインガイド,辅助线
+ST_GameMessage/DT_MenuConfig_Ghost,ゴースト,幽灵车
+ST_GameMessage/DT_MenuConfig_ForceExit,強制終了,强制结束
+ST_GameMessage/DT_MenuConfig_SkipResults,リザルトスキップ,跳过结果
+ST_GameMessage/ConfigInfo_AdjustForceHandle,ハンドルの反力の強さを調節します,调整方向盘力回馈力度
+ST_GameMessage/ConfigInfo_SetShiftMethod,ギアの変速方法を設定します,设置换挡方式
+ST_GameMessage/ConfigInfo_RearView,リアビュー,追尾视角
+ST_GameMessage/ConfigInfo_FrontView,フロントビュー,主视角
+ST_GameMessage/ConfigInfo_DefaultView,レーススタート時のデフォルト視点を設定します,设置比赛开始时的默认视角
 ST_GameMessage/ConfigInfo_DefaultBGM,"コース選択画面で変更できる「レース中BGM」の
-デフォルト曲を設定します",
-ST_GameMessage/ConfigInfo_GameVolume,ゲーム中の全体音量を調節します,
-ST_GameMessage/ConfigInfo_BgmVolume,レース中のBGM音量を調節します,
-ST_GameMessage/ConfigInfo_SeVolume,走行に関わるSE音量を調節します,
-ST_GameMessage/ConfigInfo_InstoreBattlePolicy_AnyoneWelcome,誰でも歓迎！,
-ST_GameMessage/ConfigInfo_InstoreBattlePolicy_MoreParts,ドレスアップ強化中！,
-ST_GameMessage/ConfigInfo_InstoreBattlePolicy_RaceHard,本気で勝負！,
-ST_GameMessage/ConfigInfo_InstoreBattlePolicy_Compete,連戦希望！,
-ST_GameMessage/ConfigInfo_InstoreBattlePolicy_CollectBattleGift,バトルギフト収集中！,
+デフォルト曲を設定します","设置可在赛道选择画面变更的
+“比赛中背景音乐”的默认曲"
+ST_GameMessage/ConfigInfo_GameVolume,ゲーム中の全体音量を調節します,调整游戏中整体音量
+ST_GameMessage/ConfigInfo_BgmVolume,レース中のBGM音量を調節します,调整比赛中的背景音乐音量
+ST_GameMessage/ConfigInfo_SeVolume,走行に関わるSE音量を調節します,调整行驶相关的音效音量
+ST_GameMessage/ConfigInfo_InstoreBattlePolicy_AnyoneWelcome,誰でも歓迎！,任何人都欢迎！
+ST_GameMessage/ConfigInfo_InstoreBattlePolicy_MoreParts,ドレスアップ強化中！,外观改装！
+ST_GameMessage/ConfigInfo_InstoreBattlePolicy_RaceHard,本気で勝負！,全力争胜！
+ST_GameMessage/ConfigInfo_InstoreBattlePolicy_Compete,連戦希望！,大战三百合！
+ST_GameMessage/ConfigInfo_InstoreBattlePolicy_CollectBattleGift,バトルギフト収集中！,正在收集对战礼物！
 ST_GameMessage/ConfigInfo_InstoreBattlePolicy,"店内バトルモードのプレイ目的やポリシーを
-設定します",
-ST_GameMessage/ConfigInfo_ToggleOnomatopoeia,レース中に表示される擬音の有無を切り替えます,
+設定します",设置店内对战模式的游玩目的以及方针
+ST_GameMessage/ConfigInfo_ToggleOnomatopoeia,レース中に表示される擬音の有無を切り替えます,可选择是否在比赛中显示拟声词
 ST_GameMessage/ConfigInfo_ToggleCorneringGuide,"レース中に表示される
-コーナリングガイドの有無を切り替えます",
+コーナリングガイドの有無を切り替えます",可选择是否在比赛中显示过弯指示
 ST_GameMessage/ConfigInfo_AdjustSizeMinimap,"レース中に表示される
-コースミニマップのサイズを変更します",
+コースミニマップのサイズを変更します",可变更在比赛中显示的赛道小地图的尺寸
 ST_GameMessage/ConfigInfo_ToggleLineGuide,"レース中に表示される
-ラインガイドの有無を切り替えます",
+ラインガイドの有無を切り替えます",可选择是否在比赛中显示辅助线
 ST_GameMessage/ConfigInfo_ToggleGhost,"タイムトライアルモードのレース中に表示される
-ゴーストの有無を切り替えます",
+ゴーストの有無を切り替えます",可选择是否在计时赛模式行驶中显示幽灵车
 ST_GameMessage/ConfigInfo_ForceExits,"左右キーを条件通りに入力することで、レースの
 強制終了ができるようにするかを設定します
 （ストーリーモード/タイムトライアルモード/
-公道最速理論モードのみ）",
+公道最速理論モードのみ）","设置按下左右键时，
+是否强制结束比赛
+（仅限剧情模式/计时赛模式/
+公路最快理论模式）"
 ST_GameMessage/ConfigInfo_WhetherToSkip,"タイムトライアルモードでレースを強制終了した
 際に、即座にコンティニューまでスキップするかを
-設定します",
+設定します","设置在计时赛模式中强制结束比赛时，
+是否立刻跳转至续关画面"
 ST_GameMessage/ConfigInfo_WhetherToSkip2,"（獲得表示はスキップされますが、各種報酬や
-プレイスタンプはデータ上、正しく保存されます）",
+プレイスタンプはデータ上、正しく保存されます）","（报酬获得信息会被跳过，但各种报酬以及
+游玩图章等数据会被正确保存）"
 ST_GameMessage/ConfigInfo_UseTheArrowKeys,"方向キーで設定を切り替え、
-<Yellow>START</>ボタンで完了します",
-ST_GameMessage/ConfigInfo_UseTheArrowKeys2,<Blue>VIEW CHANGE</>ボタンで設定を初期化します,
+<Yellow>START</>ボタンで完了します","用方向键切换设置，
+用<Yellow>开始键</>结束设置"
+ST_GameMessage/ConfigInfo_UseTheArrowKeys2,<Blue>VIEW CHANGE</>ボタンで設定を初期化します,用<Blue>切换视角</>键初始化设置
 ST_GameMessage/ConfigDialog_RestoreSettings,"各設定を初期値に戻します
-よろしいですか？",
+よろしいですか？","将回到各种设置的初始值，
+可以吗？"
 ST_GameMessage/ConfigDialog_TimelimitExceeded,"制限時間を超えました
-モード選択画面へ移動します",
-ST_GameMessage/PlaydataCar_NumUsed,使用回数,
-ST_GameMessage/PlaydataCar_Story,ストーリー,
-ST_GameMessage/PlaydataCar_TimeTrial,タイムトライアル,
-ST_GameMessage/PlaydataCar_InstoreBattle,店内バトル,
-ST_GameMessage/PlaydataCar_OnlineBattle,オンラインバトル,
-ST_GameMessage/PlaydataCar_Theory,公道最速理論,
+モード選択画面へ移動します","超过了规定时间
+将转到模式选择画面"
+ST_GameMessage/PlaydataCar_NumUsed,使用回数,使用次数
+ST_GameMessage/PlaydataCar_Story,ストーリー,剧情
+ST_GameMessage/PlaydataCar_TimeTrial,タイムトライアル,计时赛
+ST_GameMessage/PlaydataCar_InstoreBattle,店内バトル,店内对战
+ST_GameMessage/PlaydataCar_OnlineBattle,オンラインバトル,在线对战
+ST_GameMessage/PlaydataCar_Theory,公道最速理論,公路最快理论
 ST_GameMessage/PlaydataError_NotObtained,"データが取得出来ませんでした
-モード選択画面へ移動します",
-ST_GameMessage/PlayStamp_EventPeriod,開催期間,
+モード選択画面へ移動します","无法取得数据，
+将转到模式选择画面"
+ST_GameMessage/PlayStamp_EventPeriod,開催期間,活动日期
 ST_GameMessage/ContinueInfo_Credit,"クレジットが残っています
-終了してよろしいですか？",
+終了してよろしいですか？","还有剩余的游戏点数，
+可以结束吗？"
 ST_GameMessage/ErrorCode_Felica,"ERROR 6503
 読み込みに失敗しました。","ERROR 6503
 読み込みに失敗しました"
@@ -447,9 +525,10 @@ ST_GameMessage/ErrorCode_AlreadyPlaying,"ERROR 6505
 ST_GameMessage/ErrorCode_VersionError,"新しいバージョンのプレイデータがあります。
 現在のバージョンではプレイできません。","新しいバージョンのプレイデータがあります
 現在のバージョンではプレイできません"
-ST_GameMessage/ErrorCode_Undefined,[未定義],
+ST_GameMessage/ErrorCode_Undefined,[未定義],“未定义”
 ST_GameMessage/ErrorCode_FailedUnlock,"ERROR 8304
-通信に失敗しました(GAME)",
+通信に失敗しました(GAME)","错误 8304
+通讯失败(游戏)"
 ST_GameMessage/ErrorCode_CloseSetting,"ERROR 6503
 読み込みに失敗しました。","ERROR 6503
 読み込みに失敗しました"
@@ -465,71 +544,93 @@ ST_GameMessage/ErrorCode_OldVersionTournament,"古いバージョンのプレイ
 現在のバージョンではプレイできません。","古いバージョンのプレイデータがあります
 現在のバージョンではプレイできません"
 ST_GameMessage/ErrorCode_FailedDownload,"ERROR 8302
-サーバーメンテナンス中です",
+サーバーメンテナンス中です","错误 8302
+服务器正在维护"
 ST_GameMessage/ErrorCode_BanUser,"ERROR 6509
 このAimeは利用できません。","ERROR 6509
 このAimeは利用できません"
 ST_GameMessage/Tournament_CabinetNotFound,"対戦可能な筐体が見つかりませんでした
-アドバタイズ画面に戻ります",
+アドバタイズ画面に戻ります","没有找到可以进行对战的框体
+将返回宣传画面"
 ST_GameMessage/Tournament_TimeExceeded,"制限時間を超えました
-店内バトルへ移動します",
+店内バトルへ移動します","超过规定时间
+将转到店内对战画面"
 ST_GameMessage/DT_Advertise_InstoreTournament_A,"「店内バトル」大会開催中！
-現在、【SPECIAL A (IN-SHOP VS2)】設定です",
+現在、【SPECIAL A (IN-SHOP VS2)】設定です","正在召开“店内对战”大会！
+当前的设置为“特殊A (店内2车对战)”"
 ST_GameMessage/DT_Advertise_InstoreTournament_B,"「店内バトル」大会開催中！
-現在、【SPECIAL B (IN-SHOP VS4)】設定です",
+現在、【SPECIAL B (IN-SHOP VS4)】設定です","正在召开“店内对战”大会！
+当前的设置为“特殊B (店内4车对战)”"
 ST_GameMessage/CarSelect_FullTuneTicketPayment,"FUll Tune車種購入チケットを確認しました
-FUll Tune車種購入チケットを使用して購入を行います",
-ST_GameMessage/ConfigInfo_Immediately,即時,
-ST_GameMessage/ConfigInfo_PressAndHold,長押し,
-ST_GameMessage/KeyChainCustom_Change,こちらの車内キーホルダーに変更しますか？,
+FUll Tune車種購入チケットを使用して購入を行います","发现满级性能改装车型购买券
+使用满级性能改装车型购买券进行购买"
+ST_GameMessage/ConfigInfo_Immediately,即時,即时
+ST_GameMessage/ConfigInfo_PressAndHold,長押し,长按
+ST_GameMessage/KeyChainCustom_Change,こちらの車内キーホルダーに変更しますか？,要变更为这个车钥匙圈吗？
 ST_GameMessage/SelName_DriverNameChange_CREDITs,"{Credit}CREDIT を消費することで
 ドライバー名を変更することができます
-変更を行いますか？",
+変更を行いますか？","消费{Credit}游戏点数，
+可以变更车手姓名
+要进行变更吗？"
 ST_GameMessage/SelName_DriverNameChange_Free_Error,"前回プレイ時にドライバー名変更が
 正常に完了できなかったため
 今回無料でドライバー名が変更可能です
-変更を行いますか？",
+変更を行いますか？","上次游玩时变更车手姓名
+没有正常结束
+本次可以免费变更车手姓名
+要进行变更吗？"
 ST_GameMessage/SelName_DriverNameChange_Free_Specially,"今回特別にクレジット消費無しで
 ドライバー名を変更できます
-変更を行いますか？",
-ST_GameMessage/SelName_DriverNameChange_ChangeTimes,※残り変更可能回数：{no}回,
-ST_GameMessage/SelName_DecidedNameSimple,こちらのドライバー名で決定しました,
-ST_GameMessage/ModeConfig_SimpleConfig,簡易コンフィグ,
-ST_GameMessage/ModeConfig_SelectAndConfirm,方向キーで設定を切り替え、<Blue>VIEW CHANGE</>ボタンで完了します,
-ST_GameMessage/ResultStory_GoalTime,ゴールタイム,
-ST_GameMessage/Operation_StoryNextSkip,スキップ,
-ST_GameMessage/ResultTrial_GoalTime,ゴールタイム,
-ST_GameMessage/ResultTrial_SectionTime,セクションタイム,
-ST_GameMessage/ResultArticle_ChallengeBonus,チャレンジボーナス,
-ST_GameMessage/ResultArticle_EventPeriodAt,開催期間 {DateText}まで,
-ST_GameMessage/BattleGiftDialog_GotBattleGiftUser,<EmphasisYellow>{UserName}</>からバトルギフトを受け取りました,
-ST_GameMessage/WanBattleMatching_ObtainingOpponent,対戦相手の情報を取得しています,
+変更を行いますか？","本次作为特例可以
+不消耗游戏点数变更车手姓名
+要进行变更吗？"
+ST_GameMessage/SelName_DriverNameChange_ChangeTimes,※残り変更可能回数：{no}回,※剩余可变更次数：{no}次
+ST_GameMessage/SelName_DecidedNameSimple,こちらのドライバー名で決定しました,已确定采用这个车手姓名
+ST_GameMessage/ModeConfig_SimpleConfig,簡易コンフィグ,简易设置
+ST_GameMessage/ModeConfig_SelectAndConfirm,方向キーで設定を切り替え、<Blue>VIEW CHANGE</>ボタンで完了します,用方向键切换设置，用<Blue>切换视角</>键结束设置
+ST_GameMessage/ResultStory_GoalTime,ゴールタイム,总时间
+ST_GameMessage/Operation_StoryNextSkip,スキップ,跳过
+ST_GameMessage/ResultTrial_GoalTime,ゴールタイム,总时间
+ST_GameMessage/ResultTrial_SectionTime,セクションタイム,计时段时间
+ST_GameMessage/ResultArticle_ChallengeBonus,チャレンジボーナス,挑战奖励
+ST_GameMessage/ResultArticle_EventPeriodAt,開催期間 {DateText}まで,活动日期 到{DateText}为止
+ST_GameMessage/BattleGiftDialog_GotBattleGiftUser,<EmphasisYellow>{UserName}</>からバトルギフトを受け取りました,从<EmphasisYellow>{UserName}</>那里获得了对战礼物。
+ST_GameMessage/WanBattleMatching_ObtainingOpponent,対戦相手の情報を取得しています,正在获得对战玩家的信息
 ST_GameMessage/Tournament_GuestCanNot,"大会開催中のため
-ゲストプレイはできません",
+ゲストプレイはできません","大会期间
+无法以游客身份游玩"
 ST_GameMessage/Tournament_NewRegistrationIsNot,大会モードでは新規登録できません。データのあるAimeをかざしてください。,大会モードでは新規登録できませんデータのあるAimeをかざしてください
-ST_GameMessage/ErrorCode_InstoreNoMachine,店内通信可能な筐体がないため、選択できません,
+ST_GameMessage/ErrorCode_InstoreNoMachine,店内通信可能な筐体がないため、選択できません,店内没有可以连线的框体，无法选择
 ST_GameMessage/ErrorCode_MatchingAgain,"エラーが発生しました。
 再度マッチングを行います。","エラーが発生しました
 再度マッチングを行います"
 ST_GameMessage/ErrorCode_ModeSelectScreen,"エラーが発生しました。
 モード選択画面へ移動します。","エラーが発生しました
 モード選択画面へ移動します"
-ST_GameMessage/ErrorCode_ConnectionLost,対戦相手との通信が切断されました,
+ST_GameMessage/ErrorCode_ConnectionLost,対戦相手との通信が切断されました,切断了同对战玩家的连线
 ST_GameMessage/ErrorCode_NetwarkFailurePlayStamp,"通信障害が発生したため、
-プレイスタンプが正常に保存されない場合があります",
+プレイスタンプが正常に保存されない場合があります","发生连线问题，
+可能导致游玩图章无法正常保存"
 ST_GameMessage/ErrorCode_CancelCarPurchase,"エラーが発生しました
-車種購入を中止します",
-ST_GameMessage/BannerWindow_BGMChange,BGM変更,
+車種購入を中止します","发生错误
+车型购买中止"
+ST_GameMessage/BannerWindow_BGMChange,BGM変更,"改变
+背景音乐"
 ST_GameMessage/CarSelect_UsingCar,"この車種を使用車種として
-登録しますか？",
+登録しますか？","要把此车型作为
+使用的车型进行登记吗？"
 ST_GameMessage/ErrorCode_0008,"ERROR 0008
-Keychip Access Failed",
+Keychip Access Failed","错误 0008
+访问关键芯片失败"
 ST_GameMessage/ErrorCode_0010,"ERROR 0010
-Unexpected GAME Program Failure",
+Unexpected GAME Program Failure","错误 0010
+无法预料的游戏程序错误"
 ST_GameMessage/ErrorCode_0025,"ERROR 0025
-Main board Malfunctioning",
+Main board Malfunctioning","错误 0025
+主板故障"
 ST_GameMessage/ErrorCode_0027,"ERROR 0027
-Low Battery",
+Low Battery","错误 0027
+电池电量低"
 ST_GameMessage/ErrorCode_0090,"ERROR 0090
 High CPU Temperature 換気のため、筐体内部のクリーニングが必要です。
 店員をお呼びください。","ERROR 0090
@@ -564,29 +665,37 @@ ST_GameMessage/ErrorCode_0803,"ERROR 0803
 ゲームの初期化に失敗しました 電源を切り、再起動してください
 復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください"
 ST_GameMessage/ErrorCode_0905,"ERROR 0905
-Graphic Function Not Found",
+Graphic Function Not Found","错误 0905
+图像功能无法找到"
 ST_GameMessage/ErrorCode_0907,"ERROR 0907
-Not Enough System Memory",
-ST_GameMessage/ErrorCode_0910,ERROR 0910 ,
-ST_GameMessage/ErrorCode_0911,ERROR 0911 ,
+Not Enough System Memory","错误 0907
+没有足够的系统内存"
+ST_GameMessage/ErrorCode_0910,ERROR 0910 ,错误 0910 
+ST_GameMessage/ErrorCode_0911,ERROR 0911 ,错误 0911 
 ST_GameMessage/ErrorCode_0949,"ERROR 0949
-Keychip Not Found",
+Keychip Not Found","错误 0949
+没有找到关键芯片"
 ST_GameMessage/ErrorCode_1001,"ERROR 1001
 ゲームの初期化に失敗しました 電源を切り、再起動してください。
 復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください。","ERROR 1001
 ゲームの初期化に失敗しました 電源を切り、再起動してください
 復旧できない場合は、製品購入先または本書記載の「お問合せ先」に連絡してください"
 ST_GameMessage/ErrorCode_6401,"ERROR 6401
-JVS I/O board is not connected to main board",
+JVS I/O board is not connected to main board","错误 6401
+JVS I/O板没有连接到主板"
 ST_GameMessage/ErrorCode_6402,"ERROR 6402
-JVS I/O board does not fulfill the GAME spec",
+JVS I/O board does not fulfill the GAME spec","错误 6402
+JVS I/O板未满足游戏所需要的输入输出数"
 ST_GameMessage/ErrorCode_8008,"ERROR 8008
-ALL.Netルーターとの接続ができません",
+ALL.Netルーターとの接続ができません","错误 8008
+无法连接路由器"
 ST_GameMessage/ErrorCode_8111,ALL.Net 利用登録が確認できません。オフライン起動します。,ALL.Net 利用登録が確認できませんオフライン起動します
 ST_GameMessage/ErrorCode_8201,"ERROR 8201
-ALL.Net の認証に失敗しました",
+ALL.Net の認証に失敗しました","错误 8201
+ALL.Net认证失败"
 ST_GameMessage/ErrorCode_8301,"ERROR 8301
-ゲームを構成する機器と接続できません",
+ゲームを構成する機器と接続できません","ERROR 8301
+构成游戏的器材没有连接"
 ST_GameMessage/ErrorCode_8303_6003,"ネットワークの接続が確認できません。
 オフライン・シングル設定筐体として起動します。(6003)","ネットワークの接続が確認できません
 オフライン・シングル設定筐体として起動します(6003)"
@@ -639,48 +748,49 @@ ST_GameMessage/ErrorCode_Dialog_0006,ネットワークエラーが発生しま�
 ST_GameMessage/ErrorCode_Dialog_0007,"ネットワークエラーのため、データの取得に失敗しました。
 コンティニュー画面へ移行します。","ネットワークエラーのため、データの取得に失敗しました
 コンティニュー画面へ移行します"
-ST_GameMessage/ErrorCode_Dialog_0100,閉店時間の為、Aimeの利用はできません,
+ST_GameMessage/ErrorCode_Dialog_0100,閉店時間の為、Aimeの利用はできません,处于关店时间，无法使用二维码
 ST_GameMessage/ErrorCode_Dialog_0101,閉店時間のため、ただいまの時間はコンティニューができません。,閉店時間のため、ただいまの時間はコンティニューができません
 ST_GameMessage/ErrorCode_Dialog_0200,再起動が必要です。コンティニューができません。,再起動が必要ですコンティニューができません
 ST_GameMessage/ErrorCode_Dialog_0400,ネットワークエラーが発生しました。新規登録を中止します。,ネットワークエラーが発生しました新規登録を中止します
 ST_GameMessage/ErrorCode_Dialog_0401,"ネットワークエラーが発生しました。引き継ぎを中止します。
 次回ログイン時に再度引き継ぎを行います。","ネットワークエラーが発生しました引き継ぎを中止します
 次回ログイン時に再度引き継ぎを行います"
-ST_GameMessage/ErrorCode_None,[未定義],
+ST_GameMessage/ErrorCode_None,[未定義],“未定义”
 ST_GameMessage/AimeDialog_WithoutAccount,アカウントを作らずにプレイします。今回のプレイは保存されません。,アカウントを作らずにプレイします今回のプレイは保存されません
-ST_GameMessage/MatchPlayer_RegisteredCarModels,設定車種,
-ST_GameMessage/StartMenu_Lock_DoNotParticipate,「参戦しない」を選択したため、今回のプレイでは選択できません,
-ST_GameMessage/Shop_Lock_CarFullTune,1車種フルチューン達成で解放！,
-ST_GameMessage/ResultArticle_ReachedWin,勝ち残りの上限回数に達しました,
-ST_GameMessage/SelName_DriverNameNotChangeNextSeason,※次シーズンまで変更できませんので、ご注意ください,
-ST_GameMessage/DressUpShop_DontHaveDressupTokens,ドレスアップトークンが不足しています,
-ST_GameMessage/DressUpShop_BodyColorChange,選択したボディカラーに変更しますか？,
-ST_GameMessage/MatchInfo_BattleGiftStatus,バトルギフト獲得状況,
-ST_GameMessage/ErrorCode_CannotSelectOffline,オフライン状態のため、選択できません,
+ST_GameMessage/MatchPlayer_RegisteredCarModels,設定車種,设置车型
+ST_GameMessage/StartMenu_Lock_DoNotParticipate,「参戦しない」を選択したため、今回のプレイでは選択できません,因选择了“不参加对战”，所以本次游玩不能选择
+ST_GameMessage/Shop_Lock_CarFullTune,1車種フルチューン達成で解放！,完成1个车型的满级性能改装后解锁！
+ST_GameMessage/ResultArticle_ReachedWin,勝ち残りの上限回数に達しました,过关数达到上限
+ST_GameMessage/SelName_DriverNameNotChangeNextSeason,※次シーズンまで変更できませんので、ご注意ください,※到下个赛季为止无法变更，请注意
+ST_GameMessage/DressUpShop_DontHaveDressupTokens,ドレスアップトークンが不足しています,外观改装代币不够
+ST_GameMessage/DressUpShop_BodyColorChange,選択したボディカラーに変更しますか？,要变更成所选的车身颜色吗？
+ST_GameMessage/MatchInfo_BattleGiftStatus,バトルギフト獲得状況,对战礼物获得情况
+ST_GameMessage/ErrorCode_CannotSelectOffline,オフライン状態のため、選択できません,没有连接网络，无法进行选择
 ST_GameMessage/ErrorCode_CreditPayFailed,"クレジット支払いに失敗しました
-モード選択画面に移行します",
-ST_GameMessage/ResultGrade_DirverGrade,走り屋グレード昇格！！,
-ST_GameMessage/UpdateRankLimit_DriverGrade,走り屋グレードの上限が解放されました！,
-ST_GameMessage/UpdateRankLimit_InstoreBattleRank,オンラインバトルランクの上限が解放されました！,
-ST_GameMessage/UpdateRankLimit_OnlineBattleRank,ストーリーランクの上限が解放されました！,
-ST_GameMessage/UpdateRankLimit_StoryRank,トライアルランクの上限が解放されました！,
-ST_GameMessage/UpdateRankLimit_TrialRank,店内バトルランクの上限が解放されました！,
-ST_GameMessage/PaperCup_Select,紙コップを選択してください,
-ST_GameMessage/PaperCup_SaveSettings,登録しますか？,
-ST_GameMessage/StartMenu_FirstPlay,次回プレイで解放されます,
-ST_GameMessage/Shop_Lock_TimeRelease,バージョンアップで解放されます,
-ST_GameMessage/Shop_Shortage_CarCash,購入に必要なキャッシュが不足しています,
-ST_GameMessage/Shop_Shortage_DressupToken,購入に必要なドレスアップトークンが不足しています,
-ST_GameMessage/Shop_Shortage_AvatarToken,購入に必要なアバタートークンが不足しています,
-ST_GameMessage/Customize_Lock_TimeRelease,バージョンアップで解放されます,
-ST_GameMessage/Customize_Lock_KeyHolder,車内キーホルダーを獲得すると選択できるようになります,
-ST_GameMessage/Customize_Lock_Meter,メーターを獲得すると選択できるようになります,
-ST_GameMessage/Customize_Lock_Aura,オーラカラーを獲得すると選択できるようになります,
-ST_GameMessage/Customize_Lock_Title,称号を獲得すると選択できるようになります,
-ST_GameMessage/Customize_Lock_Manu,メニュー背景を獲得すると選択できるようになります,
-ST_GameMessage/Customize_Lock_CannotSelect,現在選択できません,
-ST_GameMessage/Continue_Lock_CannotSelect_CloseTime,閉店時間のため選択できません,
-ST_GameMessage/Continue_Lock_CannotSelect_Offline,オフラインのため選択できません,
+モード選択画面に移行します","游戏点数支付失败
+将转到模式选择画面"
+ST_GameMessage/ResultGrade_DirverGrade,走り屋グレード昇格！！,车手级别升级！！
+ST_GameMessage/UpdateRankLimit_DriverGrade,走り屋グレードの上限が解放されました！,车手级别上限已解锁！
+ST_GameMessage/UpdateRankLimit_InstoreBattleRank,オンラインバトルランクの上限が解放されました！,在线对战等级的上限已解锁！
+ST_GameMessage/UpdateRankLimit_OnlineBattleRank,ストーリーランクの上限が解放されました！,剧情等级的上限已解锁！
+ST_GameMessage/UpdateRankLimit_StoryRank,トライアルランクの上限が解放されました！,计时赛等级的上限已解锁！
+ST_GameMessage/UpdateRankLimit_TrialRank,店内バトルランクの上限が解放されました！,店内对战等级的上限已解锁！
+ST_GameMessage/PaperCup_Select,紙コップを選択してください,请选择纸杯
+ST_GameMessage/PaperCup_SaveSettings,登録しますか？,要装配吗？
+ST_GameMessage/StartMenu_FirstPlay,次回プレイで解放されます,下次游玩时解锁
+ST_GameMessage/Shop_Lock_TimeRelease,バージョンアップで解放されます,版本升级解锁
+ST_GameMessage/Shop_Shortage_CarCash,購入に必要なキャッシュが不足しています,购买所需的货币不够
+ST_GameMessage/Shop_Shortage_DressupToken,購入に必要なドレスアップトークンが不足しています,购买所需的外观改装代币不够
+ST_GameMessage/Shop_Shortage_AvatarToken,購入に必要なアバタートークンが不足しています,购买所需的玩家形象代币不够
+ST_GameMessage/Customize_Lock_TimeRelease,バージョンアップで解放されます,版本升级解锁
+ST_GameMessage/Customize_Lock_KeyHolder,車内キーホルダーを獲得すると選択できるようになります,获得车钥匙圈后可以进行选择
+ST_GameMessage/Customize_Lock_Meter,メーターを獲得すると選択できるようになります,获得仪表后可以进行选择
+ST_GameMessage/Customize_Lock_Aura,オーラカラーを獲得すると選択できるようになります,获得气场颜色后可以进行选择
+ST_GameMessage/Customize_Lock_Title,称号を獲得すると選択できるようになります,获得称号后可以进行选择
+ST_GameMessage/Customize_Lock_Manu,メニュー背景を獲得すると選択できるようになります,获得菜单背景后可以进行选择
+ST_GameMessage/Customize_Lock_CannotSelect,現在選択できません,当前无法选择
+ST_GameMessage/Continue_Lock_CannotSelect_CloseTime,閉店時間のため選択できません,处于关店时间，无法进行选择
+ST_GameMessage/Continue_Lock_CannotSelect_Offline,オフラインのため選択できません,没有连接网络，无法进行选择
 ST_GameMessage/CourseSel_RandomSelect,ランダムで対戦コースが選ばれます。,ランダムで対戦コースが選ばれます
 ST_GameMessage/Continue_DressUp_FreeItem_HasItem,"獲得可能なホイールをすべて所持済みです。
 コンティニュー画面へ移行します。","獲得可能なホイールをすべて所持済みです
@@ -690,58 +800,64 @@ ST_GameMessage/ErrorCode_Failed_UseFreePlayTicket,"初回無料プレイの使�
 タイトル画面に戻ります。","初回無料プレイの使用に失敗しました
 再度ログインを行ってください
 タイトル画面に戻ります"
-ST_GameMessage/DriverDebutMission_Information_CloseDate,イベント終了日：{CloseDate},
-ST_GameMessage/DriverDebutMission_FreePlayTicket_ValidatedPeriod,有効期間：{ValidatedPeriod},
+ST_GameMessage/DriverDebutMission_Information_CloseDate,イベント終了日：{CloseDate},{CloseDate} day(s) left
+ST_GameMessage/DriverDebutMission_FreePlayTicket_ValidatedPeriod,有効期間：{ValidatedPeriod},Period of visit:{ValidatedPeriod}
 ST_GameMessage/DT_SelectPanel_HasFreePlayTicket,"次回来店時初回プレイ無料
 有効期間：{ValidatedPeriod}",
 ST_GameMessage/StartMenuShop_Closing,"ショップ＆カスタマイズを終了します
-よろしいですか？",
-ST_GameMessage/StartMenu_Lock_AimeCardOnly,ゲストプレイのため選択できません,
-ST_GameMessage/ResultGrade_OnlineBattleRankSpecial,オンラインバトルランク特別昇格！,
-ST_GameMessage/WanBattleMatching_PlayTimesPrize,プレイ回数報酬,
-ST_GameMessage/WanBattleMatching_Date,開催期間 {DateText}まで,
-ST_GameMessage/WanBattleMatching_nextprize,報酬獲得まで<EB_YellowLarge>{Num}</><EB_Yellow>回</>,
-ST_GameMessage/WanBattleMatching_OnlineRankPrize,オンラインランク報酬,
-ST_GameMessage/WanBattleMatching_ReachReleaseAura,到達で新たなオーラカラー解放！,
-ST_GameMessage/WanBattleMatching_ReleaseAura,解放されるオーラ,
-ST_GameMessage/PlayStamp_EarnedPrize,<B_White>獲得報酬</> <EB_YellowLarge>{Num}</><EB_Yellow>/{Max}</>,
-ST_GameMessage/PlayStamp_EventPeriod2,<B_WhiteSmall>開催期間： {DateText}まで</>,
-ST_GameMessage/PlayStamp_NextPrize,獲得までスタンプ あと<EB_YellowLarge>{Num}</><EB_Yellow>個</>,
-ST_GameMessage/DressUpShop_AreYouSureParts,選択したパーツでよろしいですか？,
-ST_GameMessage/FullTuneTicketDialog_GotTicket,FULLTune車種購入チケット獲得！！,
-ST_GameMessage/FullTuneTicketDialog_Traded,<Yellow>FULLTune車種購入チケットのかけら</> を <Yellow>FULLTune車種購入チケット</> に交換しました,
-ST_GameMessage/FullTuneTicketDialog_ConvertCash,最大所持数を超えて獲得した場合はキャッシュに変換します,
+よろしいですか？","结束商店&自定义，
+可以吗？"
+ST_GameMessage/StartMenu_Lock_AimeCardOnly,ゲストプレイのため選択できません,因为以游客身份游玩，无法进行选择
+ST_GameMessage/ResultGrade_OnlineBattleRankSpecial,オンラインバトルランク特別昇格！,在线对战等级特别升级！
+ST_GameMessage/WanBattleMatching_PlayTimesPrize,プレイ回数報酬,游玩次数报酬
+ST_GameMessage/WanBattleMatching_Date,開催期間 {DateText}まで,活动日期 到{DateText}为止
+ST_GameMessage/WanBattleMatching_nextprize,報酬獲得まで<EB_YellowLarge>{Num}</><EB_Yellow>回</>,距离获得报酬还有<EB_YellowLarge>{Num}</><EB_Yellow>次</>
+ST_GameMessage/WanBattleMatching_OnlineRankPrize,オンラインランク報酬,在线等级报酬
+ST_GameMessage/WanBattleMatching_ReachReleaseAura,到達で新たなオーラカラー解放！,达到条件，新的气场解锁！
+ST_GameMessage/WanBattleMatching_ReleaseAura,解放されるオーラ,解锁的气场
+ST_GameMessage/PlayStamp_EarnedPrize,<B_White>獲得報酬</> <EB_YellowLarge>{Num}</><EB_Yellow>/{Max}</>,<B_White>获得报酬</> <EB_YellowLarge>{Num}</><EB_Yellow>/{Max}</>
+ST_GameMessage/PlayStamp_EventPeriod2,<B_WhiteSmall>開催期間： {DateText}まで</>,<B_WhiteSmall>活动日期：到{DateText}为止</>
+ST_GameMessage/PlayStamp_NextPrize,獲得までスタンプ あと<EB_YellowLarge>{Num}</><EB_Yellow>個</>,距离获得还需<EB_YellowLarge>{Num}</><EB_Yellow>个图章</>
+ST_GameMessage/DressUpShop_AreYouSureParts,選択したパーツでよろしいですか？,选择的配件可以吗？
+ST_GameMessage/FullTuneTicketDialog_GotTicket,FULLTune車種購入チケット獲得！！,获得满级性能改装车型购买券！！
+ST_GameMessage/FullTuneTicketDialog_Traded,<Yellow>FULLTune車種購入チケットのかけら</> を <Yellow>FULLTune車種購入チケット</> に交換しました,<Yellow>用满级性能改装车型购买券碎片</>交换了<Yellow>满级性能改装车型购买券</>
+ST_GameMessage/FullTuneTicketDialog_ConvertCash,最大所持数を超えて獲得した場合はキャッシュに変換します,超过最大拥有数获得的报酬，将转换成货币
 ST_GameMessage/StreetRacerDebut_FirstPlayFree,"走り屋デビューミッション達成！
-初回プレイ無料！",
-ST_GameMessage/MatchInfo_PrideExperienceIncDec,PRIDE経験値増減値,
-ST_GameMessage/ResultGrade_JoinPride,PRIDE参戦！！,
-ST_GameMessage/ResultGrade_ReachPride,PRIDE{border}到達！！,
-ST_GameMessage/TheoryMode_CharacterSelect,キャラクターを選択してください,
-ST_GameMessage/TheoryMode_ YourPartner,<EmphasisYellow_Middle>{PartnerName}</>とパートナーになりますか？,
-ST_GameMessage/TheoryMode_YouCanCancel,※選択後、鍛錬修了前でもパートナー解除は可能です,
-ST_GameMessage/TheoryMode_ContinuePartner,引き続き<EmphasisYellow_Middle>{PartnerName}</>とパートナーになりますか？,
-ST_GameMessage/TheoryMode_SelectChangeCharacter,※いいえを選択するとキャラクター選択に進みます,
-ST_GameMessage/TheoryMode_SelectRaceFormat,レース形式を選択してください,
-ST_GameMessage/TheoryMode_ChangeYourPartner,パートナーを変更しますか？,
+初回プレイ無料！","Street racer debut mission clear!
+First play free!"
+ST_GameMessage/MatchInfo_PrideExperienceIncDec,PRIDE経験値増減値,PRIDE等级经验增减值
+ST_GameMessage/ResultGrade_JoinPride,PRIDE参戦！！,PRIDE玩家参加对战！！
+ST_GameMessage/ResultGrade_ReachPride,PRIDE{border}到達！！,到达PRIDE等级{border}！！
+ST_GameMessage/TheoryMode_CharacterSelect,キャラクターを選択してください,请选择角色
+ST_GameMessage/TheoryMode_ YourPartner,<EmphasisYellow_Middle>{PartnerName}</>とパートナーになりますか？,要和<EmphasisYellow_Middle>{PartnerName}</>成为搭档吗？
+ST_GameMessage/TheoryMode_YouCanCancel,※選択後、鍛錬修了前でもパートナー解除は可能です,※选择后，在训练完成前仍可以解除搭档关系
+ST_GameMessage/TheoryMode_ContinuePartner,引き続き<EmphasisYellow_Middle>{PartnerName}</>とパートナーになりますか？,要继续和<EmphasisYellow_Middle>{PartnerName}</>成为搭档吗？
+ST_GameMessage/TheoryMode_SelectChangeCharacter,※いいえを選択するとキャラクター選択に進みます,※选择“否”的时候将进入到角色选择画面
+ST_GameMessage/TheoryMode_SelectRaceFormat,レース形式を選択してください,请选择比赛形式
+ST_GameMessage/TheoryMode_ChangeYourPartner,パートナーを変更しますか？,要变更搭档吗？
 ST_GameMessage/TheoryMode_ResetYourStatus,"※鍛錬の進捗情報はリセットされます
-※今回の鍛錬中に獲得した親睦Lv経験値は保存されます",
-ST_GameMessage/TheoryMode_ChooseRival,ライバルを選択してください,
-ST_GameMessage/TheoryMode_ChooseRival2,ライバルを選択してください,
+※今回の鍛錬中に獲得した親睦Lv経験値は保存されます","※重置训练的进度信息
+※本次训练中获得的友好等级经验值将被保存"
+ST_GameMessage/TheoryMode_ChooseRival,ライバルを選択してください,请选择对手
+ST_GameMessage/TheoryMode_ChooseRival2,ライバルを選択してください,请选择对手
 ST_GameMessage/TheoryMode_PowerhouseLv_NextLvRequirement,"強豪Lv{NextLv}解放条件
-強豪Lv{CurrentLv}のライバルに、あと{RemainNum}回勝利",
-ST_GameMessage/Result_TheoryMode_Point,獲得経験値,
-ST_GameMessage/Result_TheoryMode_TanrenPoint,鍛錬修了ボーナス（{raceCount}レース）　{num},
-ST_GameMessage/Result_TheoryMode_ChallengeBonus_Large,挑戦ボーナス（大）　{num},
-ST_GameMessage/Result_TheoryMode_ChallengeBonus_Medium,挑戦ボーナス（中）　{num},
-ST_GameMessage/Result_TheoryMode_ChallengeBonus_Small,挑戦ボーナス（小）　{num},
-ST_GameMessage/ResultArticle_TheoryMode_TanrenBonus,鍛錬修了ボーナス,
-ST_GameMessage/ResultArticle_TheoryMode_RankPoint,順位経験値,
-ST_GameMessage/ResultArticle_TheoryMode_ChallengeBonus,格上撃破ボーナス,
-ST_GameMessage/ResultArticle_TheoryMode_DefeatBonus,強豪撃破ボーナス,
+強豪Lv{CurrentLv}のライバルに、あと{RemainNum}回勝利","高手等级{NextLv}解锁条件
+面对高手等级{CurrentLv}的对手，还需要{RemainNum}次胜利"
+ST_GameMessage/Result_TheoryMode_Point,獲得経験値,获得经验值
+ST_GameMessage/Result_TheoryMode_TanrenPoint,鍛錬修了ボーナス（{raceCount}レース）　{num},训练完成报酬（{raceCount}比赛）　{num}
+ST_GameMessage/Result_TheoryMode_ChallengeBonus_Large,挑戦ボーナス（大）　{num},挑战报酬（大）　{num}
+ST_GameMessage/Result_TheoryMode_ChallengeBonus_Medium,挑戦ボーナス（中）　{num},挑战报酬（中）　{num}
+ST_GameMessage/Result_TheoryMode_ChallengeBonus_Small,挑戦ボーナス（小）　{num},挑战报酬（小）　{num}
+ST_GameMessage/ResultArticle_TheoryMode_TanrenBonus,鍛錬修了ボーナス,训练完成报酬
+ST_GameMessage/ResultArticle_TheoryMode_RankPoint,順位経験値,排名经验值
+ST_GameMessage/ResultArticle_TheoryMode_ChallengeBonus,格上撃破ボーナス,击败强者报酬 
+ST_GameMessage/ResultArticle_TheoryMode_DefeatBonus,強豪撃破ボーナス,击败高手报酬
 ST_GameMessage/ResultArticle_TheoryMode_ShinbokuLevelPoint,"親睦Lv
-経験値",
+経験値","友好等级
+经验值"
 ST_GameMessage/ErrorCode_TheoryMode_Close,"エラーが発生しました
-公道最速理論モードを終了します",
+公道最速理論モードを終了します","发生错误
+公路最快理论模式结束"
 ST_GameMessage/CloseSettingInfo_StoreClosed,"本日は閉店しました。
 Aimeの利用はできません。","本日は閉店しました
 Aimeの利用はできません"
@@ -752,78 +868,87 @@ ST_GameMessage/CloseSettingInfo_ClosedMinutes,"あと{RemainClose}分で閉店�
 ST_GameMessage/CloseSettingInfo_Continue_StoreClosed,本日は閉店しました。コンティニューできません。,本日は閉店しましたコンティニューできません
 ST_GameMessage/CloseSettingInfo_Continue_StoreCloseSoon,ただいまの時間はコンティニューができません。,ただいまの時間はコンティニューができません
 ST_GameMessage/CloseSettingInfo_Continue_ClosedMinutes,あと{RemainShop}分で閉店時刻です。あと{RemainAime}分でAimeの利用、及びコンティニューができなくなります。,あと{RemainShop}分で閉店時刻ですあと{RemainAime}分でAimeの利用、及びコンティニューができなくなります
-ST_GameMessage/AvatarDialog_DontHaveAvatarTokens,アバタートークンが足りません,
-ST_GameMessage/PaperCup_Changed,紙コップを変更しました,
-ST_GameMessage/TheoryMode_PracticeCount,今回の鍛錬は{Num}レース目まで行われます,
+ST_GameMessage/AvatarDialog_DontHaveAvatarTokens,アバタートークンが足りません,玩家形象代币不足
+ST_GameMessage/PaperCup_Changed,紙コップを変更しました,纸杯变更完毕
+ST_GameMessage/TheoryMode_PracticeCount,今回の鍛錬は{Num}レース目まで行われます,本次的训练进行到第{Num}场比赛
 ST_GameMessage/TheoryMode_EndOfRaceTanren,"鍛錬修了まで
-　　<Middle>残り</><Big>{Num}</><Middle>レース</>",
-ST_GameMessage/TheoryMode_ChangeYourPartnerButton,パートナーを変更,
-ST_GameMessage/TheoryMode_DoneRivalSelect,ライバル選択を完了しますか？,
-ST_GameMessage/TheoryMode_DoneRivalSelect_ButtonYes,はい,
-ST_GameMessage/TheoryMode_DoneRivalSelect_ButtonNo,選び直す,
+　　<Middle>残り</><Big>{Num}</><Middle>レース</>","距离训练完成
+　　<Middle>还剩</><Big>{Num}</><Middle>场比赛</>"
+ST_GameMessage/TheoryMode_ChangeYourPartnerButton,パートナーを変更,变更搭档
+ST_GameMessage/TheoryMode_DoneRivalSelect,ライバル選択を完了しますか？,要结束选择对手吗？
+ST_GameMessage/TheoryMode_DoneRivalSelect_ButtonYes,はい,好的
+ST_GameMessage/TheoryMode_DoneRivalSelect_ButtonNo,選び直す,重新选择
 ST_GameMessage/TheoryMode_NoPowerhouseRivals,"強豪に該当するライバルが存在しないため
-選択できません",
-ST_GameMessage/ResultGrade_TheoryRank,公道最速理論ランク昇格！！,
-ST_GameMessage/Continue_Lock_ExtraStamp,今日あと{Num}プレイで追加スタンプ獲得！,
-ST_GameMessage/AdvertiseMessage_Single Seat,このシートはSINGLEです,
+選択できません","因为不存在高手玩家，
+无法进行选择"
+ST_GameMessage/ResultGrade_TheoryRank,公道最速理論ランク昇格！！,公路最快理论等级升级！！
+ST_GameMessage/Continue_Lock_ExtraStamp,今日あと{Num}プレイで追加スタンプ獲得！,今天再玩{Num}场可以获得额外图章！
+ST_GameMessage/AdvertiseMessage_Single Seat,このシートはSINGLEです,此座位是单人模式
 ST_GameMessage/AdvertiseMessage_Reboot,再起動準備が整いました。再起動を行います。,再起動準備が整いました再起動を行います
 ST_GameMessage/AdvertiseMessage_Rebooting,再起動準備中です。プレイできません。,再起動準備中ですプレイできません
 ST_GameMessage/AdvertiseMessage_Rebooting Soon,もうすぐ再起動がかかります。コンティニュープレイはできません。,もうすぐ再起動がかかりますコンティニュープレイはできません
 ST_GameMessage/AdvertiseMessage_Reporting,"ただいま、締め処理中です。
 しばらくお待ちください。","ただいま、締め処理中です
 しばらくお待ちください"
-ST_GameMessage/TheoryMode_LowerPowerhouseLvRivalsOnly_1,現在、強豪Lv<YellowMiddle>{PowerhouseLv}</>のライバルが選択可能です,
-ST_GameMessage/TheoryMode_LowerPowerhouseLvRivalsOnly_2,※他のプレイヤーがタイムを記録されるまでお待ち下さい,
-ST_GameMessage/TheoryMode_PowerhouseLv_CurrentLv,現在の強豪Lv：,
+ST_GameMessage/TheoryMode_LowerPowerhouseLvRivalsOnly_1,現在、強豪Lv<YellowMiddle>{PowerhouseLv}</>のライバルが選択可能です,当前可以选择高手等级为<YellowMiddle>{PowerhouseLv}</>的对手
+ST_GameMessage/TheoryMode_LowerPowerhouseLvRivalsOnly_2,※他のプレイヤーがタイムを記録されるまでお待ち下さい,※请等待其他玩家的时间记录完毕
+ST_GameMessage/TheoryMode_PowerhouseLv_CurrentLv,現在の強豪Lv：,当前的高手等级：
 ST_GameMessage/TheoryMode_PowerhouseLv_ReachedLimit,"最高強豪Lvに到達しました
-累計勝利数 {TotalNum}勝",
-ST_GameMessage/Shop_Lock_FullTune,所持車種が全てFullTuneのため選択できません,
-ST_GameMessage/Shop_Tuning_Lock_FullTune,所持車種が全てFullTuneのため選択できません,
-ST_GameMessage/Shop_Tuning_ConfirmTuning,チューニング確認,
+累計勝利数 {TotalNum}勝","到达最高高手等级
+累计胜利数 {TotalNum}胜"
+ST_GameMessage/Shop_Lock_FullTune,所持車種が全てFullTuneのため選択できません,所拥有的车型已经是满级性能改装状态，所以无法选择
+ST_GameMessage/Shop_Tuning_Lock_FullTune,所持車種が全てFullTuneのため選択できません,所拥有的车型已经是满级性能改装状态，所以无法选择
+ST_GameMessage/Shop_Tuning_ConfirmTuning,チューニング確認,性能改装确认
 ST_GameMessage/Shop_Tuning_FullTuneThisCar,"<LightYellow>FULLTune車種購入チケット</>を消費して
-選択した車種をFULLTuneにしますか？",
-ST_GameMessage/Shop_Lock_DoNotHaveTicket,FullTune車種購入チケットを所持していないので選択できません,
-ST_GameMessage/TheoryMode_Lock_4WD,駆動方式「４ＷＤ」の任意車種１台を購入する,
-ST_GameMessage/ModeSelectBubble_NotLatestVersion,最新バージョンではないため、このモードを選択できません,
+選択した車種をFULLTuneにしますか？","要消费<LightYellow>满级性能改装车型购买券</>
+对所选择的车型进行满级改装吗？"
+ST_GameMessage/Shop_Lock_DoNotHaveTicket,FullTune車種購入チケットを所持していないので選択できません,没有满级性能改装车型购买券，无法进行选择
+ST_GameMessage/TheoryMode_Lock_4WD,駆動方式「４ＷＤ」の任意車種１台を購入する,购买任何一种“四轮驱动”车型
+ST_GameMessage/ModeSelectBubble_NotLatestVersion,最新バージョンではないため、このモードを選択できません,因为不是最新版本，无法选择这个模式
 ST_GameMessage/TheoryMode_ModeDetail,"コース・ライバルは自由に選択が可能！
-パートナーと共に一流の走り屋を目指せ‥！",
+パートナーと共に一流の走り屋を目指せ‥！","和模拟世界各地对手的COM进行对战！
+专为对战练习量身打造！"
 ST_GameMessage/ModeInfo_Special,"東京から来た二人が関東各地の峠に登場！？
 ライバルを倒し、報酬をゲットしよう！","東京から来た二人が関東各地の峠に登場⁉
 ライバルを倒し、報酬をゲットしよう！"
-ST_GameMessage/SpecialMode_Eventperiod,開催期間,
+ST_GameMessage/SpecialMode_Eventperiod,開催期間,持有期
 ST_GameMessage/SpecialMode_HighestVSLv,最高クリア,最高クリアVSLv.
-ST_GameMessage/SpecialMode_Select_RewardVSLv,クリアで報酬獲得！,
-ST_GameMessage/SpecialMode_Goal1st,1位でゴールせよ,
-ST_GameMessage/SpecialMode_Result_RewardVSLv,クリアで報酬獲得！,
-ST_GameMessage/SpecialMode_VSLvSelect,VS Lv.を選択してください,
-ST_GameMessage/SpecialMode_VSTypeSelect,VSを選択してください,
+ST_GameMessage/SpecialMode_Select_RewardVSLv,クリアで報酬獲得！,"Get rewarded 
+for success！"
+ST_GameMessage/SpecialMode_Goal1st,1位でゴールせよ,以第1名冲过终点
+ST_GameMessage/SpecialMode_Result_RewardVSLv,クリアで報酬獲得！,"Get rewarded 
+for success！"
+ST_GameMessage/SpecialMode_VSLvSelect,VS Lv.を選択してください,Please select VS Lv.
+ST_GameMessage/SpecialMode_VSTypeSelect,VSを選択してください,Please select VS.
 ST_GameMessage/SpecilalMode_VSLvSpeciallyUnlock,"{Name}の驚異的な速さに
 「注目フラグ({Evalution})」が立ちました！
 
 <Big>VS Lv. </><YellowBig>+{AddDifficultyNum}</><Big> オーバー‼</>",
 ST_GameMessage/ChallengeMode_Detail,"伝説の走り屋 藤原文太に挑戦！
-君は勝利することができるか‥！？",
-ST_GameMessage/ChallengeMode_LvSelect,文太レベルを選択してください,
-ST_GameMessage/ChallengeMode_ResultDistance,アドバンテージ,
-ST_GameMessage/ChallengeMode_HighestLv,最高クリアレベル,
-ST_GameMessage/Continue_SelectPlayStamp_NewEvent,新しいプレイスタンプが追加されました,
-ST_GameMessage/Continue_SelectPlayStamp_SelectStamp,プレイスタンプを選択してください,
-ST_GameMessage/DT_MenuConfig_SkipSelectStamp,プレイスタンプ選択スキップ,
+君は勝利することができるか‥！？","Challenge the legendary driver Bunta Fujiwara!
+Will you be able to achive the victory...?!"
+ST_GameMessage/ChallengeMode_LvSelect,文太レベルを選択してください,请选择文太星级
+ST_GameMessage/ChallengeMode_ResultDistance,アドバンテージ,距离差
+ST_GameMessage/ChallengeMode_HighestLv,最高クリアレベル,最高过关星级
+ST_GameMessage/Continue_SelectPlayStamp_NewEvent,新しいプレイスタンプが追加されました,增加了新的游玩图章
+ST_GameMessage/Continue_SelectPlayStamp_SelectStamp,プレイスタンプを選択してください,请选择游玩图章
+ST_GameMessage/DT_MenuConfig_SkipSelectStamp,プレイスタンプ選択スキップ,跳过游玩图章
 ST_GameMessage/ConfigInfo_SkipSelectStamp,"プレイスタンプ選択画面を
-スキップするかを設定します",
-ST_GameMessage/CourseSelect_TrialEvent_Point,獲得ポイント,
-ST_GameMessage/CourseSelect_TrialEvent_SwitchingPoint,獲得ポイント表示に切替,
-ST_GameMessage/CourseSelect_TrialEvent_SwitchingPoint_2,報酬表示に切替,
-ST_GameMessage/CourseSelect_TrialEvent_NextPrize,獲得まで,
-ST_GameMessage/CourseSelect_TrialEvent_EarnedPrize,獲得報酬,
-ST_GameMessage/CourseSelect_TrialEvent_EventPeriod,開催期間,
-ST_GameMessage/CourseSelect_TrialEvent_EventPeriod_Date,{yyyy}/{MM}/{dd}まで,
-ST_GameMessage/Result_TrialEvent_Point,獲得ポイント,
-ST_GameMessage/Result_TrialEvent_NextPrize,次の報酬,
-ST_GameMessage/Result_TrialEvent_EarnedPrize,獲得報酬,
-ST_GameMessage/Result_TrialEvent_Status,進捗,
-ST_GameMessage/ChallengeMode_DefeatBunta,藤原文太に勝利せよ,
-ST_GameMessage/CourseSelect_TrialEvent_EventPeriod_Date_Result,{yyyy}/{MM}/{dd}まで,
+スキップするかを設定します","设置是否跳过
+游玩图章选择画面"
+ST_GameMessage/CourseSelect_TrialEvent_Point,獲得ポイント,获得点数
+ST_GameMessage/CourseSelect_TrialEvent_SwitchingPoint,獲得ポイント表示に切替,切换到获得点数
+ST_GameMessage/CourseSelect_TrialEvent_SwitchingPoint_2,報酬表示に切替,切换到报酬显示
+ST_GameMessage/CourseSelect_TrialEvent_NextPrize,獲得まで,距离获得
+ST_GameMessage/CourseSelect_TrialEvent_EarnedPrize,獲得報酬,获得报酬
+ST_GameMessage/CourseSelect_TrialEvent_EventPeriod,開催期間,活动日期
+ST_GameMessage/CourseSelect_TrialEvent_EventPeriod_Date,{yyyy}/{MM}/{dd}まで,到{yyyy}/{MM}/{dd}为止
+ST_GameMessage/Result_TrialEvent_Point,獲得ポイント,获得点数
+ST_GameMessage/Result_TrialEvent_NextPrize,次の報酬,下一个报酬
+ST_GameMessage/Result_TrialEvent_EarnedPrize,獲得報酬,获得报酬
+ST_GameMessage/Result_TrialEvent_Status,進捗,进度
+ST_GameMessage/ChallengeMode_DefeatBunta,藤原文太に勝利せよ,战胜藤原文太
+ST_GameMessage/CourseSelect_TrialEvent_EventPeriod_Date_Result,{yyyy}/{MM}/{dd}まで,到{yyyy}/{MM}/{dd}为止
 ST_GameMessage/NumberLottery_CurrentNumber,現在のナンバー,
 ST_GameMessage/NumberLottery_LotteryDigit,この桁を抽選,
 ST_GameMessage/NumberLottery_Check,確認する,
@@ -993,12 +1118,17 @@ ST_GameMessage/TeamCustomize_UnlockDialog,"チームトークンを使用して�
 ST_GameMessage/TeamCustomize_teamtokenshortage,チームトークンが不足しています,
 ST_GameMessage/SelName_AreYouSure_Timeout,"こちらのドライバー名でよろしいですか？
 <RedSmall>※次シーズンまで変更できませんので、ご注意ください</>
-<RedSmall>※いいえを押した場合、ドライバー名変更処理を行わずにプレイヤーカスタマイズに遷移します</>",
+<RedSmall>※いいえを押した場合、ドライバー名変更処理を行わずにプレイヤーカスタマイズに遷移します</>","确定使用这个车手姓名吗？
+<RedSmall>※到下个赛季为止无法变更，请注意。</>
+<RedSmall>※选择“不”的时候将不变更车手姓名，直接进入到玩家定制画面。</>"
 ST_GameMessage/SelName_ProhibitedWords_Timeout,"禁止ワードが入力されているため
 こちらのドライバー名は使用できません
-プレイヤーカスタマイズに遷移します",
+プレイヤーカスタマイズに遷移します","因包含禁用词，
+无法使用该车手姓名。
+将进入到玩家定制画面。"
 ST_GameMessage/SelName_Cancel,"ドライバー名変更を中止し
-プレイヤーカスタマイズに遷移します",
+プレイヤーカスタマイズに遷移します","停止变更车手姓名，
+将进入到玩家定制画面。"
 ST_GameMessage/Experience_bonus_Online,勝てば経験値ボーナス！,
 ST_GameMessage/TeamSeq_TeamLeagueResult_SeasonChange_Slogan,トップリーグを目指せ！,
 ST_GameMessage/TeamSeq_TeamLeagueResult_SeasonChange_Promotion_Basic,チームポイント9999以下,
@@ -1014,8 +1144,9 @@ ST_GameMessage/TeamLeagueBonusType_StrongLeague,強豪チームマッチ！,
 ST_GameMessage/TeamLeagueBonusType_PointUpText,勝利でチームポイント獲得量UP！！,
 ST_GameMessage/ResultArticle_TheoryMode_SameLeague_DefeatBonus,同リーグチーム勝利ボーナス,
 ST_GameMessage/ResultArticle_TheoryMode_HigherLeague_DefeatBonus,上位リーグチーム勝利ボーナス,
-ST_GameMessage/ResultArticle_OnlineMode_HigherRank_DefeatBonus,格上撃破ボーナス,
-ST_GameMessage/ResultArticle_OnlineMode_Pride_DefeatBonus,PRIDE撃破ボーナス,
+ST_GameMessage/ResultArticle_OnlineMode_HigherRank_DefeatBonus,格上撃破ボーナス,战胜强者奖励
+ST_GameMessage/ResultArticle_OnlineMode_Pride_DefeatBonus,PRIDE撃破ボーナス,战胜PRIDE奖励
 ST_GameMessage/Update_ProhibitedWords,"禁止ワードが更新されたため
 設定していたドライバー名は使用できません
-プレイヤーカスタマイズから再設定を行ってください",
+プレイヤーカスタマイズから再設定を行ってください","因禁用词已更新，
+无法继续使用该车手姓名。"
