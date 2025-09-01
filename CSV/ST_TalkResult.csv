@@ -472,3 +472,77 @@ ST_TalkResult/SAKAI_MIDDLE_SEGMENT2,"惜しい試合だったな・・
 おまえなら集団での駆け引きもこなせるはずだぜ",
 ST_TalkResult/SAKAI_MIDDLE_SEGMENT3,"ここぞという勝負どころで プッシュをかけるのがコツだ
 あのFDのドライバーみたいにな・・",
+ST_TalkResult/BUNTA_WIN_SEGMENT1,ま 普通だな,
+ST_TalkResult/BUNTA_WIN_SEGMENT2,まぁ あんたなら勝てるだろ,
+ST_TalkResult/BUNTA_WIN_SEGMENT3,"（イカン 血がさわぎ出した・・）
+（次のバトル しれっと自分で走ろーかな・・）",
+ST_TalkResult/BUNTA_WIN_SEGMENT4,"あんたの走りには理論もあるが・・
+年季がかった職人の世界を感じるな",
+ST_TalkResult/BUNTA_BIGWIN_SEGMENT1,"結局 ここでやれることを
+どれくらい他所（よそ）でもやれるかどうかさ",
+ST_TalkResult/BUNTA_BIGWIN_SEGMENT2,まぁ あんたなら余裕だろ,
+ST_TalkResult/BUNTA_BIGWIN_SEGMENT3,"（イカン 血がさわぎ出した・・）
+（そろそろ本気でこいつとバトルしてみるか・・）",
+ST_TalkResult/BUNTA_BIGWIN_SEGMENT4,"あんたの走りには理論もあるが・・
+年季がかった職人の世界を感じるな",
+ST_TalkResult/BUNTA_JUSTWIN_SEGMENT1,"あそこまでもつれてたら
+最後は運で決まるようなもんだ",
+ST_TalkResult/BUNTA_JUSTWIN_SEGMENT2,"気にくわねーな
+負けてないうちは　まだどっかに余裕が残ってるってことだろ",
+ST_TalkResult/BUNTA_JUSTWIN_SEGMENT3,"なんだ 勝ったのか・・　
+ボチボチ負けてみ　負けることから得るものは多いぜ‥",
+ST_TalkResult/BUNTA_JUSTLOSE_SEGMENT1,"あそこまでもつれてたら
+最後は運で決まるようなもんだ",
+ST_TalkResult/BUNTA_JUSTLOSE_SEGMENT2,"ギリギリ負けってところか
+わるくはねーと思ったけどな",
+ST_TalkResult/BUNTA_JUSTLOSE_SEGMENT3,"（勝とうが負けようが　どっちでもいいと思ってたけど）
+（なんか自分が負けるよりくやしいような気分だな・・）",
+ST_TalkResult/BUNTA_BIGLOSE_SEGMENT1,"おいおい調子悪いのか？
+秋名でオレと走った時はそんなんじゃなかったろ",
+ST_TalkResult/BUNTA_BIGLOSE_SEGMENT2,"調子悪いのか？
+ふつーに走れてりゃ負けやしねーだろ",
+ST_TalkResult/BUNTA_BIGLOSE_SEGMENT3,"（・・スランプか？）
+（まぁ 疑問と迷いをかかえこんだまま走りつづけてみるんだな）",
+ST_TalkResult/BUNTA_MIDDLE_SEGMENT1,まあまあだな,
+ST_TalkResult/BUNTA_MIDDLE_SEGMENT2,"ずいぶん もつれたバトルだったが・・
+まあ それはそれで得られるものはあるだろ",
+ST_TalkResult/BUNTA_MIDDLE_SEGMENT3,"集団のバトルでもやることはいっしょだ
+いつもどおり走れてりゃ負けやしねーだろ",
+ST_TalkResult/NATSUKI_WIN_SEGMENT1,"勝ったみたいだね！
+おめでとう！",
+ST_TalkResult/NATSUKI_WIN_SEGMENT2,"あいかわらず すごい！
+おめでとう！",
+ST_TalkResult/NATSUKI_WIN_SEGMENT3,"なんとなくあなたが勝つと思ってたよ！
+おめでとう！",
+ST_TalkResult/NATSUKI_WIN_SEGMENT4,"理論・・？とかは なつきはよくわかんないけど
+あなたからは拓海くんと似た雰囲気を感じるなァ・・",
+ST_TalkResult/NATSUKI_BIGWIN_SEGMENT1,"こんなに差をつけて勝っちゃうなんて・・
+すごい！（・・んだよね・・たぶん）",
+ST_TalkResult/NATSUKI_BIGWIN_SEGMENT2,"すごーい！
+なつきもなんかスカッとしたよー！",
+ST_TalkResult/NATSUKI_BIGWIN_SEGMENT3,"気持ちいいぐらい圧勝だね！
+なつきもめちゃめちゃ楽しかったよー！",
+ST_TalkResult/NATSUKI_BIGWIN_SEGMENT4,"理論・・？とかは なつきはよくわかんないけど
+あなたからは拓海くんと似た雰囲気を感じるなァ・・",
+ST_TalkResult/NATSUKI_JUSTWIN_SEGMENT1,"わー！ギリギリ！
+なつきもハラハラしちゃったよー！",
+ST_TalkResult/NATSUKI_JUSTWIN_SEGMENT2,"ギリギリだったね・・！
+なつきもハラハラしちゃったよー！",
+ST_TalkResult/NATSUKI_JUSTWIN_SEGMENT3,"ギリギリで勝っちゃうなんて！
+もおーかっこよすぎるー！",
+ST_TalkResult/NATSUKI_JUSTLOSE_SEGMENT1,"おしいーっ！
+すごくハラハラしちゃったよー！",
+ST_TalkResult/NATSUKI_JUSTLOSE_SEGMENT2,"おしいーっ！
+でも次は絶対勝てるよね！",
+ST_TalkResult/NATSUKI_JUSTLOSE_SEGMENT3,"惜しかったね・・
+なつきもブルーな気分・・",
+ST_TalkResult/NATSUKI_BIGLOSE_SEGMENT1,ちょっとー！あのクルマ速すぎるよー！,
+ST_TalkResult/NATSUKI_BIGLOSE_SEGMENT2,"もー！　もうちょっと手加減してくれてもいいのにー！
+あなたもそう思うよね！",
+ST_TalkResult/NATSUKI_BIGLOSE_SEGMENT3,"もしかして・・調子悪い・・？
+今日はまったりと走ってもいいんじゃないかな",
+ST_TalkResult/NATSUKI_MIDDLE_SEGMENT1,"・・
+（クルマいっぱいでよくわからなかった・・）",
+ST_TalkResult/NATSUKI_MIDDLE_SEGMENT2,あんなにクルマいっぱいの中で走るの大変そうだね・・,
+ST_TalkResult/NATSUKI_MIDDLE_SEGMENT3,"もうひと踏ん張り！
+次は絶対勝てるよね！",

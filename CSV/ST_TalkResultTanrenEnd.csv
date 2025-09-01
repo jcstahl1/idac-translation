@@ -253,3 +253,40 @@ ST_TanrenEnd/SAKAI_BONUS4_SEGMENT2,"あんたと一緒にいると オレも学�
 また誘ってくれ",
 ST_TanrenEnd/SAKAI_BONUS4_SEGMENT3,"ふっ あんたと出会ったことは
 オレにとっても ラッキーなことだと思ってるぜ",
+ST_TanrenEnd/BUNTA_BONUS1_SEGMENT1,じゃあな,
+ST_TanrenEnd/BUNTA_BONUS1_SEGMENT2,じゃあな・・気が向いたらまた来てやるよ,
+ST_TanrenEnd/BUNTA_BONUS1_SEGMENT3,じゃあな・・また店にでも来てくれ,
+ST_TanrenEnd/BUNTA_BONUS2_SEGMENT1,ほーう,
+ST_TanrenEnd/BUNTA_BONUS2_SEGMENT2,まあまあ よかったんじゃねえか,
+ST_TanrenEnd/BUNTA_BONUS2_SEGMENT3,あんたならもっといい鍛錬ができるだろ,
+ST_TanrenEnd/BUNTA_BONUS3_SEGMENT1,ほーう　まあまあやるな,
+ST_TanrenEnd/BUNTA_BONUS3_SEGMENT2,そこそこよかったんじゃねえか,
+ST_TanrenEnd/BUNTA_BONUS3_SEGMENT3,"（またひとつ・・レベルアップしやがったか）
+（くそーっ　教えるのやめようかな）",
+ST_TanrenEnd/BUNTA_BONUS4_SEGMENT1,"・・・・
+（こいつ 思ったよりやるな）",
+ST_TanrenEnd/BUNTA_BONUS4_SEGMENT2,"・・・・
+（相変わらず覚えるの早いなー こいつ）",
+ST_TanrenEnd/BUNTA_BONUS4_SEGMENT3,"（またひとつ・・レベルアップしやがったか）
+（くそーっ　教えるのやめようかな）",
+ST_TanrenEnd/NATSUKI_BONUS1_SEGMENT1,"約束があるからそろそろ行かないと・・
+じゃあね！",
+ST_TanrenEnd/NATSUKI_BONUS1_SEGMENT2,"約束があるからそろそろ行かないと・・
+じゃあまたね！",
+ST_TanrenEnd/NATSUKI_BONUS1_SEGMENT3,"約束があるからそろそろ行かないと・・
+じゃあね！　またさそってね！",
+ST_TanrenEnd/NATSUKI_BONUS2_SEGMENT1,"（拓海くんがはまっている世界をのぞいてみようと来たけど）
+（意外と面白いかも・・？）",
+ST_TanrenEnd/NATSUKI_BONUS2_SEGMENT2,いっぱい走ったね！おつかれさま！,
+ST_TanrenEnd/NATSUKI_BONUS2_SEGMENT3,"いっぱい走ったね！
+またさそってくれるとうれしいな",
+ST_TanrenEnd/NATSUKI_BONUS3_SEGMENT1,"（拓海くんがはまっている世界をのぞいてみようと来たけど）
+（けっこう面白いかも・・？）",
+ST_TanrenEnd/NATSUKI_BONUS3_SEGMENT2,すごーく速かったよ！おつかれさま！,
+ST_TanrenEnd/NATSUKI_BONUS3_SEGMENT3,"なつきも楽しかったよ！
+またさそってくれるとうれしいな",
+ST_TanrenEnd/NATSUKI_BONUS4_SEGMENT1,"（拓海くんがはまっている世界をのぞいてみようと来たけど）
+（ちょっとやみつきになっちゃうかも・・？）",
+ST_TanrenEnd/NATSUKI_BONUS4_SEGMENT2,すごーい！めちゃめちゃ速かったよー！,
+ST_TanrenEnd/NATSUKI_BONUS4_SEGMENT3,"上手だよね　クルマの運転
+あなたの運転だったら 車酔いしないかも・・ ",
